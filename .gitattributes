@@ -1,0 +1,3 @@
+# Keep the release byte for byte.
+lean/** -text
+manifests/*.sha256 -text linguist-generated

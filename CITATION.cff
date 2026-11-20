@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "To cite the Lean source of the claimed proof, cite the original release by Levent Alpöge. This repository is an exact copy of it."
+title: "Lean 4 formalization of a claimed proof of the Riemann Hypothesis"
+type: software
+authors:
+  - family-names: "Alpöge"
+    given-names: "Levent"
+    website: "https://alpo.ge"
+date-released: "2026-11-20"
+version: "release-2026-11-20"
+url: "https://alpo.ge/remark.pdf"
+repository-code: "https://github.com/tamnd/riemann-lean"
+abstract: "A Lean 4 and Mathlib project of 175,187 files that states and claims to prove the Riemann Hypothesis and the Generalized Riemann Hypothesis for Dirichlet L-functions. The author describes it in the note remark.pdf."
+keywords:
+  - lean4
+  - mathlib
+  - riemann-hypothesis
+  - generalized-riemann-hypothesis
+  - formal-verification
+  - number-theory
+identifiers:
+  - type: url
+    value: "https://alpo.ge/lean.tar.gz.part01"
+    description: "First of 14 archive parts"
+  - type: other
+    value: "sha256:9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc"
+    description: "SHA-256 of lean.tar.gz, the 14 parts in order"
+references:
+  - type: report
+    title: "remark.pdf"
+    authors:
+      - family-names: "Alpöge"
+        given-names: "Levent"
+    url: "https://alpo.ge/remark.pdf"
+    date-released: "2026-11-20"

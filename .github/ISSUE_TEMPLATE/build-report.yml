@@ -1,0 +1,31 @@
+name: Build report
+description: Report the result of a build of lean/.
+labels: [area/verify]
+body:
+  - type: input
+    id: machine
+    attributes:
+      label: Machine
+      description: CPU, number of cores, memory and operating system.
+    validations:
+      required: true
+  - type: input
+    id: commit
+    attributes:
+      label: Commit
+      description: The commit of this repository that you built.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Result
+      description: The time, the peak memory, the size of lean/.lake and the last lines of the build log.
+    validations:
+      required: true
+  - type: textarea
+    id: axioms
+    attributes:
+      label: Output of print axioms
+      description: The output of the axiom check in docs/BUILD.md.
+      render: text
