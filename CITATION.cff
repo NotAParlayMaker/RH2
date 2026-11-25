@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "To cite the Lean source of the claimed proof, cite the original release by Levent Alpöge. This repository is a copy of it, with one-file directories flattened (see SOURCE.md)."
+message: "To cite the Lean source of the claimed proof, cite the original release by Levent Alpöge. This repository is a copy of it, with one-file directories flattened and the patches in patches/ applied (see SOURCE.md)."
 title: "Lean 4 formalization of a claimed proof of the Riemann Hypothesis"
 type: software
 authors:

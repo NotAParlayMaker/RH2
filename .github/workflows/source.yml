@@ -36,6 +36,7 @@ jobs:
       - name: undo the layout and check the release hashes
         run: |
           cp -r lean "$RUNNER_TEMP/lean"
+          (cd "$RUNNER_TEMP" && for p in $(ls "$GITHUB_WORKSPACE"/patches/*.patch | LC_ALL=C sort -r); do git apply -R "$p"; done)
           python3 scripts/restructure.py --undo manifests/moves.tsv "$RUNNER_TEMP/lean"
           cd "$RUNNER_TEMP"
           sha256sum --check --quiet --strict "$GITHUB_WORKSPACE/manifests/release-files.sha256"
@@ -45,6 +46,7 @@ jobs:
         run: |
           python3 scripts/restructure.py --moves "$RUNNER_TEMP/moves.tsv" "$RUNNER_TEMP/lean"
           diff manifests/moves.tsv "$RUNNER_TEMP/moves.tsv"
+          (cd "$RUNNER_TEMP" && for p in $(ls "$GITHUB_WORKSPACE"/patches/*.patch | LC_ALL=C sort); do git apply "$p"; done)
           diff -r lean "$RUNNER_TEMP/lean"
 
   upstream:

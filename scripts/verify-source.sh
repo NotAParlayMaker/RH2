@@ -1,5 +1,5 @@
 #!/bin/sh
-# Download the release from https://alpo.ge again, check it, apply scripts/restructure.py and compare the result with lean/.
+# Download the release from https://alpo.ge again, check it, apply scripts/restructure.py and the patches in patches/, and compare the result with lean/.
 # Usage: scripts/verify-source.sh [work-directory]
 # The script exits with code 0 when each hash matches and each file is the same. It needs curl, tar, python3 (3.11 or later) and sha256sum or shasum.
 set -eu
@@ -45,14 +45,19 @@ if ! diff -q moves.tsv "$root/manifests/moves.tsv" >/dev/null; then
 	exit 1
 fi
 
+echo "apply the patches in patches/"
+for p in $(ls "$root"/patches/*.patch | LC_ALL=C sort); do
+	(cd tree && git apply "$p")
+done
+
 echo "compare the result with lean/"
 (cd tree && sha -c --quiet "$root/manifests/files.sha256")
 (cd tree && find lean -type f | LC_ALL=C sort) > result.txt
-(cd "$root" && find lean -type f | LC_ALL=C sort) > local.txt
+(cd "$root" && find lean -path lean/.lake -prune -o -type f -print | LC_ALL=C sort) > local.txt
 if ! diff -q result.txt local.txt >/dev/null; then
 	echo "the file lists are not the same:"
 	diff result.txt local.txt | head -20
 	exit 1
 fi
 (cd "$root" && sha -c --quiet "$root/manifests/files.sha256")
-echo "ok: lean/ is the release after scripts/restructure.py"
+echo "ok: lean/ is the release after scripts/restructure.py and patches/"

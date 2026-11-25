@@ -1,6 +1,6 @@
 # riemann-lean
 
-This repository holds the Lean 4 source of the claimed proof of the Riemann Hypothesis by Levent Alpöge. The source is the release of 2026-11-20 from https://alpo.ge. The only change is a mechanical one: files that were alone in a directory now replace that directory, and the `import` lines follow (refer to [SOURCE.md](SOURCE.md)).
+This repository holds the Lean 4 source of the claimed proof of the Riemann Hypothesis by Levent Alpöge. The source is the release of 2026-11-20 from https://alpo.ge. Files that were alone in a directory now replace that directory, and the `import` lines follow. Proof changes are kept as reviewable patches in `patches/`. Refer to [SOURCE.md](SOURCE.md).
 
 The author describes the work in the note [remark.pdf](https://alpo.ge/remark.pdf). The note says that the Lean code proves the Riemann Hypothesis and the Generalized Riemann Hypothesis for Dirichlet L-functions. This repository does not make that claim. It keeps the source in a form that people can read, cite, search and build.
 
