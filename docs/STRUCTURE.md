@@ -55,3 +55,7 @@ The proof goes down from `Main` in this order:
 The names in step 6 say "literature" and "published", but the code does not assume these results. The structure `UpperTheory.LiteratureTheorems.OpenLiteratureStatements` has three fields, and `MainConclusion.lean` gives a proof for each. Each named result is a theorem with a proof in the release, for example `PositivityTheory.PfDR.deligneRibet_holds` for the Deligne-Ribet theorem.
 
 The written explanation of each step is in tamnd/riemann and at https://riemann.tamnd.com.
+
+## Exceptional-zero input
+
+The [Landau–Page comparison](LANDAU-PAGE.md) traces the rational prime-counting hypothesis used in the short-interval argument and compares it with the shifted-prime estimate of Krause, Mousavi, Tao, and Teräväinen.
