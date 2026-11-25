@@ -9,6 +9,3 @@ theorem UpperTheory.FinalTheorems.everyCharacter_of_row (h : UpperTheory.GalStar
 
 theorem UpperTheory.FinalTheorems.everyCharacter : UpperTheory.EveryCharacter :=
   UpperTheory.FinalTheorems.everyCharacter_of_row UpperTheory.Gal.Int.galoisLocalGlobalStrong_recParameter
-
-theorem UpperTheory.FinalTheorems.riemannHypothesis : RiemannHypothesis :=
-  UpperTheory.riemannHypothesis_of_everyCharacter UpperTheory.FinalTheorems.everyCharacter

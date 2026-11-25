@@ -12,6 +12,3 @@ theorem rhOfAll : RiemannHypothesis := Claim.zeta allChi
 theorem critAll (N : ℕ) [NeZero N] (χ : DirichletCharacter ℂ N) (_ : χ.IsPrimitive) (s : ℂ)
     (h0 : 0 < s.re) (h1 : s.re < 1) (hz : LFunction χ s = 0) : s.re = 1 / 2 :=
   stripAll N χ s h0 h1 hz
-
-theorem claimAll : Claim.HalfPlane ∧ Claim.Strip ∧ Claim.Zeta :=
-  ⟨allChi, stripAll, rhOfAll⟩
