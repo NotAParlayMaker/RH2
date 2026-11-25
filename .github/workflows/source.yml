@@ -28,9 +28,9 @@ jobs:
         run: sha256sum --check --quiet --strict manifests/files.sha256
       - name: check that lean/ has no other files
         run: |
-          find lean -type f | LC_ALL=C sort > local.txt
-          cut -c67- manifests/files.sha256 | LC_ALL=C sort > manifest.txt
-          diff manifest.txt local.txt
+          find lean -type f | LC_ALL=C sort > "$RUNNER_TEMP/local.txt"
+          cut -c67- manifests/files.sha256 | LC_ALL=C sort > "$RUNNER_TEMP/manifest.txt"
+          diff "$RUNNER_TEMP/manifest.txt" "$RUNNER_TEMP/local.txt"
       - name: check that the layout is final
         run: python3 scripts/restructure.py --check
       - name: undo the layout and check the release hashes
