@@ -9,6 +9,9 @@ on:
       - lean/lakefile.toml
       - lean/lake-manifest.json
       - lean/lean-toolchain
+      - lean/src/Statements.lean
+      - scripts/audit-proof.sh
+      - scripts/audit-statements.lean
       - .github/workflows/build-small.yml
 
 permissions:
@@ -20,7 +23,7 @@ concurrency:
 
 jobs:
   statements:
-    name: lake build Statements
+    name: Statements audit
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
@@ -35,6 +38,5 @@ jobs:
       - name: get the Mathlib cache
         working-directory: lean
         run: lake exe cache get
-      - name: build the statements
-        working-directory: lean
-        run: lake build Statements
+      - name: build and audit the statements
+        run: scripts/audit-proof.sh
