@@ -25,7 +25,7 @@ scripts/audit-proof.sh --full
 scripts/audit-proof.sh --full /absolute/path/to/lean4lean
 ```
 
-- The default builds `Statements` and checks that the zeta statement agrees definitionally with Mathlib's `RiemannHypothesis`. It also checks the quantifiers, hypotheses and conclusions of the three Dirichlet L-function statements against the formulas in [the statement audit](../scripts/audit-statements.lean). In particular, the right-half-plane statement excludes the principal character at `s = 1`, and both zeros-on-the-line statements apply in the open critical strip.
+- The default builds `Statements` and checks that the zeta statement agrees definitionally with Mathlib's `RiemannHypothesis`. It also checks the quantifiers, hypotheses and conclusions of the three Dirichlet L-function statements against the formulas in [the statement audit](../scripts/audit-statements.lean). It also compiles the [analytic reductions](../proof/AnalyticReductions.lean) from right-half-plane nonvanishing. In particular, the right-half-plane statement excludes the principal character at `s = 1`, and both zeros-on-the-line statements apply in the open critical strip.
 - `--full` also builds `Main` and prints the transitive axioms of each of its five exported theorems. The audit fails if any axiom falls outside `propext`, `Classical.choice` and `Quot.sound`.
 - Passing a compatible [lean4lean](https://github.com/digama0/lean4lean) executable also replays `Main` and its imports in the independent checker. Build the checker outside this repository with a revision compatible with `lean/lean-toolchain`. The full build and the independent replay can each require substantial resources.
 

@@ -20,8 +20,9 @@ if [ "$#" -eq 2 ]; then
 fi
 
 cd "$(dirname "$0")/../lean"
-lake build Statements
+lake build Statements +Development.AutomorphicArithmetic.CharacterBoxes.ClaimStrip
 lake env lean ../scripts/audit-statements.lean
+lake env lean ../proof/AnalyticReductions.lean
 
 if [ "$mode" = "--full" ]; then
   lake build +Main

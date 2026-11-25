@@ -55,3 +55,13 @@ The proof goes down from `Main` in this order:
 The names in step 6 say "literature" and "published", but the code does not assume these results. The structure `UpperTheory.LiteratureTheorems.OpenLiteratureStatements` has three fields, and `MainConclusion.lean` gives a proof for each. Each named result is a theorem with a proof in the release, for example `PositivityTheory.PfDR.deligneRibet_holds` for the Deligne-Ribet theorem.
 
 The written explanation of each step is in tamnd/riemann and at https://riemann.tamnd.com.
+
+## Checking the analytic reductions in isolation
+
+[AnalyticReductions.lean](../proof/AnalyticReductions.lean) states the short route from right-half-plane nonvanishing to the public conclusions. Run `scripts/audit-proof.sh` to check these implications without building the nonvanishing theorem or importing `Main`.
+
+- `Claim.strip` transfers a zero of an imprimitive character to its primitive character because the missing Euler factors are nonzero when `Re(s) > 0`. For a zero left of the critical line it then uses the primitive functional equation to obtain a zero at `1 - s` for the inverse character. That zero contradicts right-half-plane nonvanishing. A zero to the right contradicts the same hypothesis directly.
+- The primitive-character conclusion follows by specializing the all-character strip result. This route needs no second reflection argument.
+- `Claim.zeta` applies the strip argument to the character of modulus one. It handles the region outside the strip using the completed zeta functional equation and Mathlib's nonvanishing for `Re(s) ≥ 1`. `Claim.zeta_iff` connects the result to Mathlib's `RiemannHypothesis`.
+
+This check leaves right-half-plane nonvanishing as an explicit hypothesis. The full audit checks the release's proof of that hypothesis through `Main`.
