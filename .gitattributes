@@ -2,3 +2,4 @@
 lean/** -text
 manifests/*.sha256 -text linguist-generated
 manifests/moves.tsv -text linguist-generated
+patches/*.patch -text

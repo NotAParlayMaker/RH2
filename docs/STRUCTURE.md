@@ -46,9 +46,9 @@ The five files `BuildAid/D1.lean` to `D5.lean` each run one command. The command
 The proof goes down from `Main` in this order:
 
 1. `Main.lean`: `riemannHypothesis : RiemannHypothesis := rhOfAll`.
-2. `Supplements/Kernels/MainTheorems.lean`: `rhOfAll := Formalism.VW.rh_of_every allChi`, with `allChi := UpperTheory.FinalTheorems.everyCharacter`.
+2. `Supplements/Kernels/MainTheorems.lean`: `rhOfAll := Claim.zeta allChi` and `stripAll := Claim.strip allChi`, with `allChi := UpperTheory.FinalTheorems.everyCharacter`.
 3. `Development/AutomorphicArithmetic/CharacterBoxes/EveryCharacter.lean`: `UpperTheory.EveryCharacter` says that `DirichletCharacter.LFunction χ s ≠ 0` for each Dirichlet character χ and each s with `1 / 2 < s.re`, except χ = 1 with s = 1.
-4. `Formalism/GammaFactorNonvanishing/CritLine.lean` and `RhOfRight.lean`: `rh_of_every` takes the trivial character mod 1 and uses the functional equation of ζ for the left half of the strip. These proofs use Mathlib only.
+4. `Development/AutomorphicArithmetic/CharacterBoxes/ClaimStrip.lean`: `Claim.strip` reflects a zero in the critical strip to `1 - s` with the functional equation of the completed L-function, for every Dirichlet character. `Claim.zeta` does the same for ζ with the completed zeta function. `Claim.HalfPlane` is the same proposition as `UpperTheory.EveryCharacter`. These proofs use Mathlib only. (The release also had a second copy of this step in `Formalism/GammaFactorNonvanishing`; `patches/0001-single-top-bridge.patch` removes it.)
 5. `Development/AutomorphicArithmetic/CharacterBoxes/MainConclusion.lean`: `everyCharacter` comes from `everyCharacter_of_row` and `UpperTheory.Gal.Int.galoisLocalGlobalStrong_recParameter`.
 6. `Development/AutomorphicArithmetic/ThetaCorrespondence/ThetaPairLifts/ThirdPlaceSeries/EveryCharacterOfLiteratureOfVWin.lean`: `every_character_of_literature_of_vWin` joins many named results.
 

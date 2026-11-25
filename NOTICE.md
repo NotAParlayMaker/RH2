@@ -4,7 +4,7 @@ The files in `lean/` are the work of Levent Alpöge, released at https://alpo.ge
 
 The release has no licence file and no licence statement. Copyright in these files stays with the author. This repository keeps an exact copy for study, citation, search and verification. It does not grant a licence to the files in `lean/`, and it does not add one.
 
-We did not change the content of the declarations in `lean/`. We moved 781 files out of one-file directories and changed the `import` lines that name them. Refer to [SOURCE.md](SOURCE.md) for the step and the hashes.
+We moved 781 files out of one-file directories and changed the `import` lines that name them. We changed proofs only through the patches in `patches/`, each of which says what it changes and why. Refer to [SOURCE.md](SOURCE.md) for the step and the hashes.
 
 If you are the author and you want a change to this copy, or want us to remove it, open an issue or write to the owner of this repository. We will do it at once.
 
