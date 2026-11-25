@@ -10,6 +10,9 @@ on:
       - lean/lake-manifest.json
       - lean/lean-toolchain
       - lean/src/Statements.lean
+      - lean/src/Development/AutomorphicArithmetic/CharacterBoxes/HalfPlane.lean
+      - lean/src/Development/AutomorphicArithmetic/CharacterBoxes/ClaimStrip.lean
+      - proof/AnalyticReductions.lean
       - scripts/audit-proof.sh
       - scripts/audit-statements.lean
       - .github/workflows/build-small.yml
@@ -23,7 +26,7 @@ concurrency:
 
 jobs:
   statements:
-    name: Statements audit
+    name: Statements and reductions audit
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
@@ -38,5 +41,5 @@ jobs:
       - name: get the Mathlib cache
         working-directory: lean
         run: lake exe cache get
-      - name: build and audit the statements
+      - name: audit statements and analytic reductions
         run: scripts/audit-proof.sh
