@@ -33,6 +33,19 @@ jobs:
           diff manifest.txt local.txt
       - name: check that the layout is final
         run: python3 scripts/restructure.py --check
+      - name: undo the layout and check the release hashes
+        run: |
+          cp -r lean "$RUNNER_TEMP/lean"
+          python3 scripts/restructure.py --undo manifests/moves.tsv "$RUNNER_TEMP/lean"
+          cd "$RUNNER_TEMP"
+          sha256sum --check --quiet --strict "$GITHUB_WORKSPACE/manifests/release-files.sha256"
+          find lean -type f | LC_ALL=C sort > undone.txt
+          cut -c67- "$GITHUB_WORKSPACE/manifests/release-files.sha256" | LC_ALL=C sort | diff - undone.txt
+      - name: redo the layout and compare with lean/
+        run: |
+          python3 scripts/restructure.py --moves "$RUNNER_TEMP/moves.tsv" "$RUNNER_TEMP/lean"
+          diff manifests/moves.tsv "$RUNNER_TEMP/moves.tsv"
+          diff -r lean "$RUNNER_TEMP/lean"
 
   upstream:
     name: release at alpo.ge gives lean/

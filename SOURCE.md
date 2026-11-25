@@ -37,4 +37,4 @@ The archive does not have the `.lake` directory or build output.
 
 ## Check
 
-Run `scripts/verify-source.sh`. It downloads the release, checks it against `manifests/release-files.sha256`, applies `scripts/restructure.py`, and exits with code 0 when the result is the same as `lean/`. The workflow `source` runs `sha256sum -c manifests/files.sha256` and `scripts/restructure.py --check` on each push, and the full check every week.
+Run `scripts/verify-source.sh`. It downloads the release, checks it against `manifests/release-files.sha256`, applies `scripts/restructure.py`, and exits with code 0 when the result is the same as `lean/`. The workflow `source` runs the offline part on each push: it checks `manifests/files.sha256`, runs `scripts/restructure.py --check`, undoes the layout with `--undo manifests/moves.tsv` and checks the result against `manifests/release-files.sha256`, then applies the layout again and compares it with `lean/`. So each push shows that `lean/` is the release after the script, without a download. The download from alpo.ge runs every week.
