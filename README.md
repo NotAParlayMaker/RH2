@@ -12,6 +12,7 @@ The written explanation of the proof is in [tamnd/riemann](https://github.com/ta
 |---|---|
 | The tree is the same as the release | yes, see [SOURCE.md](SOURCE.md) and `manifests/files.sha256` |
 | Text scan for `sorry`, `admit`, `axiom`, `native_decide` and other escape hatches | no hits, see [docs/SCAN.md](docs/SCAN.md) |
+| A reading of the source: every input of the trunk theorem comes from a proved term | yes, see [the trust report](https://riemann.tamnd.com/trust/) |
 | Full build with the pinned toolchain | not done yet |
 | `#print axioms riemannHypothesis` | not done yet |
 | Replay in a second kernel | not done yet |
@@ -48,6 +49,12 @@ theorem LFunction_eq_zero_re_of_isPrimitive : PrimitiveDirichletLZerosOnLine := 
 ```
 
 `RiemannHypothesis` is the definition in Mathlib. The other four statements are in `lean/src/Statements.lean`.
+
+## Read the proof
+
+- The [proof chapters](https://riemann.tamnd.com/proof/) explain the top of the proof in words. There are 12 chapters, from the statement of RH down to the theta lifts. Each chapter gives the definitions and theorems of its part, with the Lean name under each statement and a proof in words.
+- The [handbook](https://github.com/tamnd/riemann-handbook/releases) has the same text, the background and the development volumes, as PDF and EPUB.
+- The [trust report](https://riemann.tamnd.com/trust/) says what is checked and what is not.
 
 ## Size
 
