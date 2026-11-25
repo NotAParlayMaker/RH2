@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TupleActions.InstMulActionTup
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TupleActions
 
 open UpperTheory.V.Af.BA in
 theorem UpperTheory.adelic_rep_dimension_bounded :

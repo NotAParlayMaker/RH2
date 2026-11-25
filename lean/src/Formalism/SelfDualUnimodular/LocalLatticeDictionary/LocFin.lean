@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.LatDictZAbs
-import Lemmata.Denominators.Denom
+import Lemmata.Denominators
 
 noncomputable section
 

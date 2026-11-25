@@ -1,6 +1,6 @@
 import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.TwistClassAssociation.ElemAssoc
-import Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.LocalUnitNormIndex.LocalUnitNormIndex
+import Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.LocalUnitNormIndex
 
 noncomputable section
 

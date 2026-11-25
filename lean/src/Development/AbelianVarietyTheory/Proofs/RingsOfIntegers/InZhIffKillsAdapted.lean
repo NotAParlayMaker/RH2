@@ -1,5 +1,5 @@
 import Mathlib
-import Development.AbelianVarietyTheory.Definitions.PlaceAdaptation.AdaptStd
+import Development.AbelianVarietyTheory.Definitions.PlaceAdaptation
 import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.InZhGeoInjStable
 
 open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField IsLocalRing

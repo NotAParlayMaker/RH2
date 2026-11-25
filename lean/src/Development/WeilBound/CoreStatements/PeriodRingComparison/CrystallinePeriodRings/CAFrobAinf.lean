@@ -1,6 +1,6 @@
 import Mathlib
 import Development.WeilBound.CoreStatements.PeriodRingComparison.CrystallinePeriodRings.AcrisNAlgebraMapAinf
-import Development.WeilBound.CoreStatements.PeriodRingComparison.AinfAlgebraMaps.CAAlgebraMapGOC
+import Development.WeilBound.CoreStatements.PeriodRingComparison.AinfAlgebraMaps
 import Development.WeilBound.CoreStatements.CrystallinePeriodRings.FrobAinfMapFrobenius
 
 noncomputable section

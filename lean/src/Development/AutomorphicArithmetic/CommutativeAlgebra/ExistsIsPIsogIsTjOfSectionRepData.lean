@@ -1,5 +1,5 @@
 import Mathlib
-import Development.AutomorphicArithmetic.SpecialMaps.QuotObjDefs
+import Development.AutomorphicArithmetic.SpecialMaps
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorTypeTjIsogeniesRepresentable
 
 open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField

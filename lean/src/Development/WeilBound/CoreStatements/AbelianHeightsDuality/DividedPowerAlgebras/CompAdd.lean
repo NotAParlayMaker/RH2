@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.RatBasisLinearIndependentInt
-import Development.WeilBound.LevelCriteria.IsLevOneIff
+import Development.WeilBound.LevelCriteria
 
 set_option autoImplicit false
 

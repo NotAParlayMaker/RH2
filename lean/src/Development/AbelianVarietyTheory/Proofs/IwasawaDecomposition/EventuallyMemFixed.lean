@@ -2,7 +2,7 @@ import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.StrongMultiplicityOne
 import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ExistsSpanFormsNeBot
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.IsUnitaryOfCharIff
-import Formalism.LocalToGlobal.PlaceMapInjectivity.MapPlInjective
+import Formalism.LocalToGlobal.PlaceMapInjectivity
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsFixedOfMemISup
 open NumberField IsDedekindDomain
 

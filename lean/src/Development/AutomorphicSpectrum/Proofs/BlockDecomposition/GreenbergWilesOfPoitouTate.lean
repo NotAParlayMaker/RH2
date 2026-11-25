@@ -1,5 +1,5 @@
 import Mathlib
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.PairSums.SumPair
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.PairSums
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SelmerGroupDualExactStatement
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteDualAll
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GreenbergWilesFormulaStatement

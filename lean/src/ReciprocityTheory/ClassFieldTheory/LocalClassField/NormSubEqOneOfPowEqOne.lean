@@ -1,7 +1,7 @@
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.UnrDefs
-import Lemmata.PadicNatCastNorm.NormNatCastOfNotDvd
-import Lemmata.FirstBlockLemmaC.Imports
-import Lemmata.FirstBlockLemmaD.Imports
+import Lemmata.PadicNatCastNorm
+import Lemmata.FirstBlockLemmaC
+import Lemmata.FirstBlockLemmaD
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField.UnramifiedExtensions
 

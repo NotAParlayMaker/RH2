@@ -1,5 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.FormalDegree.HaarVolumes.TriDens
-import Lemmata.CurryModusPonens.CurryMp
+import Lemmata.CurryModusPonens
 
 noncomputable section
 

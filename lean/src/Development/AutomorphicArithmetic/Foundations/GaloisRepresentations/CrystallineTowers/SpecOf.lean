@@ -1,4 +1,4 @@
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.HodgeTateResidues.HodgeTateSpectral.HTSpecGood
+import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.HodgeTateResidues.HodgeTateSpectral
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.CrystallineTowers.SigCEq
 
 set_option autoImplicit false

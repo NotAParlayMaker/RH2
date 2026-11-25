@@ -1,6 +1,6 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.FourthHypothesisOfLifting
 import Formalism.LocalToGlobal.NormalizedHeckeFactors.GlobalDatumRegularityOfTypesCompatibility
-import Development.WeilBound.CoreStatements.FiniteTypeHarishChandra.IntertwiningIsomorphisms.IsoIffIntertwiningHolds
+import Development.WeilBound.CoreStatements.FiniteTypeHarishChandra.IntertwiningIsomorphisms
 
 noncomputable section
 

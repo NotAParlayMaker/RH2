@@ -7,7 +7,7 @@ import Formalism.LocalToGlobal.TorsionIntegrality.QuadraticSemicharacters.Quadra
 import Formalism.LocalToGlobal.TorsionIntegrality.QuadraticSemicharacters.CayleyGaussianIntegrals.SubstSingleVar
 import Formalism.LocalToGlobal.TorsionIntegrality.TorsionTranslationPowers.NonsingularJetNorms.ConstantCoeffInVarEqZero
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.CoeffSubstLgFOfDegreeOne
-import Formalism.LocalToGlobal.Divisibility.JetBounds.JetCounting.ScaledNorms.GcmHostPf
+import Formalism.LocalToGlobal.Divisibility.JetBounds.JetCounting.ScaledNorms
 
 noncomputable section
 open scoped BigOperators ComplexConjugate

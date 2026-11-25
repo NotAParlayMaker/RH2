@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.HeckeLAdicCharacterDeRham
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.DeRhamJacobian.IsdRJ
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.DeRhamJacobian
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasPeriods
 import Development.WeilBound.CoreStatements.PlaceConnectedComponents.IsOpenQuotientMapArt0
 import GroundTheory.LocalFields.ConductorReciprocity

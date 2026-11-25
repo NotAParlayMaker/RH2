@@ -1,5 +1,5 @@
 import Mathlib
-import Formalism.SharpRestriction.Divisibility.StatementFT.PeriodPointConditions
+import Formalism.SharpRestriction.Divisibility.StatementFT
 import Formalism.LocalToGlobal.HilbertRowConditions.RowPin
 import Formalism.LocalToGlobal.HermitianForms.TiedBrRep
 import Formalism.LocalRingCardinality.PosOfIsomEmb

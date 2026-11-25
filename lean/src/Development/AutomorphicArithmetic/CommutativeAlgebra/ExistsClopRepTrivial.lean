@@ -1,5 +1,5 @@
 import Mathlib
-import Development.AutomorphicArithmetic.RepresentationRank.RepOfRank
+import Development.AutomorphicArithmetic.RepresentationRank
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.IsIsoIffBijectiveOverAlgClosed
 
 open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory

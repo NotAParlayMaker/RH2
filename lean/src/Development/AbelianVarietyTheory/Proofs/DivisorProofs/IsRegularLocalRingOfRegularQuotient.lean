@@ -1,5 +1,5 @@
 import Mathlib
-import ReciprocityTheory.CommutativeAlgebra.MaximalIdealSquares.RingKrullDimQuotientSpanSingletonAddOne
+import ReciprocityTheory.CommutativeAlgebra.MaximalIdealSquares
 open IsLocalRing TensorProduct
 
 namespace GlobalTheory.RegularAscent

@@ -3,7 +3,7 @@ import GroundTheory.ProfiniteCohomology.PoitouTate.PoitouTateInfinite.Restrict
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.BrauerFrob
 import GroundTheory.ProfiniteCohomology.RestrictedRamification.ClassFieldGSUnram
 import GroundTheory.ProfiniteCohomology.GlobalClassFormation.IdeleCohomology.Ramified
-import GroundTheory.ArithmeticGeometry.SelmerPairing.Unramified
+import GroundTheory.ArithmeticGeometry.SelmerPairing
 set_option maxSynthPendingDepth 1
 
 namespace GroundTheory.ProfCoh

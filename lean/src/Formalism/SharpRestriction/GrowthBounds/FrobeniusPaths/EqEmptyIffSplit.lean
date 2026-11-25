@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.StatementOfDegreeAndBound
-import Lemmata.GeneralBFactLeftFurther.Imports
+import Lemmata.GeneralBFactLeftFurther
 
 noncomputable section
 

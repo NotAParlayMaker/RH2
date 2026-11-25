@@ -1,6 +1,6 @@
 # Contributing
 
-This repository keeps an exact copy of a release. Do not change the files in `lean/`. A pull request that changes `lean/` fails the workflow `source`.
+This repository keeps a copy of a release. `lean/` is the release after `scripts/restructure.py` (refer to [SOURCE.md](SOURCE.md)). Do not change the files in `lean/` by hand. A change to the layout goes in `scripts/restructure.py`, with new `manifests/files.sha256` and `manifests/moves.tsv`. A pull request that changes `lean/` any other way fails the workflow `source`.
 
 You can help in these ways:
 

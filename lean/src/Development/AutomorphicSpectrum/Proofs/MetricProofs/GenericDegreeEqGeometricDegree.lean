@@ -1,6 +1,6 @@
 import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsGenDegGeomDeg
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.BlowupProjections.BlowupProjStatement
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.BlowupProjections
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterNamed
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PGenDegGeomDeg
 import Development.AutomorphicSpectrum.Proofs.MetricProofs.DegreeGenericOfDegree

@@ -1,4 +1,4 @@
-import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.CommutingInverses.InvCommOfComm
+import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.CommutingInverses
 
 noncomputable section
 

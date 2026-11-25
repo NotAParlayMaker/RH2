@@ -8,7 +8,7 @@ import Formalism.LocalToGlobal.Divisibility.CoefModLemmas
 import Formalism.HarderNarasimhan.ShiftInvariance
 import Formalism.QuotientMetricDivisors.ReductionLemmaZero
 import Formalism.QuotientMetricDivisors.ProdFormula
-import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.RealCubicMeans.LeafBounds.MeanMaxLeaf.LeafMMFree
+import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.RealCubicMeans.LeafBounds.MeanMaxLeaf
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IntMvPolynomialCoeffAbsSumEqSumOfSupportSubset
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.MfactLeFactorialPow
 open NumberField IsDedekindDomain MvPolynomial Formalism.BasicNotions Formalism.L2.DIV Formalism.DivisionValues GlobalTheory.TestLat Formalism.L2.Indef.Tree.ArchimedeanLeafBounds.Cuts

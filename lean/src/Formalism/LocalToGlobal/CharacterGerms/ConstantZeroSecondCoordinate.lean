@@ -1,6 +1,6 @@
 import Formalism.LocalToGlobal.CharacterGerms.UnitSeriesFrobenius
 import Formalism.LocalToGlobal.CharacterGerms.RowTiePGerm
-import Formalism.DropLevelBounds.ConstantCoeffVanishing.UbintConstantCoeffEqZero
+import Formalism.DropLevelBounds.ConstantCoeffVanishing
 
 noncomputable section
 

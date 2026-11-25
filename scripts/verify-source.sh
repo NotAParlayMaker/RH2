@@ -1,7 +1,7 @@
 #!/bin/sh
-# Download the release from https://alpo.ge again and compare it with the tree in lean/.
+# Download the release from https://alpo.ge again, check it, apply scripts/restructure.py and compare the result with lean/.
 # Usage: scripts/verify-source.sh [work-directory]
-# The script exits with code 0 when each hash matches and each file is the same. It needs curl, tar and sha256sum or shasum.
+# The script exits with code 0 when each hash matches and each file is the same. It needs curl, tar, python3 (3.11 or later) and sha256sum or shasum.
 set -eu
 
 root=$(cd "$(dirname "$0")/.." && pwd)
@@ -27,16 +27,32 @@ cd "$work"
 echo "check the archive"
 grep ' lean.tar.gz$' "$root/manifests/release.sha256" | sha -c -
 
-echo "unpack and check each file"
+echo "unpack and check each file of the release"
+rm -rf tree && mkdir tree
 tar xzf lean.tar.gz -C tree
-(cd tree && sha -c --quiet "$root/manifests/files.sha256")
-
-echo "check that lean/ has no other files"
+(cd tree && sha -c --quiet "$root/manifests/release-files.sha256")
 (cd tree && find lean -type f | LC_ALL=C sort) > released.txt
-(cd "$root" && find lean -type f | LC_ALL=C sort) > local.txt
-if ! diff -q released.txt local.txt >/dev/null; then
-	echo "the file lists are not the same:"
-	diff released.txt local.txt | head -20
+if ! cut -c67- "$root/manifests/release-files.sha256" | diff -q - released.txt >/dev/null; then
+	echo "the release has files that are not in manifests/release-files.sha256"
 	exit 1
 fi
-echo "ok: lean/ is the same as the release"
+
+echo "apply scripts/restructure.py to the release"
+python3 "$root/scripts/restructure.py" --moves moves.tsv tree/lean
+if ! diff -q moves.tsv "$root/manifests/moves.tsv" >/dev/null; then
+	echo "the moves are not the same as manifests/moves.tsv:"
+	diff moves.tsv "$root/manifests/moves.tsv" | head -20
+	exit 1
+fi
+
+echo "compare the result with lean/"
+(cd tree && sha -c --quiet "$root/manifests/files.sha256")
+(cd tree && find lean -type f | LC_ALL=C sort) > result.txt
+(cd "$root" && find lean -type f | LC_ALL=C sort) > local.txt
+if ! diff -q result.txt local.txt >/dev/null; then
+	echo "the file lists are not the same:"
+	diff result.txt local.txt | head -20
+	exit 1
+fi
+(cd "$root" && sha -c --quiet "$root/manifests/files.sha256")
+echo "ok: lean/ is the release after scripts/restructure.py"

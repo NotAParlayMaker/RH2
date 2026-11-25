@@ -1,7 +1,7 @@
 import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.HilbertNinetyQuotientHomEqIff
 import Formalism.SharpRestriction.GlobalSchurBounds.GeneralLinearActions.GenusMassVolumes
-import ReciprocityTheory.GeneralLinearIntegers.AlgebraMapIntMemOint
+import ReciprocityTheory.GeneralLinearIntegers
 
 open NumberField IsDedekindDomain
 

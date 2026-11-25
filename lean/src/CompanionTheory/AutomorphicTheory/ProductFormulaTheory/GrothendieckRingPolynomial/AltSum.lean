@@ -2,7 +2,7 @@ import Mathlib
 import CompanionTheory.AutomorphicTheory.ProductFormulaTheory.GrothendieckRingPolynomial.ProdList
 import CompanionTheory.AutomorphicTheory.ProductFormulaTheory.GrothendieckRingPolynomial.AltComb
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.StableLattices.CuspidalTwistInjectiveImports
-import CompanionTheory.AutomorphicTheory.TemperedLocalSpectra.BernsteinZelevinsky.TopAdm
+import CompanionTheory.AutomorphicTheory.TemperedLocalSpectra.BernsteinZelevinsky
 
 noncomputable section
 

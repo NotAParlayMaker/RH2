@@ -1,5 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.HtDefs
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.GaussHeights.PlaceSumHeights.PlaceSumStatements.PlaceSumTheorem.HtPlacesSum
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.GaussHeights.PlaceSumHeights.PlaceSumStatements.PlaceSumTheorem
 
 namespace ReciprocityTheory.ChartRestriction.G.T0
 

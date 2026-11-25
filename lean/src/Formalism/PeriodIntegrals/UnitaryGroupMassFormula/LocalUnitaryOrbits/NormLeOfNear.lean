@@ -1,6 +1,6 @@
 import Mathlib
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LandherrUnitNorm.UnitNormLoc
-import Lemmata.GeneralBFactLeft.Imports
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LandherrUnitNorm
+import Lemmata.GeneralBFactLeft
 
 noncomputable section
 

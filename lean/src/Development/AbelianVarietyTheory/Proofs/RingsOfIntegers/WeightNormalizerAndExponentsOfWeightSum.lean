@@ -1,5 +1,5 @@
 import Mathlib
-import Development.AbelianVarietyTheory.Statements.ShortVectorBound.ScaledLatticesInSupLattices
+import Development.AbelianVarietyTheory.Statements.ShortVectorBound
 
 set_option autoImplicit false
 noncomputable section

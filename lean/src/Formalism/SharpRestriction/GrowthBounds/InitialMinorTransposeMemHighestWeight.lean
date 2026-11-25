@@ -15,7 +15,7 @@ import Formalism.SharpRestriction.GrowthBounds.RootWeights.MemBoundedDegreeExpon
 import Formalism.SharpRestriction.GrowthBounds.CountingStatementReduction
 import Formalism.GradedWeylDivisibility.FinalC
 import Formalism.GradedWeylDivisibility.FinalD
-import Lemmata.MiscLemmasE.Imports
+import Lemmata.MiscLemmasE
 
 noncomputable section
 

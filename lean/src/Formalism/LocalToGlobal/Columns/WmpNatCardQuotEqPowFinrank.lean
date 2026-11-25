@@ -1,6 +1,6 @@
 import Formalism.LocalToGlobal.Columns.WmLemmas
 import Formalism.FlagUnipotentLattices.IdealCountLeWAsm
-import Lemmata.GeneralBFactRightMore.Imports
+import Lemmata.GeneralBFactRightMore
 
 noncomputable section
 

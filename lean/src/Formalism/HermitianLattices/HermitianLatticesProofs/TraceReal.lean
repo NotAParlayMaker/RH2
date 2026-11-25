@@ -1,7 +1,7 @@
 import Mathlib
 import Formalism.HermitianLattices.DefsCS
 import Formalism.HermitianLattices.HermitianLatticesProofs.ThetaSummable
-import Lemmata.GeneralBFactSecondSide.Imports
+import Lemmata.GeneralBFactSecondSide
 
 open Module Matrix
 

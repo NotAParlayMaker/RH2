@@ -1,5 +1,5 @@
 import Mathlib
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteGlobalStability.GenStable
+import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteGlobalStability
 import GroundTheory.AutomorphicForms.GL2.FiniteAdeleDecomp
 
 noncomputable section

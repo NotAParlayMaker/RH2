@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.HomologyRank.RankHomology
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.HomologyRank
 
 private theorem index_closed_dyadic_subgroup {G H A : Type} [Group G] [Group H] [Group A] [Finite A] (j : G →* H) (hj : Function.Injective j)
     (f : G →* A) (K : Subgroup G) :

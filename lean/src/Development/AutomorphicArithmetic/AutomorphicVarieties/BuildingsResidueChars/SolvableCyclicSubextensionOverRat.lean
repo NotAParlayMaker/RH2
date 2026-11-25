@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.SignAgreement.ExistsCompositumWithPrimeDegreeGalois
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.SignAgreement
 import Mathlib.NumberTheory.PrimesCongruentOne
 import Mathlib.NumberTheory.Cyclotomic.Gal
 import Mathlib.FieldTheory.Galois.Abelian

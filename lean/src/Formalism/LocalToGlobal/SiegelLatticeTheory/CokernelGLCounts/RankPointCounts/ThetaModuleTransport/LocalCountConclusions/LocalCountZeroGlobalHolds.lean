@@ -1,5 +1,5 @@
 import Mathlib
-import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.ThetaModuleTransport.HeadColumnCoordinates.ThetaLocalCount.LocCnt0GOfTheta
+import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.ThetaModuleTransport.HeadColumnCoordinates.ThetaLocalCount
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.ThetaModuleTransport.LocalCountConclusions.ThetaMbe0True
 
 namespace Formalism.L2.SG.LocalCountModules

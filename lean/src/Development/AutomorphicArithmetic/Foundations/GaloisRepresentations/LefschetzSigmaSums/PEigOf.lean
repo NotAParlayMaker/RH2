@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.LefschetzSigmaSums.HeckeTraceSemi
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.SimultaneousEigenvectors.SimEig
+import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.SimultaneousEigenvectors
 open UpperTheory.Gal.LocalSmoothExtension
 
 namespace UpperTheory.Gal.LocalSmoothExtension

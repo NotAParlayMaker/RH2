@@ -1,7 +1,7 @@
 import Mathlib
 import Development.AutomorphicArithmetic.ThetaCorrespondence.LocalComparison.CoeTo1
 import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.HeckeLAdicCharacterDeRham
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.DeRhamJacobian.IsdRJ
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.DeRhamJacobian
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasPeriods
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsUnitDetEmbMat
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.FinrankDdRFinsum

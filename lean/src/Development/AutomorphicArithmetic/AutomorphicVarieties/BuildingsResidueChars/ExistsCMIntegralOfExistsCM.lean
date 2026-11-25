@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TupleActions.InstMulActionTup
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TupleActions
 
 open NumberField in
 theorem UpperTheory.exists_CM_integral_of_exists_CM :

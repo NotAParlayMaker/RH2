@@ -1,6 +1,6 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnipotentCorrectionU1.CoreStar
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SumEqSumCompEmbedding
-import Lemmata.B110.ExistsMoved
+import Lemmata.B110
 
 open Matrix
 

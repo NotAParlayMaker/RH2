@@ -48,7 +48,7 @@ import Development.WeilBound.ThetaLifts.EigenvalueEndgame.CuspidalAverages.ColOp
 import Development.WeilBound.ThetaLifts.EigenvalueEndgame.CuspidalAverages.CuspOfLineOfKeys
 import Development.WeilBound.ThetaLifts.EigenvalueEndgame.OrthogonalDecomposition.SigThConstFin
 import Development.WeilBound.ThetaLifts.Reductions.WeightConstants.ConstOfGood
-import Development.WeilBound.ThetaLifts.Reductions.TopPolarZero.PolZero
+import Development.WeilBound.ThetaLifts.Reductions.TopPolarZero
 import Development.WeilBound.ThetaLifts.Reductions.JoinTriOf
 import Development.WeilBound.ThetaLifts.Reductions.ArchimedeanMatchedMapsCompare
 import Development.WeilBound.ThetaLifts.Reductions.ArchLie

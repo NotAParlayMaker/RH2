@@ -1,7 +1,7 @@
 import Mathlib
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.HalvesFreeAndAdjoint
 import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ExistsQuotEquiv
-import Development.AbelianVarietyTheory.Definitions.PlaceAdaptation.AdaptStd
+import Development.AbelianVarietyTheory.Definitions.PlaceAdaptation
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.PlaceIdem
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.ChartValJ
 

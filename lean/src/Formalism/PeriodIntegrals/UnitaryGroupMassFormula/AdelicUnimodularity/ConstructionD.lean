@@ -1,5 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.KCountable
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnimodularIndex.PairwiseDisjointCosets
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnimodularIndex
 
 noncomputable section
 

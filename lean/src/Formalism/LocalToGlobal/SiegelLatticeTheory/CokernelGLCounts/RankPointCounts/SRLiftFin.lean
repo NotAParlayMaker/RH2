@@ -1,7 +1,7 @@
 import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.SRLiftM
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.DualFamilyCounting.NotIntDensOfSteps
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IntegralityUnderRingMap.MemIntegerOfIsIntegralMap
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IntegralityUnderRingMap
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.DualCountBound.HaarIdx
 
 noncomputable section

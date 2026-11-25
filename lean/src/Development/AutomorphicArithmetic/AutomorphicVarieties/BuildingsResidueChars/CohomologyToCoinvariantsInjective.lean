@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.HomologyRank.RankHomology
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.HomologyRank
 
 open scoped Matrix
 

@@ -1,5 +1,5 @@
 import Mathlib
-import Development.AbelianVarietyTheory.Definitions.PlaceAdaptation.AdaptStd
+import Development.AbelianVarietyTheory.Definitions.PlaceAdaptation
 import Formalism.FrobeniusOrbits.HostCorollaries
 import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.DiscrB
 import Formalism.FrobeniusOrbits.FrobeniusOrbitsProofs.DiscriminantRealSubfield

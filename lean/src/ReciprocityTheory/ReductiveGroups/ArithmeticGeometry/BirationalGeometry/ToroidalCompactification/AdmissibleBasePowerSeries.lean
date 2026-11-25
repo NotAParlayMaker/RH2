@@ -1,5 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.SabMapCubical
-import ReciprocityTheory.AdicCompleteness.IsAdicCompleteComapConstantCoeff
+import ReciprocityTheory.AdicCompleteness
 
 noncomputable section
 

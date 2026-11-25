@@ -1,5 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.HtDefs
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.GaussHeights.GenericPointHeight.GenericPointStatements.GenericPointTheorem.HtGenericPt
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.HeightTheory.GaussHeights.GenericPointHeight.GenericPointStatements.GenericPointTheorem
 
 namespace ReciprocityTheory.ChartRestriction.G.T0
 

@@ -1,5 +1,5 @@
 import Mathlib
-import CompanionTheory.SpectralGeometry.CountingDefinitions.VoronoiMeans.VorFunEvalEqFineMean
+import CompanionTheory.SpectralGeometry.CountingDefinitions.VoronoiMeans
 import CompanionTheory.SpectralGeometry.LocalGlobalProofs.ConvexCones.VorFunValueLe
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.HostGeneratorPowFourTraceNormModEight
 

@@ -1,5 +1,5 @@
 import Mathlib
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.PairSums.SumPair
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.PairSums
 import ReciprocityTheory.Hypotheses.GalCoh
 
 noncomputable section

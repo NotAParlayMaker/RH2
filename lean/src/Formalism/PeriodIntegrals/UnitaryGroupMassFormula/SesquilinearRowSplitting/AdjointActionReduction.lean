@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SesquilinearRowSplitting.CoreStep
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CMTraceSurjective.IsTrMulConjOfMem
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CMTraceSurjective
 
 open NumberField Formalism.BasicNotions Formalism.MainNotions.S
 

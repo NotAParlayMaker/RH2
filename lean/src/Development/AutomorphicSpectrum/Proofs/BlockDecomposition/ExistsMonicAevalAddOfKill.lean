@@ -1,5 +1,5 @@
 import Mathlib
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.AffineGLForms.CuspInvariantsFinite.CuspInvFin
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.AffineGLForms.CuspInvariantsFinite
 import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.CuspRapidDecaySiegelGL
 import GroundTheory.AutomorphicForms.CuspidalDiscreteness.CuspFormsHeight
 import GroundTheory.AutomorphicForms.CuspidalDiscreteness.DecayUniform

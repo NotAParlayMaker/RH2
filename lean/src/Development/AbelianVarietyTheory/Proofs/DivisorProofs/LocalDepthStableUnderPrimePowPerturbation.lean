@@ -1,6 +1,6 @@
 import Development.AbelianVarietyTheory.Definitions.Divisors.PolyBetween
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.LocalValuationColumns
-import Development.AbelianVarietyTheory.Definitions.PlaceAdaptation.AdaptStd
+import Development.AbelianVarietyTheory.Definitions.PlaceAdaptation
 import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.DescentPf
 open AlgebraicGeometry CategoryTheory NumberField IsLocalRing IsDedekindDomain Formalism.BasicNotions Formalism.MainNotions Formalism.L2.Pj ReciprocityTheory.PGsh

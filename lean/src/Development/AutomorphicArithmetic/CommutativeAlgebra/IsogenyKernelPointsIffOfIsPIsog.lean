@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.SpecialMaps.QuotObjDefs
+import Development.AutomorphicArithmetic.SpecialMaps
 import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsDimEqOne
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HomTorsionFree
 import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.ConnectedSpaceSpecOfIsLocalRing

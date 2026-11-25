@@ -1,5 +1,5 @@
 import Mathlib
-import Formalism.AlphaUniqueness.Statement
+import Formalism.AlphaUniqueness
 import Formalism.LatticeTheta.Statement
 import Formalism.HermitianLattices.StatementLat
 

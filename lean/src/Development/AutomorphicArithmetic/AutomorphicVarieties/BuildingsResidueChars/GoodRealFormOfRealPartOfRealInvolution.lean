@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TupleActions.InstMulActionTup
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TupleActions
 import Development.AutomorphicArithmetic.AutomorphicVarieties.HermiteNormalForms.Imports
 
 open NumberField UpperTheory.V UpperTheory.V.KT UpperTheory.V.Af.BA in

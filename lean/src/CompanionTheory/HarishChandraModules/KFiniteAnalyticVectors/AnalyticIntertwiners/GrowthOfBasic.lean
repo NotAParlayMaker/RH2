@@ -1,5 +1,5 @@
 import CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AnalyticIntertwiners.Clause1
-import CompanionTheory.AutomorphicTheory.HarishChandraMultiplicity.HCMult
+import CompanionTheory.AutomorphicTheory.HarishChandraMultiplicity
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.DiscreteSeriesExistence.BridgeExpK
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.AnalyticVectors.Unitary
 import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeCPX

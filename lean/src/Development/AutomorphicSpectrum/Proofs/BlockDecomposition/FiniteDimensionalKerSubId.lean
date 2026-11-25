@@ -1,5 +1,5 @@
 import Mathlib
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.AffineGLForms.CuspInvariantsFinite.CuspInvFin
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.AffineGLForms.CuspInvariantsFinite
 open NumberField GlobalTheory.CuspRep MeasureTheory PositivityTheory.Affgl
 
 namespace GlobalTheory.CompanionTheory.CompactFix

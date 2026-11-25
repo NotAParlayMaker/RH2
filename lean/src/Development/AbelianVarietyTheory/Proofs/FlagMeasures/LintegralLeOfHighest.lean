@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.PeriodIntegrals.IsLowUnitH
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerSmoothStability.ExistsFinStableOfMemSSup
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerSmoothStability
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.CayleyExistsAndAny
 
 open Matrix MeasureTheory

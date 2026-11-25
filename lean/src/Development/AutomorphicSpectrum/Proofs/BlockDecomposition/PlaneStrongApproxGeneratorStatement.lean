@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.PlaneStrongApproxGenerator
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.PlaneSupports.PlaneSupp
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.PlaneSupports
 open Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes IsDedekindDomain NumberField GlobalTheory.Published Sa2
 open scoped TensorProduct
 set_option maxHeartbeats 1000000 in

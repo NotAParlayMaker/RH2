@@ -1,6 +1,6 @@
 import Mathlib
 import GroundTheory.HeightsAndTheta.Heights.DiscreteValuationNumbers.StatementsBundles
-import GroundTheory.HeightsAndTheta.Heights.IterateExamples.Statements
+import GroundTheory.HeightsAndTheta.Heights.IterateExamples
 
 namespace GlobalTheory.CompanionTheory.Ar.Num
 

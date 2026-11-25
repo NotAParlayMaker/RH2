@@ -1,6 +1,6 @@
 import Mathlib
 import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.UnramifiedWhittaker.BasisSet
-import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.CompactCovering.NCovAd
+import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.CompactCovering
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.ImportsExtraMore
 
 noncomputable section

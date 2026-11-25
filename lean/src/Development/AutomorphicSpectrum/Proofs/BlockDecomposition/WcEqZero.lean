@@ -2,7 +2,7 @@ import Mathlib
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.RationalPrimesBelowPlaces
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.SquareIntegrable.SSmooth
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.TemperedBoundGL2
-import GroundTheory.LocalFields.QuadraticAbelian.WeilRepQuadratic
+import GroundTheory.LocalFields.QuadraticAbelian
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSmoothCharCompNorm
 
 noncomputable section

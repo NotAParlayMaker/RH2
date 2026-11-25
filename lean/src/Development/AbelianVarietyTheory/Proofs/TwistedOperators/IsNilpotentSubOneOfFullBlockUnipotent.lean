@@ -24,7 +24,7 @@ import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FiniteSmooth
 import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.GreenCuspidalIff
 import Formalism.LocalToGlobal.Divisibility.DefGroupLemmas
 import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
-import Development.AutomorphicArithmetic.ExponentialBounds.BadShareWin
+import Development.AutomorphicArithmetic.ExponentialBounds
 
 noncomputable section
 

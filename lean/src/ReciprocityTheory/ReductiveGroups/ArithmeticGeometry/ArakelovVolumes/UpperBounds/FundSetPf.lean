@@ -1,6 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.ExtFStatementPfA
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.ExhaustFStatementPfD
-import Lemmata.GeneralBFactTer.Imports
+import Lemmata.GeneralBFactTer
 
 namespace ReciprocityTheory.ChartRestriction.G.AR.Up.FundSetPf
 

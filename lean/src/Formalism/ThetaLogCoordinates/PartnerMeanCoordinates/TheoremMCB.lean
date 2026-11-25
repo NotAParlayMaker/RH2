@@ -1,4 +1,4 @@
-import Formalism.ThetaLogCoordinates.PartnerDischarge.PartnerDischargeProofs.GammaZeroIntegralLogBound
+import Formalism.ThetaLogCoordinates.PartnerDischarge.PartnerDischargeProofs
 
 namespace Formalism.InvariantFactorPaths.MC
 

@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.OddDualWeylJacobian.JacRev
-import Lemmata.GeneralBFactRightAlt.Imports
+import Lemmata.GeneralBFactRightAlt
 
 open MvPolynomial Matrix
 

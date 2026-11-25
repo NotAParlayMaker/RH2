@@ -1,5 +1,5 @@
 import Formalism.HermitianCurvature.BesselNonvanishingReduction
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerSmoothStability.ExistsFinStableOfMemSSup
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerSmoothStability
 import Development.AbelianVarietyTheory.BlockTheory.JetGauges.SideNormalisedGap
 import Development.AbelianVarietyTheory.Counterexamples.JetSurvey.KFinDecayOfDecInf
 

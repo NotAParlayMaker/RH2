@@ -1,5 +1,5 @@
 import Mathlib
-import ReciprocityTheory.AdicCompleteness.IsAdicCompleteComapConstantCoeff
+import ReciprocityTheory.AdicCompleteness
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.NormLeOneOfMemOL
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ConstantCoeffTeichSub
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.UnramifiedIntegersTensorEqLetterwiseProductAinf

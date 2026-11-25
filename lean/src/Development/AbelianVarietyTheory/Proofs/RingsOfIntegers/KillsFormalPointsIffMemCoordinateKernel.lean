@@ -1,5 +1,5 @@
 import Mathlib
-import Development.AbelianVarietyTheory.Definitions.PlaceAdaptation.AdaptStd
+import Development.AbelianVarietyTheory.Definitions.PlaceAdaptation
 import Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.FormalGroupPointsOfIntegralChartSpecStatement
 
 set_option autoImplicit false

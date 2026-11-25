@@ -1,7 +1,7 @@
 import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PolFanCarrierDimensionBounded
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsBaryStageStart
-import CompanionTheory.SpectralGeometry.CountingDefinitions.VoronoiMeans.VorFunEvalEqFineMean
+import CompanionTheory.SpectralGeometry.CountingDefinitions.VoronoiMeans
 
 set_option autoImplicit false
 

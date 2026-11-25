@@ -1,5 +1,5 @@
 import Formalism.AdmissibleDesigns.CoboundaryMemFiniteClasses
-import Formalism.AdicCompletionExports.AdicCompleteRingEquiv.IsAdicCompleteOfRingEquiv
+import Formalism.AdicCompletionExports.AdicCompleteRingEquiv
 
 variable [hT2Core : Fact ReciprocityTheory.ChartRestriction.T2.Core]
 

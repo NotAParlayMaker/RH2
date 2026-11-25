@@ -1,5 +1,5 @@
 import Mathlib
-import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.LocallyConstantMajorants.TemperedDerivatives.StepsD
+import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.LocallyConstantMajorants.TemperedDerivatives
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzStable
 
 noncomputable section

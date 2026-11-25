@@ -1,7 +1,7 @@
 import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MemParabolicOfFlagPreserving
 import Mathlib
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.RegularClassTraces.RegClassFin
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.RegularClassTraces
 import Development.WeilBound.ThetaLifts.Reductions.SiegelCore
 import Development.WeilBound.ThetaLifts.Reductions.SiegelOfCore
 import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.ConstantTermVanishing

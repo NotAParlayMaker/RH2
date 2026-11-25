@@ -1,5 +1,5 @@
 import Mathlib
-import Development.AbelianVarietyTheory.Definitions.PlaceAdaptation.AdaptStd
+import Development.AbelianVarietyTheory.Definitions.PlaceAdaptation
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.PushMemHarmK
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.ColumnMapShift
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.FFVMap

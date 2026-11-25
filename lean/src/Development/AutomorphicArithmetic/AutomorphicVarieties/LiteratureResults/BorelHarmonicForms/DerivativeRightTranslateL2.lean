@@ -1,7 +1,7 @@
 import Mathlib
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.DeRham
 import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.WignerHighestWeights.IsAlgIsoRefl
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.HomologyRank.RankHomology
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.HomologyRank
 import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.CuspDiscreteDecompositionGL
 
 noncomputable section

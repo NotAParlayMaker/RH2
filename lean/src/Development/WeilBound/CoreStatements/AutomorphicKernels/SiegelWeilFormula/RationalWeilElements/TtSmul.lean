@@ -1,4 +1,4 @@
-import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.WeylTheta.TWeylOf
+import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.WeylTheta
 import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.DarbouxCharts.DarbouxAnti
 
 noncomputable section

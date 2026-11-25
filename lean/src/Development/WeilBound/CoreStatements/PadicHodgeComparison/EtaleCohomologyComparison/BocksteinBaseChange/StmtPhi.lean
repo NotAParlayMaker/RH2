@@ -1,7 +1,7 @@
 import Mathlib
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.IsUnitWitt
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.BocksteinBaseChange.BcrisRegularPeriodRing
-import Development.WeilBound.RepresentationTheoryGL.PeriodRingBases.PeriodRingUnits.DieudonneManinBasisModification
+import Development.WeilBound.RepresentationTheoryGL.PeriodRingBases.PeriodRingUnits
 
 set_option backward.isDefEq.respectTransparency false
 

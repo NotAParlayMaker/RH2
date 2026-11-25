@@ -1,4 +1,4 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowExpansionMinor.FirstColumnSplitBijective
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RowExpansionMinor
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QmRowForm
 
 theorem quantum_minor_row_expansion : PI.QmRowExp := PI.qmRowExp_of_rowForm quantum_minor_row_form

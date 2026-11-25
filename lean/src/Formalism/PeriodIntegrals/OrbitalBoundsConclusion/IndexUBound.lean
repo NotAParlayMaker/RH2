@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.PeriodIntegrals.IndexUBound
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IndexUpperBound.OneSubSumLeProd
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IndexUpperBound
 
 theorem product_lowerBound : PI.IndexUBound.IndexUBound := by
   classical

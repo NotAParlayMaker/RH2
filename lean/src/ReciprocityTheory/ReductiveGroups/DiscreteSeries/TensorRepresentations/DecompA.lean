@@ -1,5 +1,5 @@
 import Mathlib
-import Lemmata.PowerApplication.PowApp
+import Lemmata.PowerApplication
 
 noncomputable section
 

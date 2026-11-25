@@ -1,3 +1,3 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianCovectors.HermBvecLeft
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianCovectors
 
 theorem covector_entries : Formalism.FourierDecayAlt.C3.XiYZhat := CovecW.covec_entries

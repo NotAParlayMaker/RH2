@@ -1,6 +1,6 @@
 import Mathlib
 import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.HodgeWedgeFields.IsPullbackH2Structure
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.LeftZeroDuality.H1StructureDimLe
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.LeftZeroDuality
 
 set_option autoImplicit false
 

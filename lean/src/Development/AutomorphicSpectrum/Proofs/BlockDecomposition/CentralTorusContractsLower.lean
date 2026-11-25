@@ -1,4 +1,4 @@
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.MetaplecticLowRank.LowC
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.MetaplecticLowRank
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsCentralContract
 
 noncomputable section

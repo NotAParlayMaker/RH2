@@ -1,4 +1,4 @@
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.WeilThetaConvergence.WeilThetaConvergenceOfSiegelSet
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.WeilThetaConvergence
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.SiegelSetUnitary
 
 namespace PositivityTheory.Rg.Sw.Glob

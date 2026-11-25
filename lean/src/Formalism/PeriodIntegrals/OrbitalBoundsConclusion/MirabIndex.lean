@@ -1,5 +1,5 @@
 import Mathlib
 import Formalism.PeriodIntegrals.MirabIndex
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MirabolicIndex.RowMulOfMirab
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MirabolicIndex
 
 theorem mirabolic_index : PI.MirabIndex.MirabIndex := PI.MirabolicIndex₂.mirabIndex

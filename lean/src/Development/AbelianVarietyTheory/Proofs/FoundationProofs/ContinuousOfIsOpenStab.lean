@@ -1,4 +1,4 @@
-import CompanionTheory.EightfoldTheory.VariationTheory.PublishedTheorems.ImportsAlt
+import CompanionTheory.EightfoldTheory.VariationTheory.PublishedTheorems
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.Hypotheses2
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.RTwist
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.DiscreteTopologyRatN

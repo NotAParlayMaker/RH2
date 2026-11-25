@@ -1,5 +1,5 @@
 import Mathlib
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.MetaplecticLowRank.LowC
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.MetaplecticLowRank
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ApplyMemTwKerOfNormalizer
 
 noncomputable section

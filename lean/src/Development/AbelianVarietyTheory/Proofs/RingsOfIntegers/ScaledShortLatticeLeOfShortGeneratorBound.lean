@@ -1,5 +1,5 @@
 import Mathlib
-import Development.AbelianVarietyTheory.Statements.ShortVectorBound.ScaledLatticesInSupLattices
+import Development.AbelianVarietyTheory.Statements.ShortVectorBound
 import Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.RamifiedPrimeLossLeValuationPrimePowerStatement
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.ThcAssembly
 

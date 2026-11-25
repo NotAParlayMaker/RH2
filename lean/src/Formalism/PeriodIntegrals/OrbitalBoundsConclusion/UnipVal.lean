@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.PeriodIntegrals.UnipVal
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnipotentValuation.VwIntEqZero
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnipotentValuation
 
 theorem unipVal : PI.UnipVal.UnipVal := fun _ _ _ w =>
   ⟨fun n hn => PI.UnitaryGroupMassFormula.UnipVal.Main.part1 w n hn,

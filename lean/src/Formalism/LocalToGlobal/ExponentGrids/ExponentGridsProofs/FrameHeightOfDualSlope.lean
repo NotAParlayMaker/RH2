@@ -11,7 +11,7 @@ import Formalism.PairingDivisors.PairingDivisorProofs.Height
 import Formalism.PairingDivisors.PairingDivisorProofs.SumValuationNat
 import Formalism.PairingDivisors.PairingDivisorProofs.ValAdd
 import Formalism.TowerValuationBounds.TowerValuationProofs.SumAdditiveCharacterEqZero
-import Lemmata.PlaneOverMembership.PlOverOfMem
+import Lemmata.PlaneOverMembership
 
 open Module NumberField IsDedekindDomain Finset
 open Formalism.DivisionValues (vw lw PlOver meanLog)

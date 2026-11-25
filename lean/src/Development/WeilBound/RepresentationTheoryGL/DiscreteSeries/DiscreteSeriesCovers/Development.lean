@@ -4,7 +4,7 @@ import ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.Exis
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.Exists
 import Development.AbelianVarietyTheory.Statements.CuspFrameWeights.DiscreteSpectrumKFiniteDecomposition
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.KTypesAboveOfDsClass
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.DiscreteSeriesSU.GapInv
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.DiscreteSeriesSU
 
 noncomputable section
 

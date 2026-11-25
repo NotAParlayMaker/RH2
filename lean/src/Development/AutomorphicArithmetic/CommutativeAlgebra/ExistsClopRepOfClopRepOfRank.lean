@@ -1,5 +1,5 @@
 import Mathlib
-import Development.AutomorphicArithmetic.RepresentationRank.RepOfRank
+import Development.AutomorphicArithmetic.RepresentationRank
 import Development.AutomorphicArithmetic.CommutativeAlgebra.ClopProjFiniteEtaleOfIsClosed
 import Development.AutomorphicArithmetic.CommutativeAlgebra.ClopProjFinrankPullback
 

@@ -4,7 +4,7 @@ import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.RatHerm
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.IdxChange
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.LocBasis
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ReductionLemmaFirst
-import Lemmata.HermitianVanishing.KeyZero
+import Lemmata.HermitianVanishing
 
 open Module NumberField IsDedekindDomain
 open scoped Matrix ComplexOrder

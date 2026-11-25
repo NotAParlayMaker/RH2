@@ -1,5 +1,5 @@
 import Mathlib
-import Formalism.PeriodIntegrals.AdmissibleModel.WeylDim
+import Formalism.PeriodIntegrals.AdmissibleModel
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.BlockAnti
 import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.FormalDegreeCompactDualIff
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIntertwinerOfSameHarishChandraParamUnitary

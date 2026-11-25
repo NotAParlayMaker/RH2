@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.AtBase
-import Development.AbelianVarietyTheory.Counterexamples.TransversalityLocal.FramePairFixatorUnitaryAndFixesFrame
+import Development.AbelianVarietyTheory.Counterexamples.TransversalityLocal
 
 open ValuativeRel Formalism.MainNotions.S Formalism.MainNotions.S.Loc Formalism.MainNotions.S.LocNG GlobalTheory.LocOver
 open scoped Classical

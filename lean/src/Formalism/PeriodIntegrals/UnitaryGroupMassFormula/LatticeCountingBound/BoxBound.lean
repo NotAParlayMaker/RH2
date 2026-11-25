@@ -1,7 +1,7 @@
 import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeCountingBound.BoxBoundAlt
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SymmetricDistance.SymDistOf
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeMultiplicity.EncardLeOfFinset
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SymmetricDistance
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeMultiplicity
 
 noncomputable section
 

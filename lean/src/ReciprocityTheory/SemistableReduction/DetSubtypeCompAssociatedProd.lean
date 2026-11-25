@@ -1,7 +1,7 @@
 import Mathlib
 import ReciprocityTheory.SemistableReduction.ComapInclusionIsLocalHom
-import Lemmata.GeneralBFactLast.Imports
-import Lemmata.GeneralBFactTail.Imports
+import Lemmata.GeneralBFactLast
+import Lemmata.GeneralBFactTail
 
 namespace ReciprocityTheory.MultiplicativeHeights
 

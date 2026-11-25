@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.PeriodIntegrals.PhSchurConv
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SchurConvolution.MapMulApply
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SchurConvolution
 
 theorem schur_orthogonality_idempotent : PI.PhSchurConv.SchurConv := by
   open MeasureTheory in

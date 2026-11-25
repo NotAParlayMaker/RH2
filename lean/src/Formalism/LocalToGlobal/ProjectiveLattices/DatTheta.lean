@@ -1,6 +1,6 @@
 import Mathlib
-import Lemmata.FirstBlockLemmaH.Imports
-import Lemmata.GeneralBFactThirdVariant.Imports
+import Lemmata.FirstBlockLemmaH
+import Lemmata.GeneralBFactThirdVariant
 
 noncomputable section
 

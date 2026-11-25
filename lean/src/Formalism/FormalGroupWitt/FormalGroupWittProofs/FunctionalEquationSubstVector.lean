@@ -3,7 +3,7 @@ import Formalism.TorsionNormIteration.InverseIntegralClasses.SigmaNormLeOne
 import Formalism.TorsionNormIteration.InverseIntegralClasses.MemSpanOfNormLe
 import Formalism.TorsionNormIteration.InverseIntegralClasses.NormSigmaLeOne
 import Formalism.FormalGroupWitt.FormalGroupWittProofs.CoeffV
-import Lemmata.MultivariateIntegrals.IntegralMv
+import Lemmata.MultivariateIntegrals
 
 noncomputable section
 

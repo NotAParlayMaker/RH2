@@ -1,4 +1,4 @@
-import Development.EtaleCohomology.EtaleSheaves.KernelLocalization.RangeOfBd
+import Development.EtaleCohomology.EtaleSheaves.KernelLocalization
 import Development.EtaleCohomology.EtaleSheaves.TruncKerPf
 import Development.EtaleCohomology.EtaleSheaves.DescIntPf
 import Development.EtaleCohomology.EtaleSheaves.FiltGenPf

@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsAddHaarMeasureVolumeLie
-import Formalism.ArtinHasse.ArtinHasseProofs.SymmSeries
+import Formalism.ArtinHasse.ArtinHasseProofs
 
 noncomputable section
 

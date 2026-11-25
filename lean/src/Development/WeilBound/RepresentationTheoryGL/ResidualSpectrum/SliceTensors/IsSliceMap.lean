@@ -3,7 +3,7 @@ import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.St
 import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ExistsSpanFormsNeBot
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.SubsingletonRankZero
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.OneMemGoodCT
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.AffineGLForms.BlockMatrixIdentity.BlockMatOne
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.AffineGLForms.BlockMatrixIdentity
 
 noncomputable section
 

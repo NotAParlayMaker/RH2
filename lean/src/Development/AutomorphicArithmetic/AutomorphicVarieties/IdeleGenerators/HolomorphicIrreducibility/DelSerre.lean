@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.SimultaneousEigenvectors.SimEig
+import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.SimultaneousEigenvectors
 import Development.AutomorphicArithmetic.AutomorphicVarieties.IdeleGenerators.ConstSmall
 
 open Module

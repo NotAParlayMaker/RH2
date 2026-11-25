@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.ClassSK
-import Formalism.SharpRestriction.Divisibility.StatementFT.PeriodPointConditions
+import Formalism.SharpRestriction.Divisibility.StatementFT
 import Formalism.SharpRestriction.Divisibility.HookProducts.AdmPtTw
 
 noncomputable section

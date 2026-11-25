@@ -1,0 +1,3 @@
+import Development.WeilBound.CoreStatements.HeckeCharacterDeRham.DeRhamHeckeResults.PotentiallySemistableDeRham
+
+def DeRhamPotSemistableLit : Prop := DeRhamPotentiallySemistable.DeRhamPotSemistable2

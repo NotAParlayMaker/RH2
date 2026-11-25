@@ -18,7 +18,7 @@ import Development.AbelianVarietyTheory.Proofs.FlagMeasures.TorusNormaliserBesse
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.DiscreteSeriesBesselGapStatement
 import Development.AbelianVarietyTheory.Proofs.FlagMeasures.HaarLieIsHaarOnUnipotentRadicalStatement
 import Formalism.FormalDegreeBessel.FinalG
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerSmoothStability.ExistsFinStableOfMemSSup
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerSmoothStability
 
 open BranchingSupport GlobalTheory.CellAmp GlobalTheory.Amp Formalism.BasicNotions Formalism.MainNotions.S Formalism.QuantumDeterminants Matrix MeasureTheory Finset
 open scoped InnerProductSpace ENNReal

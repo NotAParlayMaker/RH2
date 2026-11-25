@@ -1,4 +1,4 @@
-import Development.WeilBound.RepresentationTheoryGL.PeriodRingBases.PeriodRingUnits.DieudonneManinBasisModification
+import Development.WeilBound.RepresentationTheoryGL.PeriodRingBases.PeriodRingUnits
 import Development.WeilBound.CoreStatements.CrystallinePeriodRings.PhiGalCris
 import Development.WeilBound.CoreStatements.CrystallinePeriodRings.FundIotaTANeZero
 import Development.WeilBound.CoreStatements.CrystallinePeriodRings.AinfMapSurjective

@@ -1,5 +1,5 @@
 import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.LocalCharacterIntegrals.ShellP
-import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.TracePairSums.ShellConj
+import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.TracePairSums
 
 noncomputable section
 

@@ -1,5 +1,5 @@
 import Mathlib
-import Lemmata.GeneralBFactLeftLast.Pz
+import Lemmata.GeneralBFactLeftLast
 
 noncomputable section
 

@@ -30,7 +30,7 @@ import Development.AutomorphicArithmetic.CharacterBoxes.EveryCharacter
 import Development.AutomorphicArithmetic.ResidueCharacters.ClosedOfAll
 import Development.AutomorphicArithmetic.ThetaCorrespondence.FockModels.RealBranch
 import Development.AutomorphicArithmetic.ThetaCorrespondence.FockModels.ArakSwapCovol
-import Development.AutomorphicArithmetic.ThetaCorrespondence.PrismaticDieudonne.PrismaticDieudonneHodge
+import Development.AutomorphicArithmetic.ThetaCorrespondence.PrismaticDieudonne
 import Development.WeilBound.ThetaLifts.Reductions.FiniteClosure.TheoremKOfMod
 open Formalism.BasicNotions Formalism.MainNotions GlobalTheory.EX GlobalTheory.EX.OB GlobalTheory.Mem GlobalTheory.Mem.Top GlobalTheory.Mem.Top.Bl GlobalTheory.Fc GlobalTheory.Mem.LiteralAutomorphy
 

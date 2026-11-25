@@ -1,5 +1,5 @@
 import Development.WeilBound.CoreStatements.GaussianSeminormBounds.RealSeminormFiltration.FockAct1FockAct2Commute
-import Formalism.LocalToGlobal.ThetaOperatorCommutation.RealTh
+import Formalism.LocalToGlobal.ThetaOperatorCommutation
 import ReciprocityTheory.ThetaSummability.RealCoinvariants.Numbers
 import Mathlib.LinearAlgebra.PiTensorProduct
 

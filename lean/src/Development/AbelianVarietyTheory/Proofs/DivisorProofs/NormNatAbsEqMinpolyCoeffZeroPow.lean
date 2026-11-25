@@ -3,7 +3,7 @@ import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.FrobFiel
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EndCharpolyTateDetDegreeTraceStatement
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TateModuleFreeFinrankTwoMulDim
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CharpolyDvdPowFinrankOfAevalEqZero
-import ReciprocityTheory.ReductiveGroups.Lattices.LatUnrCharA
+import ReciprocityTheory.ReductiveGroups.Lattices
 open CategoryTheory Polynomial NumberField IsDedekindDomain AlgebraicGeometry
 open scoped TensorProduct
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor

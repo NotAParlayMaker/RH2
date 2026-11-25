@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TupleActions.InstMulActionTup
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TupleActions
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.PinsOfClosedSubgroupPadicCharacterInv
 
 open CategoryTheory

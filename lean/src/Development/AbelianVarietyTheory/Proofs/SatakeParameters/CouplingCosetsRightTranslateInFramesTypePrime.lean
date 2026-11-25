@@ -2,7 +2,7 @@ import Mathlib
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.XiTopEqProd
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.SmulCompSmul
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ChartPointRightTranslateByLevelCoupledStep
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FiniteOrderValuation.WeakApprox
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FiniteOrderValuation
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.BaseCosetRepIntegralAfterScalingAtBadPrimeStatement
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.RedPDivOfUnit
 open NumberField IsDedekindDomain Formalism.BasicNotions Formalism.L2.DIV Formalism.L2.Col Formalism.MainNotions Formalism.L2.Ker GlobalTheory.TwU GlobalTheory.TwV GlobalTheory.TwTop GlobalTheory.TopStep

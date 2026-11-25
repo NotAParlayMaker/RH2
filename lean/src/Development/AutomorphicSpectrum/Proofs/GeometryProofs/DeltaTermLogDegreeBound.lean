@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AutomorphicSpectrum.Statements.GeometryStatements.PropFTop
-import Development.AutomorphicSpectrum.RootSurvey.GeometrySurvey.ExistsTopDegreeCoefficientFormAndEqOnTopForms
+import Development.AutomorphicSpectrum.RootSurvey
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.EpSplit
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.EpInert
 

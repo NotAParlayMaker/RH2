@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.LefschetzSigmaSums.HodgeTraceOfLefschetzAndGroupSide
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.DefiniteTraceForms.WeightedCountDefiniteUnitary
+import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.DefiniteTraceForms
 
 namespace UpperTheory.Gal.LocalSmoothExtension
 

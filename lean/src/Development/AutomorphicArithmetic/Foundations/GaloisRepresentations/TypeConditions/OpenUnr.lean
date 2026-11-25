@@ -3,7 +3,7 @@ import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TypeC
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsPolarizedTwistAbsPow
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.GalPolLiftsOfSplit
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CmGaloisRepresentationCrystalline
-import Development.WeilBound.CoreStatements.AutomorphicKernels.TemperedUnitNorm.NormEqOneOfTemperedRec
+import Development.WeilBound.CoreStatements.AutomorphicKernels.TemperedUnitNorm
 
 noncomputable section
 

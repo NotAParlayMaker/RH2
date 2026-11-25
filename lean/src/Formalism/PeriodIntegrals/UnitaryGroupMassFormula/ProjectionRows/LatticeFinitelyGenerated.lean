@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ProjectionRows.Pieces
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndexDeterminant.NegLogValuation
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndexDeterminant
 
 noncomputable section
 

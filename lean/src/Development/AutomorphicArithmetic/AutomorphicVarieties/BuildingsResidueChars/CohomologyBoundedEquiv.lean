@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.HomologyRank.RankHomology
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.HomologyRank
 
 theorem UpperTheory.cohomology_bounded_equiv :
     UpperTheory.V.Af.CohB.BddEquiv := by

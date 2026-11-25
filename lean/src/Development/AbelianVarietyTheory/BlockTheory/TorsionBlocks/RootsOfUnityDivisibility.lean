@@ -1,5 +1,5 @@
 import Mathlib
-import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.RealCubicMeans.LeafBounds.OneSquareLeaf.LeafOneSquareFree
+import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.RealCubicMeans.LeafBounds.OneSquareLeaf
 
 noncomputable section
 

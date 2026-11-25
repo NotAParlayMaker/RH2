@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CokernelGLCounts.RankPointCounts.RowFrameCoherence.LiftRowCoh
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RelativeEquivalence.DCRelEquivAllHolds
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RelativeEquivalence
 
 noncomputable section
 

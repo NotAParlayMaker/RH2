@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.CuspDiscreteDecompositionGL
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicCompactDensity.ExistsNatLocal
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicCompactDensity
 
 open NumberField GlobalTheory.CuspRep
 

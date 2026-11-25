@@ -1,5 +1,5 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.LiteratureResults.ArthurClozelDescent
-import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.InfinitesimalCharacterPullback.HasInfCharPullSub
+import Development.AutomorphicArithmetic.AutomorphicVarieties.GaloisLibrary.InfinitesimalCharacterPullback
 import GroundTheory.GlobalFields.Adele.Compact
 import GroundTheory.AutomorphicForms.StrongApproximationSLDense
 

@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AutomorphicArithmetic.CMTraceForms.CmDatumDiscriminantDepthBounds
-import Development.AbelianVarietyTheory.Statements.ShortVectorBound.ScaledLatticesInSupLattices
+import Development.AbelianVarietyTheory.Statements.ShortVectorBound
 import Formalism.LocalToGlobal.ProjectiveLattices.CrudeVal
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.HolomorphicFamilies.PlaceBoundOwnPrimeOf
 

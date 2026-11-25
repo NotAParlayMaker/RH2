@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.AdmissiblePeriodTwistsReductionPlaceTuples
-import Formalism.SharpRestriction.Divisibility.StatementFT.PeriodPointConditions
+import Formalism.SharpRestriction.Divisibility.StatementFT
 import Formalism.LocalToGlobal.GroupLattices.AdmissibleAtGeneratorPlaces
 open NumberField IsDedekindDomain Formalism.BasicNotions Formalism.MainNotions Formalism.L2.Forms
 set_option maxHeartbeats 1000000 in

@@ -1,6 +1,6 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeylFormulaCompact.FormulaStep
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeylFormulaCompact.TrivKtype
-import Lemmata.GeneralBFactLeftVariant.Imports
+import Lemmata.GeneralBFactLeftVariant
 
 noncomputable section
 

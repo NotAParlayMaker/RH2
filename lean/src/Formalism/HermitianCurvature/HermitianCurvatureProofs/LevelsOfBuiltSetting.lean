@@ -3,7 +3,7 @@ import Formalism.HermitianCurvature.HermitianCurvatureProofs.InvariantOperatorUn
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.QNFAsm
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelTransfer.SecondCapelliMinorLevel
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelLiftBasics.LevelGroupUnitaryHermitian
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelImageArithmetic.GlevImageOf
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LevelImageArithmetic
 
 open Matrix MeasureTheory
 

@@ -1,5 +1,5 @@
 import Mathlib
-import Development.AutomorphicSpectrum.PublishedTheorems.Jets₂.IsPermissibleOfCentre
+import Development.AutomorphicSpectrum.PublishedTheorems.Jets₂
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.MaxCompactIrreducibleHasHighestWeightAndIso
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.AdmissibleUnitaryKFinite
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.LeviSubmoduleDense

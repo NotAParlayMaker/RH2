@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.SpecialMaps.QuotObjDefs
+import Development.AutomorphicArithmetic.SpecialMaps
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.IsIsoIffBijectiveOverAlgClosed
 
 open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField

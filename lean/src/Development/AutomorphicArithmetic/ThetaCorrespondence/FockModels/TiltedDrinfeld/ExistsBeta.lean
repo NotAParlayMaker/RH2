@@ -1,5 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.PeriodRingBases.FixedBaseSurjectivity.GaloisPeriodCyclotomic
-import Development.WeilBound.RepresentationTheoryGL.PeriodRingBases.BaseThetaVanishing.BaseThZero
+import Development.WeilBound.RepresentationTheoryGL.PeriodRingBases.BaseThetaVanishing
 import Development.AutomorphicArithmetic.ThetaCorrespondence.FockModels.TiltedDrinfeld.TieQB
 import Development.AutomorphicArithmetic.ThetaCorrespondence.FockModels.TiltedDrinfeld.CoeUntiltIterateLFlat
 

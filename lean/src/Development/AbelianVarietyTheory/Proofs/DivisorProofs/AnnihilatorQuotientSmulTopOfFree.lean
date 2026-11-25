@@ -1,7 +1,7 @@
 import Mathlib
 import ReciprocityTheory.CommutativeAlgebra.CohenMacaulay.ExistsIsRegularAppendOfModDepthGE
 import ReciprocityTheory.CommutativeAlgebra.CohenMacaulay.Bridge
-import ReciprocityTheory.CommutativeAlgebra.MaximalIdealSquares.RingKrullDimQuotientSpanSingletonAddOne
+import ReciprocityTheory.CommutativeAlgebra.MaximalIdealSquares
 
 open IsLocalRing RingTheory.Sequence Pointwise
 

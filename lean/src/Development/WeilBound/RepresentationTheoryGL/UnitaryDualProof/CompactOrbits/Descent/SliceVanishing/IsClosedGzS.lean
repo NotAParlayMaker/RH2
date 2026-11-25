@@ -2,7 +2,7 @@ import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbi
 import Development.WeilBound.CoreStatements.AutomorphicKernels.BernsteinUnitaryProducts.BernsteinTheoremA.FrobeniusReciprocity.SupportedInIffOfFrob
 import Development.AbelianVarietyTheory.Definitions.Divisors.T2SpaceGeneralLinearGroup
 import GroundTheory.AutomorphicForms.GLnLocal
-import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.CommutingInverses.InvCommOfComm
+import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.Descent.CommutingInverses
 
 noncomputable section
 

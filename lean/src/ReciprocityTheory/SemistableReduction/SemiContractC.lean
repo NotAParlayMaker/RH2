@@ -1,5 +1,5 @@
 import ReciprocityTheory.SemistableReduction.LatSemiSt
-import Lemmata.GeneralBFactSecond.Imports
+import Lemmata.GeneralBFactSecond
 
 namespace ReciprocityTheory.MultiplicativeHeights
 

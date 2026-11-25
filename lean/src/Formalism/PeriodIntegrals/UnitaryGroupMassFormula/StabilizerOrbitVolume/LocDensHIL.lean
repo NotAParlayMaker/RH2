@@ -1,7 +1,7 @@
 import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerOrbitVolume.LocDensHI
 import ReciprocityTheory.Automorphisms.InstMainA
-import ReciprocityTheory.ResidueCardinality.ArtinOntoB
+import ReciprocityTheory.ResidueCardinality
 
 noncomputable section
 

@@ -4,7 +4,7 @@ import Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.T
 import Development.AutomorphicArithmetic.AutomorphicVarieties.PadicHodgeTheory.CycFacts
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CrystallineAndJumps
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.KummerNotFrac
-import Development.AutomorphicArithmetic.AutomorphicVarieties.KisinPhiModules.TypeDualTwistIff
+import Development.AutomorphicArithmetic.AutomorphicVarieties.KisinPhiModules
 
 open Formalism.WeaklyAdmissibleFiltrations Formalism.MainNotions.N Formalism.BasicNotions Formalism.BasicNotions.Loc TensorProduct Module UpperTheory.V.Loc UpperTheory.V.Lit GlobalTheory.Pst GlobalTheory.RegularRing GlobalTheory.IndefiniteRowSideFullHecke.CrystallineSubrepresentation
 

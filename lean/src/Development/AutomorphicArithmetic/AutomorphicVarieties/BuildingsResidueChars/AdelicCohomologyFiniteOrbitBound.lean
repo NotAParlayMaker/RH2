@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.HomologyRank.RankHomology
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.HomologyRank
 
 theorem UpperTheory.adelic_cohomology_finite_orbit_bound :
     UpperTheory.V.Af.CohB.FinOrbAbs := by

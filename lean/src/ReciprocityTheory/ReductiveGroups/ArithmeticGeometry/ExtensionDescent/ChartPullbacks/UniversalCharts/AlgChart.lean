@@ -1,5 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.ChartPullbacks.UniversalCharts.SpanXLeKerAevalZero
-import Lemmata.FirstBlockLemmaK.Imports
+import Lemmata.FirstBlockLemmaK
 
 set_option autoImplicit false
 

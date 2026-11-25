@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TupleActions.InstMulActionTup
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TupleActions
 
 open CategoryTheory UpperTheory.V.Af.BA in
 theorem UpperTheory.projPerm_of_liftEquiv :

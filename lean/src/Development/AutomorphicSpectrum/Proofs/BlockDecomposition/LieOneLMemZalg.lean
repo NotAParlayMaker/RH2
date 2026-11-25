@@ -1,5 +1,5 @@
 import Mathlib
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.AffineGLForms.CuspInvariantsFinite.CuspInvFin
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.AffineGLForms.CuspInvariantsFinite
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.ContinuousConjFin
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.QdetTopThreeOrders
 

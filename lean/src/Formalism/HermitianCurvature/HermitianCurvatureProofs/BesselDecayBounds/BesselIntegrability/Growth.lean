@@ -1,6 +1,6 @@
 import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SettingExistence
-import Formalism.HermitianCurvature.HermitianCurvatureProofs.BesselDecayBounds.DecayZeroRight.NormDec
+import Formalism.HermitianCurvature.HermitianCurvatureProofs.BesselDecayBounds.DecayZeroRight
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BesselDecayBounds.BesselUnitNorm.BesselNormSteps.UnitNorm.UnrealifyRealify
 
 open MeasureTheory Matrix

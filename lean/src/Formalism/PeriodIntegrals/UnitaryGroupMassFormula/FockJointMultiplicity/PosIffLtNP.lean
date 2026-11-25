@@ -1,7 +1,7 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FockJointMultiplicity.GlobalTheory
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FockJointMultiplicity.MemLeftHighestWeightOfIsMinimalJointVector
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FockJointMultiplicity.LoweringPartRightActionInlInr
-import Lemmata.B1959r.Imports
+import Lemmata.B1959r
 
 noncomputable section
 

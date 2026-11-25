@@ -1,5 +1,5 @@
 import Mathlib
-import Development.WeilBound.LevelCriteria.IsLevOneIff
+import Development.WeilBound.LevelCriteria
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DividedPowerFiltration
 
 set_option autoImplicit false

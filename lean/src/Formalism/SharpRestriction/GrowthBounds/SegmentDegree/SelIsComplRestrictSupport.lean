@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.SegmentDegree.NonemptyDvrSettingOfStandard
-import Lemmata.ComplementLifts.ComplLift
+import Lemmata.ComplementLifts
 
 noncomputable section
 

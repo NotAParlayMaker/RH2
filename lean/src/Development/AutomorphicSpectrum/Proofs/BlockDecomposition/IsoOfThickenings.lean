@@ -1,8 +1,8 @@
 import Mathlib
-import PositivityTheory.PublishedTheorems.TowerLemmas.FormalTowerLemmas.Imports
+import PositivityTheory.PublishedTheorems.TowerLemmas
 import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.FormalAlgebraisation
 
-import PositivityTheory.PublishedTheorems.UnitKilling.UnitAnnihilation.UnitAnnihilators.ExistsUnitKillsOfIdempotent
+import PositivityTheory.PublishedTheorems.UnitKilling
 set_option autoImplicit false
 
 open CategoryTheory CategoryTheory.Limits AlgebraicGeometry ReciprocityTheory.ChartRestriction.G.Out PositivityTheory.FormalThickening

@@ -1,5 +1,5 @@
 import Mathlib
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.RegularClassTraces.RegClassFin
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.RegularClassTraces
 import Development.WeilBound.ThetaLifts.Reductions.SiegelCore
 import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.ConstantTermVanishing
 import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.AdjointRadical

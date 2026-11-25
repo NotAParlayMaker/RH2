@@ -2,7 +2,7 @@ import CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AnalyticInter
 import Development.WeilBound.HeckeVectors.SmoothVectors.SobolevApproximation.SobApproxHolds
 import Formalism.LocalToGlobal.IndefiniteReal.SmExpSmulContDiff
 import Formalism.LocalToGlobal.SiegelLatticeTheory.CasimirReductionTheory.OneParameterDerivatives.AdmissibleCasimirScalars.CasScalar
-import CompanionTheory.AutomorphicTheory.HarishChandraMultiplicity.HCMult
+import CompanionTheory.AutomorphicTheory.HarishChandraMultiplicity
 
 open Matrix Topology Filter
 open scoped InnerProductSpace ComplexOrder

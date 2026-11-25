@@ -4,7 +4,7 @@ import Formalism.PolynomialDimension.FinalM
 import Formalism.ThetaLogCoordinates.TraceIsometryWeights.DischargeHeightBound
 import Formalism.ThetaLogCoordinates.PartnerMeanCoordinates.LatticeTheoremEps28Valid
 import Formalism.SharpRestriction.GrowthBounds.GLWeightTheory
-import Lemmata.GeneralBFactLeftBisForm.Imports
+import Lemmata.GeneralBFactLeftBisForm
 
 noncomputable section
 

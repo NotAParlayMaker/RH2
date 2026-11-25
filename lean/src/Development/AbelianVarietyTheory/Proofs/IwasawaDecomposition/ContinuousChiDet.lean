@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.CuspDiscreteDecompositionGL
-import Formalism.LocalToGlobal.PlaceMapInjectivity.MapPlInjective
+import Formalism.LocalToGlobal.PlaceMapInjectivity
 
 noncomputable section
 

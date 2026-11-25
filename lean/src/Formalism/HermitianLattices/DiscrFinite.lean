@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.HermitianLattices.ThetaLEuclid
-import Formalism.AlphaUniqueness.Statement
+import Formalism.AlphaUniqueness
 
 open Module Formalism.K
 

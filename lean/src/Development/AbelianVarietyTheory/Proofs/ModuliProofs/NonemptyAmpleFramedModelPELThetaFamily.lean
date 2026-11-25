@@ -13,7 +13,7 @@ import Development.AbelianVarietyTheory.Definitions.Degenerations.HomExtSt
 import Development.AbelianVarietyTheory.Definitions.ModuliSpaces.FiniteHomogeneousInf
 import Development.AbelianVarietyTheory.Statements.SemistableTorsion.ImmersedBy
 import Development.AbelianVarietyTheory.Statements.SemistableTorsion.UTorsSt
-import Development.AbelianVarietyTheory.PublishedTheorems.SemistableReduction₂.SemistableReductionSt
+import Development.AbelianVarietyTheory.PublishedTheorems.SemistableReduction₂
 
 open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor

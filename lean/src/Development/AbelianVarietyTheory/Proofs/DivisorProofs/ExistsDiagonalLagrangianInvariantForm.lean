@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.WeilTensorModels
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicIntegersCompact.IsCompactAdicCompletionIntegers
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicIntegersCompact
 open NumberField IsDedekindDomain Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes GlobalTheory.WeilM GlobalTheory.AdelicU GlobalTheory.LFun GlobalTheory.IndefiniteRowSideFullHecke.WeilTensorModels
 open scoped Matrix TensorProduct
 open MeasureTheory

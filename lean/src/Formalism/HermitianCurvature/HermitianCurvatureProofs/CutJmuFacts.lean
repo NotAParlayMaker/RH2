@@ -1,6 +1,6 @@
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutJmu
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutLimBdPfKFin
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerSmoothStability.ExistsFinStableOfMemSSup
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerSmoothStability
 
 namespace Formalism.FourierDecayAlt.P.CutBP.Jmu
 

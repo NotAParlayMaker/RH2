@@ -1,6 +1,6 @@
 import Mathlib
 import GroundTheory.GlobalFields.IdeleGroups.LocalHerbrand
-import GroundTheory.GlobalFields.InfiniteNormIndex.LocalSymbol
+import GroundTheory.GlobalFields.InfiniteNormIndex
 
 noncomputable section
 

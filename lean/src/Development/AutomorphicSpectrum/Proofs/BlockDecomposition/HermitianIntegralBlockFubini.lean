@@ -1,5 +1,5 @@
 import Mathlib
-import Development.AutomorphicArithmetic.ThetaCorrespondence.FockModels.BoxIntegrals.MeanBlocks
+import Development.AutomorphicArithmetic.ThetaCorrespondence.FockModels.BoxIntegrals
 import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MeanTransport
 open scoped Matrix NNReal ENNReal ComplexConjugate TensorProduct Topology

@@ -1,5 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.LaplaceOperators.KTypeLemma.QuotientHighestWeightTensorStandard
-import Lemmata.SmulListSum.SmulListSum
+import Lemmata.SmulListSum
 
 noncomputable section
 

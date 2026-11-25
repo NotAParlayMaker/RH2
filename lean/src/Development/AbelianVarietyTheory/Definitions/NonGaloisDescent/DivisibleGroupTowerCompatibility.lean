@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitAtOfIsSplitPl
-import CompanionTheory.EightfoldTheory.ZeroLevelTheory.LocalLanglands.Imports
+import CompanionTheory.EightfoldTheory.ZeroLevelTheory
 
 noncomputable section
 

@@ -1,5 +1,5 @@
 import Development.AbelianVarietyTheory.Definitions.Foundations.TupleConstantsNeZero
-import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.RealCubicMeans.LeafBounds.OneSquareLeaf.LeafOneSquareFree
+import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.RealCubicMeans.LeafBounds.OneSquareLeaf
 
 open NumberField IsDedekindDomain Finset
 open Formalism.DivisionValues (vw conjPl)

@@ -1,5 +1,5 @@
 import Mathlib
-import CompanionTheory.SpectralGeometry.CountingDefinitions.VoronoiMeans.VorFunEvalEqFineMean
+import CompanionTheory.SpectralGeometry.CountingDefinitions.VoronoiMeans
 
 set_option autoImplicit false
 

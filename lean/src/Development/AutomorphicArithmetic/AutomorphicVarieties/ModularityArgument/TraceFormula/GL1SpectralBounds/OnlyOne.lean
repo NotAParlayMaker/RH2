@@ -4,7 +4,7 @@ import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.Archim
 import Development.WeilBound.RepresentationTheoryGL.ResidualSpectrum.SliceTensors.EventuallySatV
 import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.StrongMultiplicityOne.Strong
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IsSplitAtOfIsSplitPl
-import Development.AbelianVarietyTheory.BlockTheory.IrreducibleCharacters.CuspidalCharacters
+import Development.AbelianVarietyTheory.BlockTheory.IrreducibleCharacters
 
 open NumberField IsDedekindDomain
 open GlobalTheory.CuspRep GlobalTheory.UnitaryBC GlobalTheory.DiscSpec PositivityTheory.Rg.Rs PositivityTheory.Rg.BcB PositivityTheory.Rg.BcB.F UpperTheory.V.Z.Tf.GOne

@@ -1,7 +1,7 @@
 import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GeometricallyIntegralGlobalFunctionsConstant
 import Mathlib
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.LeftZeroDuality.H1StructureDimLe
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.LeftZeroDuality
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsPowMulOfAway
 open CategoryTheory CategoryTheory.Limits AlgebraicGeometry MonoidalCategory CartesianMonoidalCategory MonObj
 open scoped CategoryTheory.Obj

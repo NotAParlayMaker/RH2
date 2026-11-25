@@ -1,7 +1,7 @@
 import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.ConjSubConjSub
 import Formalism.LocalToGlobal.GaloisLevelStructure.TiedHecke
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicIntegersCompact.IsCompactAdicCompletionIntegers
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicIntegersCompact
 
 open Formalism.BasicNotions Formalism.L2 Formalism.L2.NG Formalism.AUTREP Formalism.IndefR.principalLevelFrame
 open NumberField IsDedekindDomain

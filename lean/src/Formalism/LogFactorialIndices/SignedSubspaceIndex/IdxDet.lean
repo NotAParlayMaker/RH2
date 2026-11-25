@@ -1,6 +1,6 @@
 import Formalism.LogFactorialIndices.StatementIdx
-import Lemmata.DiscreteValuationQuotients.LenQuotSpan
-import Lemmata.GeneralBFactSecondExtra.Key
+import Lemmata.DiscreteValuationQuotients
+import Lemmata.GeneralBFactSecondExtra
 
 open Module Submodule
 

@@ -1,6 +1,6 @@
 import Formalism.HermitianCurvature.StatementQ
 import Mathlib
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.QuadraticFormLevel.Imports
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.QuadraticFormLevel
 
 theorem Formalism.FourierDecayAlt.P.rtt_level_from_upper : Formalism.FourierDecayAlt.Q.RTTLevelFromUpper := by
   intro hU hLT hGI hFF _ k r i

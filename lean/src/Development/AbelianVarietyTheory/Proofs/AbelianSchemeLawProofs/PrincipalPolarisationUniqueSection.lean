@@ -1,5 +1,5 @@
 import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.AbelianLaws.PrincipalPolarisationOneSection
+import Development.AbelianVarietyTheory.PublishedTheorems.AbelianLaws
 import Development.AbelianVarietyTheory.Proofs.AbelianSchemeLawProofs.FinrankSectionsPrincipalPolarisationEqOne
 
 namespace GlobalTheory.AbLaw

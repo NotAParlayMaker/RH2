@@ -2,7 +2,7 @@ import Formalism.HermitianCurvature.HermitianCurvatureProofs.CutGCoreGTKLineCut
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ProductIntervalFrames
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.DifferentialOperatorBracket
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LieBracketMultiplication
-import Lemmata.GeneralBFactSecondAltForm.Imports
+import Lemmata.GeneralBFactSecondAltForm
 
 open Matrix Formalism.REAL Formalism.QuantumDeterminants Formalism.FourierDecayAlt
 

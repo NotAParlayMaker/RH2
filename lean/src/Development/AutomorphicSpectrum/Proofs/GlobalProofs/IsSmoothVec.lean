@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.AdmissibleCoefficientsAnalytic
-import Development.AutomorphicSpectrum.PublishedTheorems.Jets₂.IsPermissibleOfCentre
+import Development.AutomorphicSpectrum.PublishedTheorems.Jets₂
 
 noncomputable section
 

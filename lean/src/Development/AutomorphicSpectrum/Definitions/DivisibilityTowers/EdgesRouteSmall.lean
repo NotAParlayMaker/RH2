@@ -5,7 +5,7 @@ import Development.AbelianVarietyTheory.Proofs.TwistedOperators.RatInOfUnit
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.CartFrSgn
 import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.HaarOrderData
 import Formalism.LocalToGlobal.IndefiniteReal.LinksLemmas
-import Development.WeilBound.CoreStatements.TorusUniformisation.RepresentationHypotheses.HostNumDef
+import Development.WeilBound.CoreStatements.TorusUniformisation.RepresentationHypotheses
 
 noncomputable section
 

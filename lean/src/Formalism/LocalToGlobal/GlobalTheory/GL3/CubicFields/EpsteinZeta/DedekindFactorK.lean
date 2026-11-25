@@ -1,5 +1,5 @@
 import Mathlib
-import Formalism.LocalToGlobal.GlobalTheory.GL3.CubicFields.DedekindFactorization.OmegaPoly
+import Formalism.LocalToGlobal.GlobalTheory.GL3.CubicFields.DedekindFactorization
 
 noncomputable section
 

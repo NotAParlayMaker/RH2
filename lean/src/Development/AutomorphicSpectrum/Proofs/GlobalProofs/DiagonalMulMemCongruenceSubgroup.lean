@@ -1,5 +1,5 @@
 import Mathlib
-import Development.AbelianVarietyTheory.PublishedTheorems.WeberRayClassFields.WeberRayFieldSt
+import Development.AbelianVarietyTheory.PublishedTheorems.WeberRayClassFields
 import GroundTheory.GlobalFields.ComplexMultiplication.JugendtraumGalois
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.NcardEqIffStabilizer
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.LeOfFiniteSplitNotSplitBauer

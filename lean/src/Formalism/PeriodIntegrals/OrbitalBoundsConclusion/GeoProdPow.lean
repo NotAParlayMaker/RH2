@@ -1,5 +1,5 @@
 import Mathlib
-import Formalism.PeriodIntegrals.GeometricProductPowers.GaussianProductPowerBound
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GeometricProductBound.OneSubSumLeProd
+import Formalism.PeriodIntegrals.GeometricProductPowers
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GeometricProductBound
 
 theorem geometric_product_power : ConditionalKappaBounds.G2.GaussianProductPowerBound := GeoProdPow.main

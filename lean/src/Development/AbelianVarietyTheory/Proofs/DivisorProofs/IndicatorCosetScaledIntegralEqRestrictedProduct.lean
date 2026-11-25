@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsOpenScaledInt
-import ReciprocityTheory.GeneralLinearIntegers.AlgebraMapIntMemOint
+import ReciprocityTheory.GeneralLinearIntegers
 
 open scoped TensorProduct NNReal Matrix
 open NumberField IsDedekindDomain MeasureTheory Filter Topology Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes

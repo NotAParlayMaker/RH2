@@ -1,5 +1,5 @@
 import Formalism.PadicSubsetSums.StableGradedCounts.LocalEstimateIVOfTypeSetWeight
-import Lemmata.TwistedIdempotents.TwistedIdem
+import Lemmata.TwistedIdempotents
 
 section
 open Finset

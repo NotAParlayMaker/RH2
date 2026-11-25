@@ -1,7 +1,7 @@
 import Mathlib
 import Formalism.LocalToGlobal.ProjectiveLattices.RosatiLatticeNorms.LamPtClauses
 import Formalism.LocalToGlobal.ProjectiveLattices.HostSize
-import Development.AbelianVarietyTheory.BlockTheory.EvidentLattices.LatticeLetterSources
+import Development.AbelianVarietyTheory.BlockTheory.EvidentLattices
 import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.RigidifiedSectionCorrespondenceExistsUniqueNonva
 import Development.AbelianVarietyTheory.Proofs.CubicalLineBundles.LatticeEqSpanHostIdealSmul
 

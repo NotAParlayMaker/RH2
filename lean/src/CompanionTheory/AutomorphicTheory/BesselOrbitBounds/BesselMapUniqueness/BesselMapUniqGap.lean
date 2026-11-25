@@ -1,4 +1,4 @@
-import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.ParametricIntegralSmoothness.IntCommute
+import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.ParametricIntegralSmoothness
 import Formalism.PeriodIntegrals.BesselMapUniq
 
 open Matrix MeasureTheory Formalism.QuantumDeterminants CompanionTheory.D.Upq.Sm

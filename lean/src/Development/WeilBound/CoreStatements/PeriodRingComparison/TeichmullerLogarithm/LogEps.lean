@@ -1,6 +1,6 @@
 import Mathlib
 import Development.WeilBound.CoreStatements.PeriodRingComparison.TeichmullerLogarithm.ZeroEquivLogTerm
-import Development.WeilBound.CoreStatements.PeriodRingComparison.PrimitiveEpsilon.UntiltEpsilonEqOne
+import Development.WeilBound.CoreStatements.PeriodRingComparison.PrimitiveEpsilon
 
 noncomputable section
 

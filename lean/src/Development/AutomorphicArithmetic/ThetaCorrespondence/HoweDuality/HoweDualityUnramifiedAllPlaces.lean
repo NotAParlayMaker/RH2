@@ -7,7 +7,7 @@ import Development.AutomorphicArithmetic.ThetaCorrespondence.HoweDuality.KerV
 import Development.AutomorphicArithmetic.ThetaCorrespondence.HoweDuality.KerVp
 import Development.WeilBound.ThetaLifts.SphericalLattices.ExistsFixedSum
 import Development.WeilBound.ThetaLifts.SphericalLattices.HoweDuality
-import Development.WeilBound.ThetaLifts.SphericalSplitting.SphSplitGeo
+import Development.WeilBound.ThetaLifts.SphericalSplitting
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsIntertwining
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.MatchedMapsGaussianKernel
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.TripleGeometryUnitaryStatement

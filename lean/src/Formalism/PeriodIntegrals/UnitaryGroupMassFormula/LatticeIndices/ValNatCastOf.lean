@@ -1,5 +1,5 @@
 import Mathlib
-import ReciprocityTheory.ResidueCardinality.ArtinOntoB
+import ReciprocityTheory.ResidueCardinality
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.StRedOfSplit
 
 noncomputable section

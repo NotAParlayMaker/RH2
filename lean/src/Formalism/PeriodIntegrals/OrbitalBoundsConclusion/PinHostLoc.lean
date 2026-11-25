@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.PeriodIntegrals.PinHostLoc
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalResidueCharacter.ResCharEq
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LocalResidueCharacter
 
 theorem prime_quotient_unit : PI.PinHostLoc.Target := by
   intro F E _ _ _ _ _ sig p A g hg hne i hin hnot

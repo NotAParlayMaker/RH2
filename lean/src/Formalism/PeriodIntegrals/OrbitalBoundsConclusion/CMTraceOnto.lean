@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.PeriodIntegrals.CMTraceOnto
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CMTraceSurjective.IsTrMulConjOfMem
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CMTraceSurjective
 
 theorem traceSurjective_holds : PI.CMTraceOnto := by
   intro K _ _ _ hK a ha

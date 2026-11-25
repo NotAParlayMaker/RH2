@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.IsSncModel
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.BlowupProjections.BlowupProjStatement
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.BlowupProjections
 import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.Proportional
 import ReciprocityTheory.AnalyticForms.PotentialTheory.DegreeInt
 import ReciprocityTheory.AnalyticForms.PotentialTheory.ContDiffAtOfIsPotential

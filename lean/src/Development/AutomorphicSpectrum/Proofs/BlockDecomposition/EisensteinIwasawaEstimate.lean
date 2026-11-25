@@ -1,5 +1,5 @@
 import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.IwasawaUnipotent.IwaU
+import Development.WeilBound.RepresentationTheoryGL.SiegelWeilProof.IwasawaUnipotent
 import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.AdelicIwasawaDoubledGroupSelfDualLattice
 import Development.AbelianVarietyTheory.Definitions.Foundations.EisValueAtIffEisPoleLE
 

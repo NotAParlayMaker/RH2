@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.HostXiOrderBounds
-import Development.AbelianVarietyTheory.PublishedTheorems.WeberRayClassFields.WeberRayFieldSt
+import Development.AbelianVarietyTheory.PublishedTheorems.WeberRayClassFields
 import Development.AbelianVarietyTheory.Definitions.HeightFunctions.JointQ
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.AssembleLattice
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.DisjointExceptional

@@ -1,4 +1,4 @@
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.DiscriminantEstimates.DiscriminantLemmas.UniformDiscreteness.FgOfUnifDiscrete
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.TaylorDiscriminants.DiscriminantEstimates.DiscriminantLemmas.UniformDiscreteness
 
 theorem discriminant_of_product_lower : ReciprocityTheory.ChartRestriction.G.TB.DiscOfProdLowerSt :=
   PI.UnitaryGroupMassFormula.TBDisc.discOfProdLower

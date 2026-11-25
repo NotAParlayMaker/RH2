@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.FourParts
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FlagClassConstancy.FlagOfInSFRight
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FlagClassConstancy
 
 attribute [local instance] Formalism.BasicNotions.Host.cmStar
 

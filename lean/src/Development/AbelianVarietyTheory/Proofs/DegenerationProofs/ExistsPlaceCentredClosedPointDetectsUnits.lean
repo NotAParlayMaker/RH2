@@ -2,7 +2,7 @@ import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.IsFrameIff
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.RangeAlgebraMapEqIInfDiscreteValuationSubring
 import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.IntegralClosureFiniteLocalOfIsAdicComplete
-import ReciprocityTheory.AdicCompleteness.IsAdicCompleteComapConstantCoeff
+import ReciprocityTheory.AdicCompleteness
 
 open CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj AlgebraicGeometry NumberField IsLocalRing
 open scoped CategoryTheory.Obj BigOperators
