@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.SiegelMassRatios.IdCell
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootsOfUnityModPrime.RootUnitModPMain
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RootsOfUnityModPrime
 
 theorem rootUnitModP (E : Type) [Field E] [NumberField E] : Formalism.L2.SG.IdCell.RootModP E :=
   PI.RootUnitModP.W.rootOfUnity_eq_one_mod_prime E

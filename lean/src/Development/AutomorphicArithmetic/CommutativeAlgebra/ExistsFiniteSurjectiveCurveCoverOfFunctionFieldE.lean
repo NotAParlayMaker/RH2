@@ -1,6 +1,6 @@
 import Mathlib
 import Development.EtaleCohomology.EtaleSheaves.LeafKillCut
-import Development.EtaleCohomology.EtaleSheaves.ProperLineCovers.CoverPf
+import Development.EtaleCohomology.EtaleSheaves.ProperLineCovers
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsProperCurveThroughPoint
 import Development.AutomorphicArithmetic.CommutativeAlgebra.ModuleFiniteIntegralClosureFiniteExtPerfect
 import Development.AutomorphicArithmetic.CommutativeAlgebra.SmoothOfNormalCurvePerfectField

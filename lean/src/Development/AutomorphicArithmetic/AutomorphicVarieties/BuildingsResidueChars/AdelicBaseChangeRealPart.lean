@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TupleActions.InstMulActionTup
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TupleActions
 
 open NumberField Matrix UpperTheory.V.KT UpperTheory.V.Af.BA ComplexOrder in
 theorem UpperTheory.adelicBaseChange_realPart :

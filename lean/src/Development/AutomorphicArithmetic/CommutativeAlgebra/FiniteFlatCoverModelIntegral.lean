@@ -2,7 +2,7 @@ import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.Torsor
 import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsTjCorrDiagModel
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsEtPlace
-import Development.AutomorphicArithmetic.Foundations.SubgroupJ.SubJ
+import Development.AutomorphicArithmetic.Foundations.SubgroupJ
 import Development.AutomorphicArithmetic.CommutativeAlgebra.IsGenLev
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.IsReducedAlgebraOfSmoothOfIsNoetherianRing
 open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField

@@ -1,5 +1,5 @@
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.LocalTypeDictionary.DiscreteSpectrumResidualClassification
-import Development.AutomorphicArithmetic.ThetaCorrespondence.LocalLanglands.UnitaryThetaCorrespondenceOfHyp
+import Development.AutomorphicArithmetic.ThetaCorrespondence.LocalLanglands
 
 section
 open MeasureTheory Set Filter NumberField IsDedekindDomain

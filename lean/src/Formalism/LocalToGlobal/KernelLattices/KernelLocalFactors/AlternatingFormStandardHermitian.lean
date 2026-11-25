@@ -2,7 +2,7 @@ import Formalism.LocalToGlobal.KernelLattices.XiIndCClass
 import Formalism.LocalToGlobal.TorsionIntegrality.QuadraticSemicharacters.CayleyGaussianIntegrals.MatrixFormFourfoldBlock
 import Formalism.LocalToGlobal.TorsionIntegrality.QuadraticSemicharacters.CayleyGaussianIntegrals.LocalComponentGL
 import Formalism.LocalToGlobal.TorsionIntegrality.QuadraticSemicharacters.CayleyGaussianIntegrals.LogarithmEquivalence
-import Lemmata.GeneralBFactThirdTer.Imports
+import Lemmata.GeneralBFactThirdTer
 
 noncomputable section
 

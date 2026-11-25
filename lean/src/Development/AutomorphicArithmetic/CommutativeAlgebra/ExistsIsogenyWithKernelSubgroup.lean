@@ -1,5 +1,5 @@
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BiholomorphicLiftSystem
-import Development.AutomorphicArithmetic.SpecialMaps.QuotObjDefs
+import Development.AutomorphicArithmetic.SpecialMaps
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LiftSystemRealStructure
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorExistsTypeTjPIsogeny
 open AlgebraicGeometry CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj NumberField

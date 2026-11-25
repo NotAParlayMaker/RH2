@@ -1,6 +1,6 @@
 import Mathlib
-import Lemmata.GeneralBFactMore.Imports
-import Lemmata.FirstBlockLemmaA.Imports
+import Lemmata.GeneralBFactMore
+import Lemmata.FirstBlockLemmaA
 
 namespace ReciprocityTheory.ChartRestriction.G.Geo
 

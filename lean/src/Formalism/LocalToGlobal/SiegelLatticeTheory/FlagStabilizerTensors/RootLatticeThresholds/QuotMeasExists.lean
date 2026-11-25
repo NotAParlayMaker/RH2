@@ -1,5 +1,5 @@
 import Mathlib
-import Formalism.LocalToGlobal.SiegelLatticeTheory.CasimirReductionTheory.OneParameterDerivatives.WeilIndicatorMeasures.MeasurableUnitMulIndicator
+import Formalism.LocalToGlobal.SiegelLatticeTheory.CasimirReductionTheory.OneParameterDerivatives.WeilIndicatorMeasures
 import Formalism.PeriodIntegrals.QuotInv
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QuotSetU
 import Formalism.SharpRestriction.CuspSpanNormBounds.RelevantZeroGramTerms

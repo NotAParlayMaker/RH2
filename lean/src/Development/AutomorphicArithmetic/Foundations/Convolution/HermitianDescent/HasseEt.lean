@@ -1,7 +1,7 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.HermitianDescent.NormAlmostAll
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsIsRealEmbeddingEqHom
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.ExistsRingHomAdicCompletionUnder
-import Development.AutomorphicArithmetic.Splittings.ExistsCyclicGaloisTensorAlgEquivPi
+import Development.AutomorphicArithmetic.Splittings
 
 open Matrix Polynomial NumberField IsDedekindDomain
 open scoped TensorProduct

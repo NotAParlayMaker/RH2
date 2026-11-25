@@ -1,5 +1,5 @@
 import Mathlib
 import Formalism.PeriodIntegrals.TransferenceCoverRad
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CoveringRadius.CoverRad
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CoveringRadius
 
 theorem transference_covering_divisor : PI.TransferenceCoverDiv := PI.Tr2.coverDiv

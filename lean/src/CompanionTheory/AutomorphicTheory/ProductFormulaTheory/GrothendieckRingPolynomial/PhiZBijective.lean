@@ -1,7 +1,7 @@
 import Mathlib
 import CompanionTheory.AutomorphicTheory.ProductFormulaTheory.GrothendieckRingPolynomial.ClassProductIrreducibleApply
 import CompanionTheory.AutomorphicTheory.ProductFormulaTheory.GrothendieckRingPolynomial.PhiZAux
-import CompanionTheory.AutomorphicTheory.TemperedLocalSpectra.BernsteinZelevinsky.TopAdm
+import CompanionTheory.AutomorphicTheory.TemperedLocalSpectra.BernsteinZelevinsky
 
 noncomputable section
 

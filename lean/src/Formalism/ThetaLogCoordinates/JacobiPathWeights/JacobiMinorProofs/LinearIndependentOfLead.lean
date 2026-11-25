@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.ThetaLogCoordinates.JacobiPathWeights.StatementA
-import Lemmata.GeneralBFactRightFurther.Imports
+import Lemmata.GeneralBFactRightFurther
 
 noncomputable section
 

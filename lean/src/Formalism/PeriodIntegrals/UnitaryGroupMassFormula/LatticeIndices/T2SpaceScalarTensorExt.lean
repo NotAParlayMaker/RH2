@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeIndices.TensTopRing
-import ReciprocityTheory.GeneralLinearIntegers.AlgebraMapIntMemOint
+import ReciprocityTheory.GeneralLinearIntegers
 
 noncomputable section
 

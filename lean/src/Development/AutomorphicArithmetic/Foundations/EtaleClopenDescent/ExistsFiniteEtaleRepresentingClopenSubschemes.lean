@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsQuasiInv
-import Development.AutomorphicArithmetic.RepresentationRank.RepOfRank
+import Development.AutomorphicArithmetic.RepresentationRank
 import Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepPullback
 import Development.AutomorphicArithmetic.CommutativeAlgebra.ClopRepFiniteEtaleOfConstantRank
 import Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepOfClopRepOfRank

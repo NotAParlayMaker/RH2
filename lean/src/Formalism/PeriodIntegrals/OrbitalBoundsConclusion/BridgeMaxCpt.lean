@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.PeriodIntegrals.AdBridgeSteps
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MaximalCompactConjugacy.Assembly
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MaximalCompactConjugacy
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.BridgeRealK
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.BridgeFinK
 

@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.HeckeLAdicCharacterDeRham
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.DeRhamJacobian.IsdRJ
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.DeRhamJacobian
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HasPeriods
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.EvalMod
 import Development.WeilBound.CoreStatements.CrystallinePeriodRings.MaximalIdealEqSpanT

@@ -6,7 +6,7 @@ import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.DefClassNum
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdeleClassFiniteness.BorelGL
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IdeleClassFiniteness.LatticeIdealNonzero
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnipotentApproximation.AddDense
-import ReciprocityTheory.GeneralLinearIntegers.AlgebraMapIntMemOint
+import ReciprocityTheory.GeneralLinearIntegers
 
 noncomputable section
 

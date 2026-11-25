@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.HaarTransversals.UnitaryHaarProducts.SettingBlocks
-import ReciprocityTheory.ReductiveGroups.PlaceCounting.RaySplA
+import ReciprocityTheory.ReductiveGroups.PlaceCounting
 
 noncomputable section
 

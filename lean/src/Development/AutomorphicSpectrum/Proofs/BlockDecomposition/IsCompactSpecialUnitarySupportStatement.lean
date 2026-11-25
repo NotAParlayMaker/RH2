@@ -1,7 +1,7 @@
 import Mathlib
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsCompactSpecialUnitarySupport
 import Mathlib
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.PlaneSupports.PlaneSupp
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.PlaneSupports
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ContinuousSingleV
 open Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes IsDedekindDomain NumberField GlobalTheory.Published Sa2 GlobalTheory.CompanionTheory.SaGen
 open scoped TensorProduct Topology

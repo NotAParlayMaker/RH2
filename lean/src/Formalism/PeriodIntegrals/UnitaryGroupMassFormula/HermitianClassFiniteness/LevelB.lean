@@ -1,6 +1,6 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianClassFiniteness.LevelA
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HermitianClassFiniteness.Development
-import Lemmata.IntegerMulIntegral.IntMulIntegral
+import Lemmata.IntegerMulIntegral
 
 noncomputable section
 

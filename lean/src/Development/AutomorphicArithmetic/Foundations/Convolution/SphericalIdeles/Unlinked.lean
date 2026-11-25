@@ -1,8 +1,8 @@
 import Mathlib
 import Development.AutomorphicArithmetic.Foundations.Convolution.SphericalIdeles.RamDefs
 import Development.WeilBound.CoreStatements.PublishedTheorems.JacquetShalikaBound.JacquetShalikaBound
-import Development.WeilBound.RepresentationTheoryGL.JacquetShalikaBounds.AbsoluteRigidity.AbsoluteCharacterNorms.UnitExponentHolds
-import Development.WeilBound.RepresentationTheoryGL.JacquetShalikaBounds.AbsoluteRigidity.SatakeTwists.SatakeTwistHolds
+import Development.WeilBound.RepresentationTheoryGL.JacquetShalikaBounds.AbsoluteRigidity.AbsoluteCharacterNorms
+import Development.WeilBound.RepresentationTheoryGL.JacquetShalikaBounds.AbsoluteRigidity.SatakeTwists
 
 open NumberField IsDedekindDomain Formalism.L2.Host GlobalTheory.CuspRep UpperTheory.CBC
 

@@ -1,5 +1,5 @@
 import ReciprocityTheory.ClassFieldTheory.LocalClassField.UnrExtA
-import Lemmata.GeneralBFactUpperTerForm.Imports
+import Lemmata.GeneralBFactUpperTerForm
 
 namespace ReciprocityTheory.DiscreteGroups.LocalClassField
 

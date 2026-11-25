@@ -1,5 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.OpenCellDecomposition.OpenCellUnipotents.OpenCell
-import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.OpenCellDecomposition.PiTensorNontriviality.ExpLow
+import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.OpenCellDecomposition.PiTensorNontriviality
 
 namespace PositivityTheory.RgUd.Cell
 

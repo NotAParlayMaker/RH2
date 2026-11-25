@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.StepZeroClassesBijectiveSameDeco
-import Formalism.LocalToGlobal.GroupLattices.StabilizerCount.StabiliserTrivialOfTiedChain
+import Formalism.LocalToGlobal.GroupLattices.StabilizerCount
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.IsEntC
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ColNorm
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.JetsInIffStepField

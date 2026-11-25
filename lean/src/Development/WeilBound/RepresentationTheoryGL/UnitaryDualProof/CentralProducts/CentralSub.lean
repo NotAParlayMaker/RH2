@@ -1,4 +1,4 @@
-import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CentralProducts.CentralGenerators.CentralSubGen
+import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CentralProducts.CentralGenerators
 
 namespace PositivityTheory.RgUd.Prod.CSel
 

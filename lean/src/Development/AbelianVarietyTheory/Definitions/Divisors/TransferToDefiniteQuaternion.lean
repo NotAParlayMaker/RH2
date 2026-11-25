@@ -1,6 +1,6 @@
 import Mathlib
-import CompanionTheory.EightfoldTheory.VariationTheory.PublishedTheorems.ImportsAlt
-import CompanionTheory.EightfoldTheory.VariationTheory.SelfDualForms.SelfDualWeylChambers.Imports
+import CompanionTheory.EightfoldTheory.VariationTheory.PublishedTheorems
+import CompanionTheory.EightfoldTheory.VariationTheory.SelfDualForms
 
 noncomputable section
 

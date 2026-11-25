@@ -1,5 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FirstCohomology.ReducedBasisStatement
-import Lemmata.GeneralBFactExtra.Imports
+import Lemmata.GeneralBFactExtra
 
 namespace ReciprocityTheory.ChartRestriction.G.H1
 

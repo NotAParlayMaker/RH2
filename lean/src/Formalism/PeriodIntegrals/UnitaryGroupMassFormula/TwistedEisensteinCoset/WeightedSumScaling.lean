@@ -1,5 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.TwistedEisensteinCoset.IaDivDown
-import Lemmata.PeriodicFunctions.PeriodicApplyMulAdd
+import Lemmata.PeriodicFunctions
 
 open NumberField IsDedekindDomain Module
 

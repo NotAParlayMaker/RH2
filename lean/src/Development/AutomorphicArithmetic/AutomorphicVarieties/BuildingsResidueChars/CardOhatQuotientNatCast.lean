@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.HomologyRank.RankHomology
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.HomologyRank
 import Formalism.SharpRestriction.CuspSpanNormBounds.BridgeLevelGenB
 
 open NumberField IsDedekindDomain GlobalTheory.CuspRep UpperTheory.V.Af

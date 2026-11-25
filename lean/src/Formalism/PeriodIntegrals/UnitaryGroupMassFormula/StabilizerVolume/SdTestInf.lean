@@ -1,7 +1,7 @@
 import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.SdUniq
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.StabilizerVolume.DensInfAll
-import Lemmata.FunctionAtZero.FZero
+import Lemmata.FunctionAtZero
 
 noncomputable section
 

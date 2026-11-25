@@ -1,5 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.FourierCoefficientMatrices
-import Lemmata.GeneralBFactBisForm.Imports
+import Lemmata.GeneralBFactBisForm
 
 namespace ReciprocityTheory.ChartRestriction.G.FD.FourierCoefficientDomain
 

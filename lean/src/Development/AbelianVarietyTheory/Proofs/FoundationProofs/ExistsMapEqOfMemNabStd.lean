@@ -6,7 +6,7 @@ import Formalism.GradedWeylDivisibility.StatementE
 import Formalism.HarderNarasimhan.ShiftInvariance
 import Formalism.QuotientMetricDivisors.ReductionLemmaZero
 import Formalism.QuotientMetricDivisors.ProdFormula
-import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.RealCubicMeans.LeafBounds.MeanMaxLeaf.LeafMMFree
+import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.RealCubicMeans.LeafBounds.MeanMaxLeaf
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.DivIntoDual
 import Formalism.QuotientMetricDivisors.HermitianTwistDivisors.ValBasic
 

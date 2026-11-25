@@ -1,5 +1,5 @@
 import Mathlib
-import Formalism.LocalToGlobal.LocalInduction.BridgeInd
+import Formalism.LocalToGlobal.LocalInduction
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.IsDiscreteValuationRingIntegralClosurePadicInt
 
 noncomputable section

@@ -1,5 +1,5 @@
 import Development.WeilBound.CoreStatements.PadicHodgeComparison.GoodCoverEigenspaces.LocalHodgeTateComplexTower
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.HodgeTateResidues.HodgeTateSpectral.HTSpecGood
+import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.HodgeTateResidues.HodgeTateSpectral
 
 noncomputable section
 

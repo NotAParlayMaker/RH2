@@ -1,7 +1,7 @@
 import Mathlib
 import Formalism.TameInertiaTowers.StatementField
-import Lemmata.FirstBlockLemmaE.Imports
-import Lemmata.GeneralBFactRightTerForm.Imports
+import Lemmata.FirstBlockLemmaE
+import Lemmata.GeneralBFactRightTerForm
 
 open NumberField Ideal
 open scoped Pointwise

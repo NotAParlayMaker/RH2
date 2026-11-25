@@ -1,6 +1,6 @@
 import Mathlib
 import Development.WeilBound.RepresentationTheoryGL.ArchimedeanBaseChange.DiscreteSeriesTopClasses.IsInvOne
-import Development.WeilBound.RepresentationTheoryGL.StandardBasisDerivatives.ArchimedeanBasisDerivatives.StBasDeriv
+import Development.WeilBound.RepresentationTheoryGL.StandardBasisDerivatives
 
 noncomputable section
 

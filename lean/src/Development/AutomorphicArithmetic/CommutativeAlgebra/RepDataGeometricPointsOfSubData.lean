@@ -1,5 +1,5 @@
 import Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsIsogenyWithKernelSubgroup
-import Development.AutomorphicArithmetic.SpecialMaps.QuotObjDefs
+import Development.AutomorphicArithmetic.SpecialMaps
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HarrisTaylorTypeTjIsogeniesRepresentable
 import Development.AbelianVarietyTheory.Proofs.HomogeneousIdeals.IsIsoIffBijectiveOverAlgClosed
 

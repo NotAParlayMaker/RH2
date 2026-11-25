@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.HermitianCurvature.StatementQ
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdaptedCharacterForm.SecondCapelliMinorStandardBasis
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdaptedCharacterForm
 
 theorem contraction_adapted : Formalism.FourierDecayAlt.Q.ContractionsCovariant → Formalism.FourierDecayAlt.Q.ChatAdapted ∧ Formalism.FourierDecayAlt.Q.Chat2Adapted := by
   intro hcov

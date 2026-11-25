@@ -1,5 +1,5 @@
 import ReciprocityTheory.DualLattices.TensorSpan
-import Lemmata.MiscLemmasL.Imports
+import Lemmata.MiscLemmasL
 
 noncomputable section
 

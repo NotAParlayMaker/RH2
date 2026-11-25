@@ -1,3 +1,4 @@
-# Keep the release byte for byte.
+# Keep the files byte for byte. Refer to SOURCE.md.
 lean/** -text
 manifests/*.sha256 -text linguist-generated
+manifests/moves.tsv -text linguist-generated

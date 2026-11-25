@@ -1,5 +1,5 @@
 import Mathlib
-import Lemmata.MiscLemmasC.Imports
+import Lemmata.MiscLemmasC
 
 set_option linter.style.haveILetI false
 

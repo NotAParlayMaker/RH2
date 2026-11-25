@@ -4,7 +4,7 @@ import Development.AbelianVarietyTheory.Definitions.AdelicHermitianForms.SqSubLe
 import Development.AbelianVarietyTheory.PublishedTheorems.Landherr₂.ExistsNormTensor
 import Development.AbelianVarietyTheory.PublishedTheorems.Landherr₂.LandherrStIffLandherr
 import Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.AlgebraMapNormOfBasisOneSqrt
-import Development.AbelianVarietyTheory.Statements.HyperbolicHypotheses.HypothesesInhabitedHyperbolic
+import Development.AbelianVarietyTheory.Statements.HyperbolicHypotheses
 open NumberField IsDedekindDomain GlobalTheory.QNorm
 open scoped WithZero
 set_option maxHeartbeats 1000000 in

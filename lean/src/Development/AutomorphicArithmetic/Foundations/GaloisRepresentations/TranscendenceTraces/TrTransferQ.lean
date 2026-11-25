@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.TranscendenceTraces.IsolateSpec
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.NormalSchemeSpectra.IsNormalSch
+import Development.WeilBound.CoreStatements.PadicHodgeComparison.NormalSchemeSpectra
 import Development.EtaleCohomology.EtaleTrace.LTransferCut
 
 noncomputable section

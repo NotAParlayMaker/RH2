@@ -1,5 +1,5 @@
 import Mathlib
-import Development.AbelianVarietyTheory.Statements.ShortVectorBound.ScaledLatticesInSupLattices
+import Development.AbelianVarietyTheory.Statements.ShortVectorBound
 import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.AdmissibleColumnsLeAndHarmonicMapCover
 import Development.AbelianVarietyTheory.Proofs.CuspFormEvaluations.ModuliUnivEtaKilled
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.HalfPrincipalAndSplit

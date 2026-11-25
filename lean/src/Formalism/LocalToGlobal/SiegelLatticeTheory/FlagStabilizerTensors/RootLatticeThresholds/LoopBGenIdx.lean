@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.LatticeGluingRadicals
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InvertibleIdealIndex.SubmodulePiToAddSubgroup
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.InvertibleIdealIndex
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.GramDeterminantOfGenericIndex
 
 noncomputable section

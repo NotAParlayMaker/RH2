@@ -2,7 +2,7 @@ import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.BetaModuloX.Skeleton
 import Formalism.HermitianLattices.HermitianLatticesProofs.DualBasic
 import Formalism.HermitianLattices.HermitianLatticesProofs.DualLattice
-import Lemmata.GeneralBFactThirdSide.Imports
+import Lemmata.GeneralBFactThirdSide
 
 noncomputable section
 

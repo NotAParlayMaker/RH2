@@ -1,4 +1,4 @@
-import Formalism.HalfLinks.Statement
+import Formalism.HalfLinks
 
 open Finset ArithmeticFunction
 

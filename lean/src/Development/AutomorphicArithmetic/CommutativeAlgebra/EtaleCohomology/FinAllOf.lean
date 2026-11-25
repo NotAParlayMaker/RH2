@@ -1,6 +1,6 @@
 import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.QuasiCompactOfProj
 import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.AnnihilatorModels.LocFacts
-import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ResidueExistence.ResEx
+import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.ResidueExistence
 
 set_option synthInstance.maxHeartbeats 200000
 set_option maxHeartbeats 1000000

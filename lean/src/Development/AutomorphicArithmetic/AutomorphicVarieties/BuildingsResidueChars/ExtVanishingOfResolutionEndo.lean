@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TupleActions.InstMulActionTup
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TupleActions
 
 open CategoryTheory Limits in
 private theorem homologyMap_zero_of_f {C : Type*} [Category C] [Abelian C] {ι : Type*}

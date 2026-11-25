@@ -1,6 +1,6 @@
 import Formalism.HermitianCurvature.CapelliDeterminantAndBranching
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LemmaDDeterminantIdentity
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IntegerProductCast.OfFnProdIntCast
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IntegerProductCast
 
 open Matrix Finset
 

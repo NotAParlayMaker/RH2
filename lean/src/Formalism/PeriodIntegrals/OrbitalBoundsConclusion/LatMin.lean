@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.PeriodIntegrals.LatMin
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MinimalLatticeNorm.NormTwoEqOne
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.MinimalLatticeNorm
 
 namespace PI
 

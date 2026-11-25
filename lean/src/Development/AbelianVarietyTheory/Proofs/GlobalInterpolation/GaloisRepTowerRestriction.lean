@@ -1,7 +1,7 @@
 import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.Brauer
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.Imports
-import CompanionTheory.EightfoldTheory.VariationTheory.AutomorphicForms.RealStructures.Imports
+import CompanionTheory.EightfoldTheory.VariationTheory.AutomorphicForms.RealStructures
 import CompanionTheory.EightfoldTheory.VariationTheory.AutomorphicForms.ImportsBis
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.Langlands
 import CompanionTheory.EightfoldTheory.VariationTheory.TwistedTheory.FrobeniusPowerCompatibility

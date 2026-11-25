@@ -1,5 +1,5 @@
 import Mathlib
-import Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.StrictDominanceCasselman.IsStrictlyDominant
+import Development.WeilBound.RepresentationTheoryGL.TwistedFactors.LocalBaseChange.StrictDominanceCasselman
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ModulusTrivialOnLeviCompactStatement
 
 open GlobalTheory.PRep GlobalTheory.SmGL ValuativeRel PositivityTheory.Lbc

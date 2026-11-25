@@ -1,7 +1,7 @@
 import Mathlib
 import Formalism.UnipotentAdelicQuotients.WeylLatDual
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.WwCauchyBinet
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CauchyBinet.WwCauchyBinetMain
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CauchyBinet
 import Development.AbelianVarietyTheory.Proofs.SatakeParameters.DualWeylEqSpanColProd
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.StandardWeylLatticesFockDual
 import Formalism.GradedWeylDivisibility.FinalB

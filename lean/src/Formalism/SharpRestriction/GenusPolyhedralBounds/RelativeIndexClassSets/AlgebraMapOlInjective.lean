@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.GenusPolyhedralBounds.RelativeIndexClassSets.SUnitsEulerDifference
-import Formalism.GaussIdealIdentity.GaussIdealPrimality.GaussLocalizationLengthHolds
+import Formalism.GaussIdealIdentity.GaussIdealPrimality
 
 noncomputable section
 

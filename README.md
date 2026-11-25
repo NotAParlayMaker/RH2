@@ -1,6 +1,6 @@
 # riemann-lean
 
-This repository holds the Lean 4 source of the claimed proof of the Riemann Hypothesis by Levent Alpöge. The source is the release of 2026-11-20 from https://alpo.ge, without change.
+This repository holds the Lean 4 source of the claimed proof of the Riemann Hypothesis by Levent Alpöge. The source is the release of 2026-11-20 from https://alpo.ge. The only change is a mechanical one: files that were alone in a directory now replace that directory, and the `import` lines follow (refer to [SOURCE.md](SOURCE.md)).
 
 The author describes the work in the note [remark.pdf](https://alpo.ge/remark.pdf). The note says that the Lean code proves the Riemann Hypothesis and the Generalized Riemann Hypothesis for Dirichlet L-functions. This repository does not make that claim. It keeps the source in a form that people can read, cite, search and build.
 
@@ -10,7 +10,7 @@ The written explanation of the proof is in [tamnd/riemann](https://github.com/ta
 
 | Check | Result |
 |---|---|
-| The tree is the same as the release | yes, see [SOURCE.md](SOURCE.md) and `manifests/files.sha256` |
+| The tree is the same as the release | yes, after one mechanical step that flattens one-file directories; see [SOURCE.md](SOURCE.md) and `manifests/release-files.sha256` |
 | Text scan for `sorry`, `admit`, `axiom`, `native_decide` and other escape hatches | no hits, see [docs/SCAN.md](docs/SCAN.md) |
 | A reading of the source: every input of the trunk theorem comes from a proved term | yes, see [the trust report](https://riemann.tamnd.com/trust/) |
 | Full build with the pinned toolchain | not done yet |
@@ -23,7 +23,7 @@ The checks that need a build are work of milestone M2 of tamnd/riemann-agent. Un
 
 | Path | Content |
 |---|---|
-| `lean/` | the release, byte for byte |
+| `lean/` | the release, with one-file directories flattened by `scripts/restructure.py` |
 | `lean/src/Main.lean` | the five main theorems |
 | `lean/src/Statements.lean` | four statements about Dirichlet L-functions, on top of Mathlib |
 | `docs/STRUCTURE.md` | the libraries, the entry points and the top of the proof |

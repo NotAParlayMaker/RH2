@@ -1,4 +1,4 @@
-import Development.WeilBound.KatoCoprimality.CoprimePowers.CoprimePowerSubOne.CoprimePowSubOne
+import Development.WeilBound.KatoCoprimality
 import Formalism.LocalRingCardinality.AdicCompletionLocal.InstIsAdicCompleteOCSpanSingletonSetCast
 import Development.AbelianVarietyTheory.CrystallinePeriods.RingBasics
 

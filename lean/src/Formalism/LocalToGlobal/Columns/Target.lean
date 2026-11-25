@@ -1,6 +1,6 @@
 import Formalism.LocalToGlobal.Columns.WordFin
 import Formalism.LocalToGlobal.Columns.TiedBack
-import Formalism.LocalToGlobal.Columns.ColumnDeterminants.ColsTiedD
+import Formalism.LocalToGlobal.Columns.ColumnDeterminants
 import Formalism.LocalToGlobal.Columns.ReferenceActionRationalLevels
 import Formalism.LocalToGlobal.Columns.RecLevel
 import Formalism.LocalToGlobal.KernelLattices.ThDistC

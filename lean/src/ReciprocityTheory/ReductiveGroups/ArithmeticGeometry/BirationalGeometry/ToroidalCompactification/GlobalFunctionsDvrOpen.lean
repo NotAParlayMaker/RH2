@@ -1,5 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.GlobFnsDvr
-import Lemmata.GeneralBFactFurther.Imports
+import Lemmata.GeneralBFactFurther
 
 set_option autoImplicit false
 

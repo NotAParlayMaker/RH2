@@ -3,7 +3,7 @@ import Formalism.LocalRingCardinality.AdicCompletionLocal.LocTied
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.ExistsOfLayers
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IntegersCompleteDVR
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUniqueFixedPointOfAdicContraction
-import ReciprocityTheory.AdicCompleteness.IsAdicCompleteComapConstantCoeff
+import ReciprocityTheory.AdicCompleteness
 
 namespace GlobalTheory.HWL.SeriesEval
 

@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.NormalizedHeckeFactors.HostConj
-import ReciprocityTheory.ReductiveGroups.LocalHeights.Imports
+import ReciprocityTheory.ReductiveGroups.LocalHeights
 
 open Formalism.BasicNotions NumberField
 

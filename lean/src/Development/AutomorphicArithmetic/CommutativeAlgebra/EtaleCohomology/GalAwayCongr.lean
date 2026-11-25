@@ -1,6 +1,6 @@
 import Development.AutomorphicArithmetic.CommutativeAlgebra.EtaleCohomology.AbsInvOf
 import Development.WeilBound.CoreStatements.CrystallinePeriodRings.PhiGalCris
-import Development.WeilBound.RepresentationTheoryGL.PeriodRingBases.PeriodRingUnits.DieudonneManinBasisModification
+import Development.WeilBound.RepresentationTheoryGL.PeriodRingBases.PeriodRingUnits
 import GroundTheory.PAdicHodge.ACrisBdRInj
 
 open CrystallineSemistableComparison UpperTheory.Ru.crystallineComparison

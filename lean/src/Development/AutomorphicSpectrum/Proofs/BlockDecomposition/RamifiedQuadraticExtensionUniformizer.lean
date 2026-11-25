@@ -1,7 +1,7 @@
 import Mathlib
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.KFiniteThetaLifts.RationalPrimesBelowPlaces
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IntInd
-import GroundTheory.LocalFields.QuadraticAbelian.WeilRepQuadratic
+import GroundTheory.LocalFields.QuadraticAbelian
 import GroundTheory.AutomorphicForms.MacdonaldWhittaker
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ModulusEntryLeMRow
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.OrdEqZeroOfModulusEqOne

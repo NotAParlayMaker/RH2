@@ -1,5 +1,5 @@
 import Mathlib
-import Development.AutomorphicArithmetic.IntegralCasts.AlgebraicInfinityType.InfinityType
+import Development.AutomorphicArithmetic.IntegralCasts.AlgebraicInfinityType
 
 open NumberField
 

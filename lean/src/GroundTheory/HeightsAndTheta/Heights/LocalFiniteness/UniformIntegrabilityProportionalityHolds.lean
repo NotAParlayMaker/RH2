@@ -82,7 +82,7 @@ import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PBlockImageMetrics
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PVeroneseChi
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PVeroneseGramMono
 import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.PVeroneseMonoBasis
-import GroundTheory.HeightsAndTheta.Heights.MonomialBases.ProjectiveLineSections
+import GroundTheory.HeightsAndTheta.Heights.MonomialBases
 import GroundTheory.HeightsAndTheta.Heights.Intersections.FunFieldLeLocRing
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.Assembly
 import GroundTheory.HeightsAndTheta.Heights.HeightKernels.AssemblyAnalytic

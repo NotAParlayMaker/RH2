@@ -1,5 +1,5 @@
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GelfandTsetlinLowering.CapelliShift
-import Lemmata.GeneralBFactRight.Imports
+import Lemmata.GeneralBFactRight
 
 noncomputable section
 

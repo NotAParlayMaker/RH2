@@ -4,7 +4,7 @@ import Formalism.LocalToGlobal.SiegelLatticeTheory.HaarTransversals.UnitaryHaarP
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicClassFiniteness.DictAll
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.SplitRow
 import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RootLatticeThresholds.LatDictZ
-import Lemmata.GeneralBFactThirdTerForm.Imports
+import Lemmata.GeneralBFactThirdTerForm
 
 noncomputable section
 

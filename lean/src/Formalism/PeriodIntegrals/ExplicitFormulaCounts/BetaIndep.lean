@@ -1,4 +1,4 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.BetaIndependence.YliftLeOrth
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.BetaIndependence
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.BetaModX
 
 attribute [local instance] Formalism.BasicNotions.Host.cmStar

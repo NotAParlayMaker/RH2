@@ -1,6 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.PullbackSections.DiffAtOddSt
-import Lemmata.MiscLemmasK.Imports
-import Lemmata.FirstBlockLemmaL.Imports
+import Lemmata.MiscLemmasK
+import Lemmata.FirstBlockLemmaL
 
 noncomputable section
 

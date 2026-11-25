@@ -10,7 +10,7 @@ import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IntegrationB
 import Development.AbelianVarietyTheory.Proofs.HeightProofs.ExistsSigmaList
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.AdelicOpenNeighbourhoodProduct
 import Development.AutomorphicSpectrum.Proofs.GlobalProofs.FiniteDimensionalOfEmbedding
-import Development.WeilBound.CoreStatements.MeasureExistence.ExistsMeas
+import Development.WeilBound.CoreStatements.MeasureExistence
 open Formalism.BasicNotions Formalism.BasicNotions.TH Formalism.MainNotions.GlobalTheoryTheory.GenusMassVolumes Formalism.MainNotions.StandardLattice Formalism.L2.Theta MeasureTheory Matrix
 open scoped TensorProduct Topology InnerProductSpace
 attribute [local instance] Formalism.BasicNotions.Host.cmStar

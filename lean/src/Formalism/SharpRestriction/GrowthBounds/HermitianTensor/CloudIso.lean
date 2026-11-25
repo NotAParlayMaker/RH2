@@ -2,7 +2,7 @@ import Formalism.SharpRestriction.GrowthBounds.HermitianTensor.CloudIsoDef
 import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.LatRetract
 import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.TensorKP
 import Formalism.SharpRestriction.GrowthBounds.ColumnSpanDensity.OneMemDualWeyl
-import Lemmata.DualWeylPullback.DualWeylPull
+import Lemmata.DualWeylPullback
 
 noncomputable section
 

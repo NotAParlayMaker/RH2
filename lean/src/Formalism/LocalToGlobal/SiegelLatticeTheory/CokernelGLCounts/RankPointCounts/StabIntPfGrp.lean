@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.PairVal
-import Lemmata.GeneralBFactRightBisAlt.Imports
+import Lemmata.GeneralBFactRightBisAlt
 
 noncomputable section
 

@@ -1,7 +1,7 @@
 import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeilStabilizerVolume.VolStabFromSWW
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicLocalCompactness.T2SpaceTensorProductFiniteExtension
-import ReciprocityTheory.GeneralLinearIntegers.AlgebraMapIntMemOint
+import ReciprocityTheory.GeneralLinearIntegers
 
 noncomputable section
 

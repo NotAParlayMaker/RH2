@@ -6,7 +6,7 @@ import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsStalkF
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.PreimageConnectedComponentMem
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IntOIsLocalRing
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.LatDRSubsetLatHT
-import Development.AbelianVarietyTheory.Statements.HeightBoundStatement.HTBoundSt
+import Development.AbelianVarietyTheory.Statements.HeightBoundStatement
 
 noncomputable section
 

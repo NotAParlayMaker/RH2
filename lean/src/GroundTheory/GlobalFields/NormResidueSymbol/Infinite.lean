@@ -1,5 +1,5 @@
 import Mathlib
-import GroundTheory.GlobalFields.InfiniteNormIndex.LocalSymbol
+import GroundTheory.GlobalFields.InfiniteNormIndex
 import GroundTheory.GlobalFields.IdeleGroups.LocalNormGroups
 import GroundTheory.GlobalFields.NormResidueSymbol.RangeFiniteLocalNormLeKerLocalSymbol
 

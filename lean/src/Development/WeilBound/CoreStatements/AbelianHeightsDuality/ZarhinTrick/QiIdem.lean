@@ -1,5 +1,5 @@
 import Mathlib
-import PositivityTheory.PublishedTheorems.WeilRepresentations.ZariskiDensity.QiCoreDefs
+import PositivityTheory.PublishedTheorems.WeilRepresentations
 
 set_option autoImplicit false
 

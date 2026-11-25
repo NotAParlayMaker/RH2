@@ -1,6 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArakelovVolumes.UpperBounds.MeasInvStatementPfA
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.UMatUpper
-import Lemmata.GeneralBFactForm.Imports
+import Lemmata.GeneralBFactForm
 
 namespace ReciprocityTheory.ChartRestriction.G.AR.Up.MI
 

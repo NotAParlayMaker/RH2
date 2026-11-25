@@ -4,7 +4,7 @@ import Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Exists
 import Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.DeRham
 import Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.DeRhamMap
 import Development.AutomorphicArithmetic.IntegralCasts.CrystallinePeriods.Embedding
-import Development.AutomorphicArithmetic.CrystallineRing.Acris0
+import Development.AutomorphicArithmetic.CrystallineRing
 
 noncomputable section
 

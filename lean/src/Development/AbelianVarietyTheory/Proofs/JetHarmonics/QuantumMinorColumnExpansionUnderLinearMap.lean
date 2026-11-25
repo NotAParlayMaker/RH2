@@ -5,7 +5,7 @@ import Formalism.RealPlaceAnalysis.StatementE
 import Formalism.RealPlaceAnalysis.StatementKT
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.QuantumDetHighestWeightHolds
 import Formalism.RealPlaceAnalysis.RealPlaceTaylor.ShiftedGeneratorEqIteSmulAdd
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExponentialFirstColumn.FirstColumnSplitBijective
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExponentialFirstColumn
 open BranchingSupport Formalism.FourierDecayAlt Formalism.FourierDecayAlt.ThreeDimData Matrix MeasureTheory Finset
 open scoped InnerProductSpace ENNReal
 

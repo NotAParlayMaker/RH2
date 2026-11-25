@@ -1,7 +1,7 @@
 import Mathlib
 import Formalism.LocalRingCardinality.DataSpaces
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LatticeAutomorphismFiniteness.SylvesterLe
-import Lemmata.GeneralBFactUpperAltForm.Imports
+import Lemmata.GeneralBFactUpperAltForm
 
 noncomputable section
 

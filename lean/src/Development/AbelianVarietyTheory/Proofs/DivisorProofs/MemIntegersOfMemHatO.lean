@@ -2,7 +2,7 @@ import Mathlib
 import Formalism.PairingDivisors.StatementA
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsFinSetSplitPlacesCoprimeConductor
 import Development.AbelianVarietyTheory.Proofs.AdelicLatticeProofs.CountableIdealSummableAbsNormRpow
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicCompactDensity.ExistsNatLocal
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicCompactDensity
 
 noncomputable section
 

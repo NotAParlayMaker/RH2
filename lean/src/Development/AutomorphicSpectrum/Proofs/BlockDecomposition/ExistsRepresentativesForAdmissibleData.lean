@@ -4,7 +4,7 @@ import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.LFunctionEquati
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SplitPlaceDegreeOneEmbedding
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IntegralBasisLocalIntegrality
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsNumeratorIdealOfAntiInvariantDivisor
-import GroundTheory.HeightsAndTheta.Theta.AlgebraicHecke.Characters
+import GroundTheory.HeightsAndTheta.Theta.AlgebraicHecke
 open NumberField IsDedekindDomain MeasureTheory GroundTheory.Global GroundTheory.LocalField GroundTheory.Automorphic Ad3 Ad3.K Ad3.K.QuadraticBaseChangeGL3 Ad3.K.QuadraticBaseChangeGL3.Th
 open GroundTheory.Automorphic.GodementSection (localChar)
 open GroundTheory.Automorphic.Reduction (finAt infAt maxCompact)

@@ -22,7 +22,7 @@ import Development.AutomorphicArithmetic.ConductorsKronecker.ChCond
 import Development.AutomorphicArithmetic.ConductorsKronecker.IsInertIff
 import Development.AutomorphicArithmetic.PrimitiveCosets.hostFactsS
 import Development.AutomorphicArithmetic.DedekindLFunctions.LandauTheorems.ChBalance
-import Lemmata.GeneralBFactLeftBisAlt.Imports
+import Lemmata.GeneralBFactLeftBisAlt
 
 noncomputable section
 

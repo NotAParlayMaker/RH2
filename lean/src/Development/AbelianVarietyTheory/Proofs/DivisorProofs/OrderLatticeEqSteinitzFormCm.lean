@@ -2,7 +2,7 @@ import Mathlib
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DifferentiableRisingS
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemIntegersOfMemHatO
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FiniteRingClassGroupOfConductorNeZero
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicCompactDensity.ExistsNatLocal
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicCompactDensity
 
 noncomputable section
 

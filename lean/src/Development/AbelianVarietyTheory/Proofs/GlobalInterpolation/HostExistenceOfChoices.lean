@@ -17,7 +17,7 @@ import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.NcardPrimesO
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.KroneckerTwoNegEqJacobiSymTwo
 import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.ExistsRanksRankValFrame
 import Formalism.SharpRestriction.RamificationFrobenius.TotientGaloisClasses.NonemptyFieldAxiomsCyclicPow
-import Development.AutomorphicArithmetic.EvenBoxes.BoxBoundForHost
+import Development.AutomorphicArithmetic.EvenBoxes
 
 open Formalism.BasicNotions Formalism.BasicNotions.LevelStarExponents Formalism.MainNotions Formalism.MainNotions.Inhab Formalism.L2.GlobalTheoryTheory GlobalTheory.EX NumberField
 

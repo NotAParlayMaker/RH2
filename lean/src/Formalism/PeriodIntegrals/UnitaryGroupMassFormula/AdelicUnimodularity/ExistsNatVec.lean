@@ -1,7 +1,7 @@
 import Mathlib
 import Formalism.SharpRestriction.CuspSpanNormBounds.GlobAut
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdelicUnimodularity.ExistsNatLocal
-import Lemmata.NatMulIsIntegral.ExistsNatMulIsIntegral
+import Lemmata.NatMulIsIntegral
 
 noncomputable section
 

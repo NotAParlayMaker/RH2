@@ -1,5 +1,5 @@
 import Formalism.SizeWindowBrackets.SecondKindBucket
-import Formalism.LogFactorialBounds.LogFactorialProofs.PrimeSum
+import Formalism.LogFactorialBounds.LogFactorialProofs
 import Formalism.RankGapBounds.RankGapProofs.RankGapDecayHypothesis
 import Formalism.RankGapBounds.RankGapProofs.PmModulusFacts
 import Formalism.RankGapBounds.RankGapProofs.FourNotDvdOddSqAddOne

@@ -1,5 +1,5 @@
 import ReciprocityTheory.AnalyticForms.RegularLocalRings.JacChartA
-import ReciprocityTheory.CommutativeAlgebra.MaximalIdealSquares.RingKrullDimQuotientSpanSingletonAddOne
+import ReciprocityTheory.CommutativeAlgebra.MaximalIdealSquares
 
 namespace ReciprocityTheory.AnForm.R.JacobianCriterionAlt
 

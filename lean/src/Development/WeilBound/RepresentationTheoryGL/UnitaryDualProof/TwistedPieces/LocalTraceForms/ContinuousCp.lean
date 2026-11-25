@@ -1,6 +1,6 @@
 import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.TwistedPieces.LocalTraceForms.LocChi
 import GroundTheory.AutomorphicForms.WhittakerDistribution
-import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.LocalContinuity.LocalDescentHolds
+import Development.WeilBound.RepresentationTheoryGL.UnitaryDualProof.CompactOrbits.LocalContinuity
 import GroundTheory.AutomorphicForms.ContragredientTranspose.MatrixSimilarity
 
 noncomputable section

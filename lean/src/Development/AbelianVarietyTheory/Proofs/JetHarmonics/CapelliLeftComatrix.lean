@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.RealPlaceAnalysis.ThirdArithmeticHolds
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExponentialFirstColumn.FirstColumnSplitBijective
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ExponentialFirstColumn
 
 open Formalism.REAL Finset
 

@@ -1,5 +1,5 @@
 import Mathlib
-import ReciprocityTheory.AdicCompleteness.IsAdicCompleteComapConstantCoeff
+import ReciprocityTheory.AdicCompleteness
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.MemEurOfTeichmullerSeries
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CyclotomicPowerSeriesAlgHomActionLaws
 import Development.AbelianVarietyTheory.Proofs.JetHarmonics.IsAdicCompleteOfPowLeOfPowLe

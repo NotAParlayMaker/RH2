@@ -1,5 +1,5 @@
 import Development.WeilBound.RepresentationTheoryGL.FormalDegree.FormalDegreeHilbert.HlamStable
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.DiscreteSeriesSU.GapInv
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.DiscreteSeriesSU
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.HighestWeights.Exists
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.ExistsMu
 

@@ -1,5 +1,5 @@
 import Mathlib
 import Formalism.PeriodIntegrals.ArtSch
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ValuationGluing.ValbLeOfCoeffEqZero
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.ValuationGluing
 
 theorem tiltSurjectiveOfParts : PI.ArtSch.TiltGlue := PI.ArtSch.Glue.tiltGlue

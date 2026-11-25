@@ -2,7 +2,7 @@ import Formalism.SharpRestriction.GlobalSchurBounds.GlobalRankLatticeProofs.Unit
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.WfSubst
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.WfRing
 import Mathlib
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EvenPowerSeries.WqEven
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.EvenPowerSeries
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.WittLogarithm
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.WittFrobeniusEnd
 

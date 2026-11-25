@@ -1,5 +1,5 @@
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ExistsDualBound
-import Lemmata.GeneralBFactLeftRest.Imports
+import Lemmata.GeneralBFactLeftRest
 
 open NumberField Module
 

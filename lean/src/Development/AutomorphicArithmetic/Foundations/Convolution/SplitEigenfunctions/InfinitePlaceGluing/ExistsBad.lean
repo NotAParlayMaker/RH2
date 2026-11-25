@@ -1,7 +1,7 @@
 import Development.AutomorphicArithmetic.Foundations.Convolution.SplitEigenfunctions.Entire
 import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GlobalTwisting.Imports
-import CompanionTheory.EightfoldTheory.VariationTheory.AutomorphicForms.RealStructures.Imports
+import CompanionTheory.EightfoldTheory.VariationTheory.AutomorphicForms.RealStructures
 import CompanionTheory.EightfoldTheory.VariationTheory.AutomorphicForms.ImportsBis
 import PositivityTheory.AutomorphicForms.PublishedInputs.RealGaloisRepresentations.IwahoriSphericalTransfer.HeckeCharacterEqOfCofinite
 

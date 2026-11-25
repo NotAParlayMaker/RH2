@@ -1,5 +1,5 @@
 import Mathlib
-import Formalism.PeriodIntegrals.AdmissibleModel.WeylDim
+import Formalism.PeriodIntegrals.AdmissibleModel
 import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
 import Formalism.LocalToGlobal.Columns.PolyFnLemmas
 import Formalism.PolynomialDimension.WeylDim

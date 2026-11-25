@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AbelianVarietyTheory.Definitions.Divisors.NotCompactOfMEqOne
-import ReciprocityTheory.ReductiveGroups.Lattices.LatUnrCharA
+import ReciprocityTheory.ReductiveGroups.Lattices
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CharpolyDvdPowOfAevalEqZero
 
 open NumberField Polynomial

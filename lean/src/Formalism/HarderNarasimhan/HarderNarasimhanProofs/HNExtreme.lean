@@ -8,7 +8,7 @@ import Formalism.HarderNarasimhan.HarderNarasimhanProofs.DegSupermod
 import Formalism.HarderNarasimhan.HarderNarasimhanProofs.RatioMax
 import Formalism.HarderNarasimhan.HarderNarasimhanProofs.FinSup
 import Formalism.HarderNarasimhan.HarderNarasimhanProofs.ExistsSmulMemOfFinrankEq
-import Lemmata.GeneralBFactLeftForm.Imports
+import Lemmata.GeneralBFactLeftForm
 
 open Module Submodule
 

@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.LocalToGlobal.GaloisLevelStructure.DefsAut
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CompletionExistence.LeOneIffOfMulEqOne
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CompletionExistence
 
 open NumberField IsDedekindDomain ReciprocityTheory.Aut Formalism.AUTREP Formalism.L2
 

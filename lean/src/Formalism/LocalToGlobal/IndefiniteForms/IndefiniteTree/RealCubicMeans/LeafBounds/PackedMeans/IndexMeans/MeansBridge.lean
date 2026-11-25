@@ -1,6 +1,6 @@
 import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.RealCubicMeans.LeafBounds.LeafMeans.LeafMeans
 import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.RealCubicMeans.LeafBounds.PackedMeans.IndexMeans.MeansPf
-import Development.WeilBound.SupplementaryPages.FaceFrameMatrix
+import Development.WeilBound.SupplementaryPages
 
 noncomputable section
 

@@ -1,5 +1,5 @@
 import Mathlib
-import Development.WeilBound.CoreStatements.AutomorphicKernels.EisensteinSeriesG2.HeisenbergTheta.HeisenbergThetaConstant.ThetaC
+import Development.WeilBound.CoreStatements.AutomorphicKernels.EisensteinSeriesG2.HeisenbergTheta
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SchwartzBruhatUniformSummableMajorant
 import GroundTheory.AutomorphicForms.GL2.GJMatrixAdelic
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.SummableProdCoord

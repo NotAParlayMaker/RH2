@@ -1,6 +1,6 @@
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.WeightProjectionDiagonalApplyEqSmul
 import Formalism.SharpRestriction.GrowthBounds.RootWeights.InvariantProjectionExtremalFormula
-import Lemmata.GeneralBFactLeftAltForm.MQ
+import Lemmata.GeneralBFactLeftAltForm
 
 noncomputable section
 

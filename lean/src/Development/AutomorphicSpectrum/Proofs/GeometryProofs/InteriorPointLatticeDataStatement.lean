@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AutomorphicSpectrum.Proofs.GeometryProofs.InteriorPointLatticeData
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.BlowupProjections.BlowupProjStatement
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.BlowupProjections
 import Mathlib
 import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.BdryChart
 import ReciprocityTheory.AnalyticForms.PlurisubharmonicFunctions.IsPshLocallyIntegrableStatement

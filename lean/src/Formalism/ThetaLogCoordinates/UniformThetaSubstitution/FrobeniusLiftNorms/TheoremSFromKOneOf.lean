@@ -1,7 +1,7 @@
 import Mathlib
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.CyclicPowerClassOfExpEquiv
 import Formalism.ThetaLogCoordinates.UniformThetaSubstitution.FrobeniusLiftNorms.TopsChoicePartB
-import Lemmata.GeneralBFactRightExtra.Imports
+import Lemmata.GeneralBFactRightExtra
 
 noncomputable section
 

@@ -10,7 +10,7 @@ import Formalism.SharpRestriction.GrowthBounds.IntegralWeylLatticeSpan.LatSOfLoc
 import Formalism.SharpRestriction.GrowthBounds.BaseLevels.LevelsGEmpty
 import Formalism.SharpRestriction.GrowthBounds.ChartedClasses.TiedCls
 import Formalism.SharpRestriction.GrowthBounds.ChartComparison.MemAll
-import Formalism.SharpRestriction.GrowthBounds.TwistedLevelAgreement.StepInTwK
+import Formalism.SharpRestriction.GrowthBounds.TwistedLevelAgreement
 
 noncomputable section
 

@@ -1,6 +1,6 @@
 import Mathlib
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ArithmeticIntersection.MultihomogeneousIdeals.IsFieldIntersection
-import GroundTheory.ArithmeticGeometry.IwasawaModules.SpanFinrankMaximalIdealLeTwo
+import GroundTheory.ArithmeticGeometry.IwasawaModules
 set_option maxSynthPendingDepth 1
 
 noncomputable section

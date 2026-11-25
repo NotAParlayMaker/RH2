@@ -1,5 +1,5 @@
 import Mathlib
-import GroundTheory.HeightsAndTheta.Theta.SplitLinear.RankMinors
+import GroundTheory.HeightsAndTheta.Theta.SplitLinear
 import GroundTheory.HeightsAndTheta.Heights.ComplexAnalyticSets.StProjectionUnramifiedGeneric
 set_option maxSynthPendingDepth 1
 

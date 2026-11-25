@@ -2,7 +2,7 @@ import Mathlib
 import Formalism.PairingDivisors.StatementA
 import Development.AbelianVarietyTheory.Definitions.Divisors.IsFinSetSplitPlacesCoprimeConductor
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemCompletedOrderIffPlacewiseStatement
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FiniteOrderValuation.WeakApprox
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FiniteOrderValuation
 
 noncomputable section
 

@@ -2,7 +2,7 @@ import ReciprocityTheory.ReductiveGroups.DiscreteSeries.InfinitesimalDecay.DecBo
 import Formalism.HermitianCurvature.BesselNonvanishingReduction
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.PolynomialProperness.ZhatNormLinearBound
 import CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AdmissibleSmoothVectors.AdmissibleOfIwasawa
-import CompanionTheory.AutomorphicTheory.KFiniteVectors.KDecay
+import CompanionTheory.AutomorphicTheory.KFiniteVectors
 
 open Matrix Formalism.FourierDecayAlt Formalism.FourierDecayAlt.ThreeDimData ReciprocityTheory.ChartRestriction.DS
 open scoped InnerProductSpace

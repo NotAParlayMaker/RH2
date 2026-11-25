@@ -1,6 +1,6 @@
 import Formalism.ThetaLogCoordinates.DualWeylCoordinates.DefsMod
 import Formalism.GradedWeylDivisibility.StatementD
-import Lemmata.GeneralBFactSecondTer.Imports
+import Lemmata.GeneralBFactSecondTer
 
 noncomputable section
 

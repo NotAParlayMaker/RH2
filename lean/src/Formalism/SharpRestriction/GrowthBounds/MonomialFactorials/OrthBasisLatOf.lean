@@ -1,5 +1,5 @@
 import Formalism.SharpRestriction.GrowthBounds.MonomialFactorials.OrthCountOf
-import Lemmata.B1962s.FreeLat
+import Lemmata.B1962s
 
 noncomputable section
 

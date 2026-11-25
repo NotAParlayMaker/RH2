@@ -1,5 +1,5 @@
 import Mathlib
-import Development.AbelianVarietyTheory.Statements.HyperbolicHypotheses.HypothesesInhabitedHyperbolic
+import Development.AbelianVarietyTheory.Statements.HyperbolicHypotheses
 import Development.AbelianVarietyTheory.PublishedTheorems.Landherr₂.LandherrStIffLandherr
 import Development.AbelianVarietyTheory.PublishedTheorems.Landherr₂.ExistsNormTensor
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.AllClassesOccur

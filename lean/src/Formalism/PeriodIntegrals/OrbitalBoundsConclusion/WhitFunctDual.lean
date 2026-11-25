@@ -1,5 +1,5 @@
 import Mathlib
 import Formalism.PeriodIntegrals.WhitFunctDual
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WhittakerFunctionalDual.StableOfIrreducible
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WhittakerFunctionalDual
 
 theorem whittaker_functional_dual : PI.WhitFunctDual := PI.WhitFunctDualWork.whitFunctDual_main

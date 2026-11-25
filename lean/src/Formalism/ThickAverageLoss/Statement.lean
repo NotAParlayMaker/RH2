@@ -1,4 +1,4 @@
-import Formalism.WideWeightTheorem.Statement
+import Formalism.WideWeightTheorem
 import Formalism.StatementU
 
 open Finset ArithmeticFunction

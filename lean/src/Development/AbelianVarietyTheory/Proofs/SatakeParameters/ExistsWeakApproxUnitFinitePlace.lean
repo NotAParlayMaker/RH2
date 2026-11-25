@@ -1,5 +1,5 @@
 import Mathlib
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FiniteOrderValuation.WeakApprox
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FiniteOrderValuation
 
 open NumberField IsDedekindDomain IsDedekindDomain.HeightOneSpectrum WithZero
 

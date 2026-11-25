@@ -1,7 +1,7 @@
 import Mathlib
 import Formalism.PeriodIntegrals.LowCyc
 import Formalism.PeriodIntegrals.KFinSmooth
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerSmoothStability.ExistsFinStableOfMemSSup
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerSmoothStability
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ContinuousWordTranslate
 
 noncomputable section

@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.FrobeniusOrbits.HostThickExists
-import Lemmata.GeneralBFactSecondLast.Imports
+import Lemmata.GeneralBFactSecondLast
 
 open Finset
 

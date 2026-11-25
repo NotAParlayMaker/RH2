@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.GaloisTorsionConjugacy.MulMain
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeierstrassUniformization.PairIsLat
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.WeierstrassUniformization
 
 noncomputable section
 

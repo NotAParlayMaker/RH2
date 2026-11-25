@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitKronecker.Development
-import Lemmata.GeneralBFactRightBis.Imports
+import Lemmata.GeneralBFactRightBis
 
 namespace PI.UnitKronW
 

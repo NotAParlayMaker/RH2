@@ -1,5 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.IsClosedKset
-import Lemmata.MovedPointExistence.ExistsMoved
+import Lemmata.MovedPointExistence
 
 noncomputable section
 

@@ -1,5 +1,5 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.IsUnivRingBc
-import Lemmata.MiscLemmasQ.Imports
+import Lemmata.MiscLemmasQ
 
 set_option autoImplicit false
 

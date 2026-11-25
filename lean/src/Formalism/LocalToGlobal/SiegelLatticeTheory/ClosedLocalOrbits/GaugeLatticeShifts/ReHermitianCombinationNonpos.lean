@@ -1,6 +1,6 @@
 import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.Corank
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.BetaUniqueness.FlagVectorMemLocalization
-import Lemmata.GeneralBFactThirdForm.Imports
+import Lemmata.GeneralBFactThirdForm
 
 noncomputable section
 

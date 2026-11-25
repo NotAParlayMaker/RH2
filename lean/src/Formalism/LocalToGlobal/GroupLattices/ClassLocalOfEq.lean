@@ -1,4 +1,4 @@
-import Formalism.SharpRestriction.GrowthBounds.LatticeMultiplicityLemmas.LatticeMultiplicityCheck.Retype
+import Formalism.SharpRestriction.GrowthBounds.LatticeMultiplicityLemmas
 import Formalism.LocalToGlobal.GroupLattices.StdSubAtOfRing
 import Formalism.LocalToGlobal.GroupLattices.TrivialTransfer.GramTotallyDefinite
 

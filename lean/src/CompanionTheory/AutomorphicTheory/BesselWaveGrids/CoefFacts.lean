@@ -1,5 +1,5 @@
 import CompanionTheory.AutomorphicTheory.SchurLimitBounds.ZuckermanDuality.Assemble
-import CompanionTheory.AutomorphicTheory.BesselSmoothness.BesselSmoothOf
+import CompanionTheory.AutomorphicTheory.BesselSmoothness
 import CompanionTheory.AutomorphicTheory.BesselWaveGrids.EqShift
 
 noncomputable section

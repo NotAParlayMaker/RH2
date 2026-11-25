@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.LineModel
-import Development.AbelianVarietyTheory.Statements.HeightBoundStatement.HTBoundSt
+import Development.AbelianVarietyTheory.Statements.HeightBoundStatement
 
 set_option autoImplicit false
 

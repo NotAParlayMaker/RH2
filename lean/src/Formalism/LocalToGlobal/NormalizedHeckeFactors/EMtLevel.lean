@@ -8,7 +8,7 @@ import Formalism.LocalToGlobal.NormalizedHeckeFactors.WittCoreInclusionMulVecMem
 import Formalism.LocalToGlobal.NormalizedHeckeFactors.RingHomOfBaseOrderToFraction
 import Formalism.LocalToGlobal.NormalizedHeckeFactors.Choice
 import Formalism.LocalToGlobal.GaloisLevelStructure.NGalTied
-import Formalism.LocalToGlobal.LocalInduction.BridgeInd
+import Formalism.LocalToGlobal.LocalInduction
 import Formalism.LocalRingCardinality.DataNChTie
 import Formalism.LocalToGlobal.GaloisLevelStructure.LinkChar
 

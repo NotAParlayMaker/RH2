@@ -8,7 +8,7 @@ import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.QkToAkDescen
 import Development.AbelianVarietyTheory.Proofs.TorusSplitting.ValuationFormPsiBalancedSymmetricPeriodForm
 import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsPsiCoordOfIsPsiCoord
 import Development.AbelianVarietyTheory.Proofs.ModuliProofs.ExistsSabCancel
-import Development.AbelianVarietyTheory.Counterexamples.UniqueMatching.ExistsUniqueMatch
+import Development.AbelianVarietyTheory.Counterexamples.UniqueMatching
 
 open AlgebraicGeometry CategoryTheory Limits NumberField IsLocalRing TopologicalSpace
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Out ReciprocityTheory.ChartRestriction.G.Geo.Tor Formalism.L2.Pj

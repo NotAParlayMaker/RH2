@@ -27,7 +27,7 @@ import Formalism.LocalRingCardinality.HostCls
 import Development.AutomorphicArithmetic.OrbitLabellings.EvenAddOrderOfHPOfPowLe
 import Development.AutomorphicArithmetic.OrbitLabellings.GalEArithFrobEqIotaHP
 import Development.AutomorphicArithmetic.PrimeDiscriminants.SplitLow
-import Lemmata.GeneralBFactUpperBis.Imports
+import Lemmata.GeneralBFactUpperBis
 
 noncomputable section
 

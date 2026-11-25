@@ -1,5 +1,5 @@
 import Mathlib
-import Development.AbelianVarietyTheory.Definitions.PlaceAdaptation.AdaptStd
+import Development.AbelianVarietyTheory.Definitions.PlaceAdaptation
 import Development.AbelianVarietyTheory.Proofs.RingsOfIntegers.FrameTieHolds
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermDPf
 import Formalism.SharpRestriction.Divisibility.GeneratorPowers.GermDVal

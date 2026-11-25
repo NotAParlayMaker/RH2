@@ -1,5 +1,5 @@
 import Mathlib
-import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.PerfectoidPullbacks.TwistedRepresentations.Tens
+import Development.WeilBound.CoreStatements.PadicHodgeComparison.EtaleCohomologyComparison.PerfectoidPullbacks.TwistedRepresentations
 
 open TensorProduct CrystallineSemistableComparison CrystallineSemistableComparison.Tw
 

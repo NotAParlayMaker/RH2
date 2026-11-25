@@ -1,6 +1,6 @@
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.ToroidalCompactification.DivCalc
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.ExtensionDescent.ThickTransComp
-import Lemmata.MiscLemmasN.Imports
+import Lemmata.MiscLemmasN
 
 set_option autoImplicit false
 

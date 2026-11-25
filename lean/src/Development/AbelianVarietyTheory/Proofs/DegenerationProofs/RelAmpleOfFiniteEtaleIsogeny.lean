@@ -6,7 +6,7 @@ import Development.AbelianVarietyTheory.Definitions.Degenerations.OfDerivationFn
 import Development.AbelianVarietyTheory.Definitions.Degenerations.PlOrdSomeOfAssociated
 import Development.AbelianVarietyTheory.Statements.SemistableTorsion.SemistableFin
 import Development.AbelianVarietyTheory.Statements.SemistableTorsion.ImmersedBy
-import Development.AbelianVarietyTheory.PublishedTheorems.RelativeAmpleness.RelAmpleAndKTrivIff
+import Development.AbelianVarietyTheory.PublishedTheorems.RelativeAmpleness
 open CategoryTheory Limits MonoidalCategory CartesianMonoidalCategory MonObj AlgebraicGeometry
 open scoped CategoryTheory.Obj
 open ReciprocityTheory.ChartRestriction.G ReciprocityTheory.ChartRestriction.G.Semi ReciprocityTheory.ChartRestriction.G.Geo.Tor

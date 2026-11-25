@@ -1,6 +1,6 @@
 import Mathlib
 import PositivityTheory.AutomorphicForms.PublishedInputs.CuspidalContinuity.ArchimedeanCuspidal.KFiniteVectors.LocalWhittakerDuality.WSteps
-import GroundTheory.LocalFields.QuadraticAbelian.WeilRepQuadratic
+import GroundTheory.LocalFields.QuadraticAbelian
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GTil
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.WeilModulusHypothesis
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsHaarMeasureComapSubtype

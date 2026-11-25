@@ -1,4 +1,4 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IntegerProductCast.OfFnProdIntCast
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IntegerProductCast
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QmRowForm
 
 theorem quantum_minor_star : PI.QmStar :=

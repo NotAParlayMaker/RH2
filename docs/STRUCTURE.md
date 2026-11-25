@@ -1,6 +1,6 @@
 # Structure
 
-This document describes the layout of `lean/`. The numbers come from a scan of the release on 2026-11-21. The toolchain in tamnd/riemann-agent makes them again with `rh index`.
+This document describes the layout of `lean/`. The numbers come from a scan of the release on 2026-11-21. `lean/` has the same modules and lines as the release, but 781 of them have new paths (refer to [SOURCE.md](../SOURCE.md)). The toolchain in tamnd/riemann-agent makes them again with `rh index`.
 
 ## Package
 

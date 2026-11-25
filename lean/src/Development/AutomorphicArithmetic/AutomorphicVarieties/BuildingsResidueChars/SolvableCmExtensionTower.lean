@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.SignAgreement.ExistsCompositumWithPrimeDegreeGalois
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.SignAgreement
 
 open NumberField UpperTheory.V.Af.Sol
 

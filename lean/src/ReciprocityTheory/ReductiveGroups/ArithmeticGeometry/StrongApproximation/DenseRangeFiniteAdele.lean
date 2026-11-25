@@ -1,5 +1,5 @@
 import Mathlib
-import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.AdeleApproximation.AdeleIntA
+import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.AdeleApproximation
 
 namespace ReciprocityTheory.ChartRestriction.G.SA
 

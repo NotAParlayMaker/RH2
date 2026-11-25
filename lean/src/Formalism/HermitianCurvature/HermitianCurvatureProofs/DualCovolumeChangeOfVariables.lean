@@ -1,5 +1,5 @@
 import Formalism.HermitianCurvature.StatementJ
-import Lemmata.FiberEquations.FiberEq
+import Lemmata.FiberEquations
 
 open Finset NumberField Formalism.FourierDecayAlt Formalism.FourierDecayAlt.J Module
 open scoped ComplexConjugate nonZeroDivisors

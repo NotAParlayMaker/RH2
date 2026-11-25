@@ -1,5 +1,5 @@
 import Mathlib
-import Development.AutomorphicArithmetic.IntegralCasts.TransposeInverse.TransposeInv
+import Development.AutomorphicArithmetic.IntegralCasts.TransposeInverse
 import Development.AutomorphicArithmetic.IntegralCasts.CapelliIdentities.IsOpenStabilizer
 
 noncomputable section

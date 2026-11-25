@@ -2,7 +2,7 @@ import Mathlib
 import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.CGTrue
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.RecTExists
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.RecTExistsIff
-import CompanionTheory.EightfoldTheory.ZeroLevelTheory.LocalLanglands.Imports
+import CompanionTheory.EightfoldTheory.ZeroLevelTheory
 import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Nontrivial
 import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.CuspidalOfLocalLanglands
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.CGTrueT

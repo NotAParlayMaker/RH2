@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.GroupLattices.FockModels.SwRowGenMonomial
-import Lemmata.GeneralBFactRightBisForm.Imports
+import Lemmata.GeneralBFactRightBisForm
 
 open MvPolynomial
 

@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.LocalToGlobal.Columns.GoodXgFin
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IrreducibleFinrankOne.IrrOfFinrankOne
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.IrreducibleFinrankOne
 
 open Formalism.L2.DIV
 

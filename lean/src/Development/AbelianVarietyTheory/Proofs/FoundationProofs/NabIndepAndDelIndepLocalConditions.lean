@@ -7,7 +7,7 @@ import Formalism.HarderNarasimhan.ShiftInvariance
 import Formalism.QuotientMetricDivisors.ReductionLemmaZero
 import Formalism.QuotientMetricDivisors.ProdFormula
 import Formalism.LocalToGlobal.Divisibility.CoefModLemmas
-import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.RealCubicMeans.LeafBounds.MeanMaxLeaf.LeafMMFree
+import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.RealCubicMeans.LeafBounds.MeanMaxLeaf
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ActPMemLocPNabStdOfIsBasisAtStatement
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ActPMemLocPDelStdOfIsBasisAtStatement
 

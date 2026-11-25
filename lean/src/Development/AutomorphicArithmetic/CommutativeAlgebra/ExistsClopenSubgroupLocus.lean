@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.SpecialMaps.QuotObjDefs
+import Development.AutomorphicArithmetic.SpecialMaps
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.QuotGlobalHolds
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsPullbackKernelOfKernelPair
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsClopenTorsionKernelLocusStatement

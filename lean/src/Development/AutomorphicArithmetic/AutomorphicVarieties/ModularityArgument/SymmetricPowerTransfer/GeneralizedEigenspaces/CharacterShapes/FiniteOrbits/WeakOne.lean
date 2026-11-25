@@ -1,6 +1,6 @@
 import Development.AutomorphicArithmetic.AutomorphicVarieties.ModularityArgument.SymmetricPowerTransfer.GeneralizedEigenspaces.CharacterShapes.HodgeTateFromSandwich
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbsHalfConjugatePlaceEq
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FiniteOrderValuation.WeakApprox
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FiniteOrderValuation
 
 noncomputable section
 

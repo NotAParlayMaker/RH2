@@ -3,7 +3,7 @@ import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IwasawaExponentHnfG
 import GroundTheory.AutomorphicForms.SphericalIntegral
 import Development.AbelianVarietyTheory.Proofs.TwistedOperators.HermiteReductionUnipotent
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CardHermiteDataPowerQStatement
-import Formalism.ArtinHasse.ArtinHasseProofs.SymmSeries
+import Formalism.ArtinHasse.ArtinHasseProofs
 
 open GroundTheory.Automorphic GLnLocal Iwasawa
 open scoped ValuativeRel

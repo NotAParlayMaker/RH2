@@ -1,4 +1,4 @@
-import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.ParametricIntegralSmoothness.IntCommute
+import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.ParametricIntegralSmoothness
 import CompanionTheory.HarishChandraModules.KFiniteAnalyticVectors.AdmissibleSmoothVectors.AdmissibleOfIwasawa
 
 open Matrix Filter Topology Set MeasureTheory MeasureTheory.Measure

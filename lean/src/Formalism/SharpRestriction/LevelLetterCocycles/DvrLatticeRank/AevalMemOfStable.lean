@@ -1,7 +1,7 @@
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.AevalEndApply
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.Imports
 import Formalism.SharpRestriction.LevelLetterCocycles.DvrLatticeRank.ModelQPfA
-import Lemmata.PowerMembership.PowMem
+import Lemmata.PowerMembership
 
 noncomputable section
 

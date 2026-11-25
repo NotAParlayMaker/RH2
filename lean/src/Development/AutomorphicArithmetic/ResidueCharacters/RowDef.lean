@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.BoundAtTwoAndThreeForFamily
-import Formalism.SharpRestriction.LevelLetterCocycles.SmallTwists.RowSmall
+import Formalism.SharpRestriction.LevelLetterCocycles.SmallTwists
 
 noncomputable section
 

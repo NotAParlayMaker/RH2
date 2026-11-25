@@ -1,4 +1,4 @@
-import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TupleActions.InstMulActionTup
+import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TupleActions
 
 open CategoryTheory UpperTheory.V.Af.CohB in
 theorem UpperTheory.adelic_rep_bounded_of_subgroup_bounded :

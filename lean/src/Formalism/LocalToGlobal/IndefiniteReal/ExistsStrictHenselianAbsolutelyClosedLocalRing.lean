@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.LocalToGlobal.IndefiniteReal.AllPartsTransfer
-import Lemmata.RankOneOrbitForms.RankOneForm
+import Lemmata.RankOneOrbitForms
 
 open Module NumberField
 

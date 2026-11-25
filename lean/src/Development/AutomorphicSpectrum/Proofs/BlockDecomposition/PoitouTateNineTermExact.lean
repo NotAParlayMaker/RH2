@@ -1,5 +1,5 @@
 import Mathlib
-import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.PairSums.SumPair
+import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.PairSums
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.NatCardDualEq
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CardEqCardKerMulCardRange
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.GaloisCohomologyLocalGlobalDualStatement

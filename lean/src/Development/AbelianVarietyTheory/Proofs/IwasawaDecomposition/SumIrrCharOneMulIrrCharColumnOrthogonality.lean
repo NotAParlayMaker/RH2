@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.LocalToGlobal.Columns.GoodXgFin
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CyclicSplitting.IrrDecomp
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CyclicSplitting
 
 open Formalism.L2.DIV
 

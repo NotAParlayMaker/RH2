@@ -2,7 +2,7 @@ import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentati
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.CardStabilizerAutSub
 import Formalism.GL3MeanSquares.GenusMeanAsymptotics.UnimodularClassRepresentatives.ExistsRepsOfCover
 import Formalism.ThetaLiftIndependence.ThetaOrbitSums.ClassRepsDefinite
-import Lemmata.GeneralBFactSecondForm.Imports
+import Lemmata.GeneralBFactSecondForm
 
 open NumberField Module
 

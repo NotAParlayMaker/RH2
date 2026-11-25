@@ -1,4 +1,4 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitarySecondCountable.Assembly
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.UnitarySecondCountable
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.CompactGelfandAverage.GelfCptOf
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GelfSpan
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.GelfConv

@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.PeriodIntegrals.SelfDualOfDiff
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.KernelSplitting.IsIntegralHalf
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.KernelSplitting
 
 theorem kernel_split_of_jacobi : PI.KerIso.SplitOfJacobi := by
   intro K E _ _ _ _ _ cj d p s hd hs hcj hp hJ

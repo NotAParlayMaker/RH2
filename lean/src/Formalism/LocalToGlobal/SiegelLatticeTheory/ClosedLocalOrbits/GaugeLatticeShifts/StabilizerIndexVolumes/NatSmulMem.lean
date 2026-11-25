@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.LocalToGlobal.SiegelLatticeTheory.ClosedLocalOrbits.GaugeLatticeShifts.StabilizerIndexVolumes.StClosed
-import Lemmata.GeneralBFactThirdVersion.Imports
+import Lemmata.GeneralBFactThirdVersion
 
 noncomputable section
 

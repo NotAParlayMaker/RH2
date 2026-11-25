@@ -1,5 +1,5 @@
 import Formalism.PadicSubsetSums.CentralIdempotents.PrimitiveRootFifteenSubOneUnit
-import Lemmata.GeneralBFactSecondVersion.Imports
+import Lemmata.GeneralBFactSecondVersion
 
 noncomputable section
 open Polynomial

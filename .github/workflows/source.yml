@@ -17,7 +17,7 @@ concurrency:
 
 jobs:
   tree:
-    name: tree matches the release
+    name: tree matches the manifest
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
@@ -31,9 +31,11 @@ jobs:
           find lean -type f | LC_ALL=C sort > local.txt
           cut -c67- manifests/files.sha256 | LC_ALL=C sort > manifest.txt
           diff manifest.txt local.txt
+      - name: check that the layout is final
+        run: python3 scripts/restructure.py --check
 
   upstream:
-    name: release at alpo.ge is unchanged
+    name: release at alpo.ge gives lean/
     if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     timeout-minutes: 30

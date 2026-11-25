@@ -1,5 +1,5 @@
 import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.FDMSubCompact
-import ReciprocityTheory.AdeleApproximation.AdeleIntA
+import ReciprocityTheory.AdeleApproximation
 
 noncomputable section
 

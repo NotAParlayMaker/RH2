@@ -1,5 +1,5 @@
 import Mathlib
-import Development.AutomorphicArithmetic.RepresentationRank.RepOfRank
+import Development.AutomorphicArithmetic.RepresentationRank
 import Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepPullback
 import Development.AutomorphicArithmetic.CommutativeAlgebra.ExistsClopRepOfIsSplitOfRank
 import Development.AutomorphicArithmetic.CommutativeAlgebra.ClopRepUnique

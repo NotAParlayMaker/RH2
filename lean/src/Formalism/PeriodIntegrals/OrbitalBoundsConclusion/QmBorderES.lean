@@ -1,4 +1,4 @@
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.BorderSignIdentity.SkipOneEqSuccAbove
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.BorderSignIdentity
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QmColExp
 import Formalism.PeriodIntegrals.OrbitalBoundsConclusion.QmRowExp
 

@@ -3,7 +3,7 @@ import Formalism.SharpRestriction.GrowthBounds.PlaneCountTheoremWithConstants
 import Formalism.SharpRestriction.GrowthBounds.InitialMinorTransposeMemHighestWeight
 import Formalism.LocalToGlobal.GroupLattices.FockModels.DualInclusionLattices
 import Formalism.LocalToGlobal.GroupLattices.FockModels.LoBlockActComp
-import Formalism.PeriodIntegrals.AdmissibleModel.WeylDim
+import Formalism.PeriodIntegrals.AdmissibleModel
 import Formalism.LocalToGlobal.GroupLattices.FockModels.Cartan
 import Formalism.LocalToGlobal.GroupLattices.FockModels.FlatModels.LetterWtAnti
 import Formalism.LocalToGlobal.GroupLattices.FockModels.TestSideFinal

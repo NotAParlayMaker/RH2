@@ -2,7 +2,7 @@ import Mathlib
 import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
 import Formalism.LocalRingCardinality.AdicCompletionLocal.LocTied
 import Formalism.SharpRestriction.LevelLetterCocycles.ChainRows
-import Development.AutomorphicSpectrum.Definitions.NonGaloisLines.TopLine
+import Development.AutomorphicSpectrum.Definitions.NonGaloisLines
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.TateH2IffAllFiniteExtensions
 import Development.AbelianVarietyTheory.Proofs.FoundationProofs.H2EquivOfTorsionCharacter
 

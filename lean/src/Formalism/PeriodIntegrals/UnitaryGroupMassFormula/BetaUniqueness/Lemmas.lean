@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.PeriodIntegrals.BetaLUniq
-import Lemmata.GeneralBFactThirdRest.Imports
+import Lemmata.GeneralBFactThirdRest
 
 noncomputable section
 

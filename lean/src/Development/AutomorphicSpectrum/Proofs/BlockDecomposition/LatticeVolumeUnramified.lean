@@ -1,6 +1,6 @@
 import Mathlib
 import Development.WeilBound.CoreStatements.AutomorphicKernels.SiegelWeilFormula.UnramifiedWhittaker.CProps
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicIntegersCompact.IsCompactAdicCompletionIntegers
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicIntegersCompact
 import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SelfDualVol
 
 noncomputable section

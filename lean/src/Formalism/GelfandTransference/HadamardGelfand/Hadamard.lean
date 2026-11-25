@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.GelfandTransference.Statement
-import Lemmata.DetNormLeProdRows.DetNormLeProdRows
+import Lemmata.DetNormLeProdRows
 
 open Matrix Finset
 open scoped ComplexOrder

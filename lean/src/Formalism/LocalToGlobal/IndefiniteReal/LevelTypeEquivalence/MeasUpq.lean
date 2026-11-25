@@ -1,5 +1,5 @@
 import Formalism.LocalRingCardinality.SpanPowerMembership.HaarDensityNeZero
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HaarScaling.MapEqSelfOfIterate
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HaarScaling
 import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.UnimodGA
 import Formalism.LocalToGlobal.IndefiniteReal.SubgroupCharExtensionOneApply
 import Formalism.LocalToGlobal.IndefiniteReal.LevelTypeEquivalence.MinfLev

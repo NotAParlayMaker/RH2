@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.SatakeDualWeyl.Statement
-import Lemmata.MiscLemmasI.Imports
+import Lemmata.MiscLemmasI
 
 open Matrix
 open scoped ComplexOrder

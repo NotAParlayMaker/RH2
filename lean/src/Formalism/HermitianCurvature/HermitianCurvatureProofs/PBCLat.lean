@@ -4,7 +4,7 @@ import Formalism.HermitianCurvature.HermitianCurvatureProofs.LatticeSummability
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LevelSizesJointMean
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.PeriodLatticeFactsSplitOfGeneral
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.LocalConditionsAndQuotientSplitting
-import Lemmata.GeneralBFactRightSide.Imports
+import Lemmata.GeneralBFactRightSide
 
 namespace Formalism.FourierDecayAlt.P.PBC
 

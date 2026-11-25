@@ -4,7 +4,7 @@ import Development.AbelianVarietyTheory.Definitions.Jets.SumIoPr
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.ContinuousMulMt
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.BesselNeZeroOfCyclicOrbit
 import Formalism.HermitianCurvature.HermitianCurvatureProofs.SigmaContOn
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerSmoothStability.ExistsFinStableOfMemSSup
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.LowerSmoothStability
 
 open BranchingSupport Formalism.FourierDecayAlt Formalism.FourierDecayAlt.ThreeDimData Matrix MeasureTheory Finset
 open scoped InnerProductSpace ENNReal

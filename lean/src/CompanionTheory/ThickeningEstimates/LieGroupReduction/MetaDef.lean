@@ -1,4 +1,4 @@
-import CompanionTheory.ThickeningEstimates.InnerProductFactorization.EqOfInner
+import CompanionTheory.ThickeningEstimates.InnerProductFactorization
 
 noncomputable section
 

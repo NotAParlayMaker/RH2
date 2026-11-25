@@ -6,7 +6,7 @@ import Formalism.LocalToGlobal.KernelLattices.KerMtPin
 import Formalism.LocalToGlobal.KernelLattices.JetFieldLeKR
 import Formalism.LocalToGlobal.KernelLattices.ColumnData.KerEntHyp
 import Formalism.LocalToGlobal.UnitaryNorms.CharTied
-import Formalism.LocalToGlobal.GroupLattices.StabilizerCount.StabiliserTrivialOfTiedChain
+import Formalism.LocalToGlobal.GroupLattices.StabilizerCount
 
 noncomputable section
 

@@ -5,7 +5,7 @@ import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.F
 import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.FundamentalDomains.OrthonormalFlagTranslateHolds
 import Mathlib.Analysis.Complex.Liouville
 import Mathlib.Analysis.Calculus.SmoothSeries
-import Lemmata.GeneralBFactVersion.Imports
+import Lemmata.GeneralBFactVersion
 
 namespace ReciprocityTheory.ChartRestriction.G.AR.Up.PoinPf
 

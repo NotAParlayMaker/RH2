@@ -1,5 +1,5 @@
 import Mathlib
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicIntegersCompact.IsCompactAdicCompletionIntegers
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicIntegersCompact
 
 open NumberField IsDedekindDomain IsDedekindDomain.HeightOneSpectrum
 

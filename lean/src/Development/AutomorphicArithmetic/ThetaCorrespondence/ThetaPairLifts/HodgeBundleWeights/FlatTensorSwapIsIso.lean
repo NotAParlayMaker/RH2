@@ -1,5 +1,5 @@
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.TamagawaNumberSpecialUnitary
-import Development.WeilBound.CoreStatements.ComplexPeriods.FlatDegreeResidues.FlatSlim
+import Development.WeilBound.CoreStatements.ComplexPeriods.FlatDegreeResidues
 import Development.WeilBound.CoreStatements.ResolutionCharZero.PlugResK
 import Development.AutomorphicArithmetic.ThetaCorrespondence.ThetaPairLifts.HodgeBundleWeights.FlatDegreeHypotheses
 

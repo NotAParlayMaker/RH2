@@ -19,7 +19,7 @@ import Development.WeilBound.ThetaLifts.LocalTheory.ToralCohomology.ArchimedeanM
 import Development.WeilBound.ThetaLifts.LocalTheory.StandardValuations.ExistsVol
 import Development.WeilBound.ThetaLifts.LocalTheory.LocAOf
 import Development.WeilBound.ThetaLifts.LocalTheory.LocBOf
-import Development.WeilBound.ThetaLifts.Reductions.TopPolarZero.PolZero
+import Development.WeilBound.ThetaLifts.Reductions.TopPolarZero
 import Development.WeilBound.ThetaLifts.Reductions.JoinTriOf
 import Development.WeilBound.ThetaLifts.SphericalLattices.SphericalClosure.EndCore
 import Development.WeilBound.ThetaLifts.SphericalLattices.ThetaKillsCuspFormsSpherical

@@ -1,7 +1,7 @@
 import Mathlib
 import GroundTheory.AutomorphicForms.GKModules.Casimir
 import GroundTheory.AutomorphicForms.HarishChandraRegularity.ExpHaar
-import GroundTheory.AutomorphicForms.HarishChandraInvariance.Compact
+import GroundTheory.AutomorphicForms.HarishChandraInvariance
 import GroundTheory.AutomorphicForms.DixmierMalliavin
 import GroundTheory.AutomorphicForms.GKModules.ParametricIntegral
 import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LintegralInvLeOfSupportCompactStatement

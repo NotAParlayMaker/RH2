@@ -4,7 +4,7 @@ import Formalism.SharpRestriction.GrowthBounds.ChartedClasses.TiedCls
 import Formalism.LocalToGlobal.GroupLattices.Joint0
 import Formalism.LocalToGlobal.PairingIndexBounds.OrthogonalChartLevels.GramLevelZeroEqReindex
 import Formalism.LocalToGlobal.HermitianForms.ExtraSym
-import Formalism.SharpRestriction.GrowthBounds.TwistedLevelAgreement.StepInTwK
+import Formalism.SharpRestriction.GrowthBounds.TwistedLevelAgreement
 import Formalism.LocalToGlobal.GroupLattices.ComparisonMaps.NatActRVtupR
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.ThetaSeriesDataHypothesesBelowMaximalLevel
 

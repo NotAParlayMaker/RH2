@@ -1,6 +1,6 @@
 import Mathlib
 import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.PolarizedGaloisRepNarrow7
-import CompanionTheory.EightfoldTheory.ZeroLevelTheory.LocalLanglands.Imports
+import CompanionTheory.EightfoldTheory.ZeroLevelTheory
 
 noncomputable section
 

@@ -1,5 +1,5 @@
 import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-import Formalism.LocalToGlobal.PlaceMapInjectivity.MapPlInjective
+import Formalism.LocalToGlobal.PlaceMapInjectivity
 
 noncomputable section
 

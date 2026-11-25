@@ -1,6 +1,6 @@
 import Mathlib
 import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.SemidirectVolume.ClosedStep
-import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicCompactDensity.ExistsNatLocal
+import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.AdicCompactDensity
 
 noncomputable section
 
