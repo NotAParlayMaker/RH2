@@ -56,4 +56,4 @@ The standard GitHub runners cannot do the full build. The workflow `build-small`
 
 ## Options
 
-`lakefile.toml` sets `maxHeartbeats = 4000000` and `--tstack=400000`. Four proofs set `maxHeartbeats 0`. Do not lower these values, or some proofs can stop with a time out.
+`lakefile.toml` sets `maxHeartbeats = 4000000` and `--tstack=400000`. No proof sets `maxHeartbeats 0` (the release had four; refer to `patches/0003-bound-uniformizer-heartbeats.patch` and `patches/0004-bound-last-heartbeats.patch`). Do not lower these values, or some proofs can stop with a time out.

@@ -941,5 +941,4 @@ theorem _root_.Formalism.FourierDecayAlt.P.CutBP.block_growth_bound_of_compact_c
 
 end Formalism.FourierDecayAlt.P.CutBP
 
-set_option maxHeartbeats 0 in
 cpt_copy_thms

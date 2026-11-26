@@ -1,0 +1,40 @@
+Drop `maxHeartbeats 0` from the two UniformizerClauseOfAdmitted proofs.
+
+`set_option maxHeartbeats 0` turns off Lean's time limit for a declaration, so
+a proof that loops or blows up would never stop. These two proofs do not need
+it. Measured by compiling each file with different limits after building its
+dependencies (about 580 modules, all of which compiled):
+
+  dual_lemma_of_admitted       fails at 850,000, passes at 906,250
+  local_lemmas_of_literature   fails at 687,500, passes at   750,000
+
+The project limit in lakefile.toml is 4,000,000, so each proof now runs under
+it with more than four times headroom. Both modules build with `lake build`.
+Nothing else in the files changes.
+
+diff --git a/lean/src/Formalism/SharpRestriction/LevelLetterCocycles/UniformizerClauseOfAdmitted.lean b/lean/src/Formalism/SharpRestriction/LevelLetterCocycles/UniformizerClauseOfAdmitted.lean
+index 1be2140d5..cde8c881e 100644
+--- a/lean/src/Formalism/SharpRestriction/LevelLetterCocycles/UniformizerClauseOfAdmitted.lean
++++ b/lean/src/Formalism/SharpRestriction/LevelLetterCocycles/UniformizerClauseOfAdmitted.lean
+@@ -45,8 +45,6 @@ theorem level_tools_of_admitted' (hA : admitted D HW F Cm CR CA CB CK) : Formali
+   Formalism.MainNotions.UnusedSlot80.tools_unramified_statement D HW F Cm ⟨fun l _ K s LL h => (hA.1 l K s LL h).2.2.1, laurent_clause_of_admitted' D HW F Cm hA,
+     uniformizer_clause_of_admitted D HW F Cm hA⟩
+ 
+-set_option maxHeartbeats 0 in
+-
+ theorem dual_lemma_of_admitted (hA : admitted D HW F Cm CR CA CB CK) (l : ℕ) [Fact l.Prime] (K LL : Loc.FinExt l)
+     (hg : Loc.Good K 1 LL) [NeZero (Module.finrank ℚ_[l] ↥(Loc.K0 K))] : LemmaDN ((HW l).W K 1 LL hg) := by
+   intro d T₁ T₂ F' b S η m hset
+diff --git a/lean/src/Formalism/SharpRestriction/LevelLetterCocycles/UniformizerClauseOfAdmittedAlt.lean b/lean/src/Formalism/SharpRestriction/LevelLetterCocycles/UniformizerClauseOfAdmittedAlt.lean
+index a71f3d880..d38907e6a 100644
+--- a/lean/src/Formalism/SharpRestriction/LevelLetterCocycles/UniformizerClauseOfAdmittedAlt.lean
++++ b/lean/src/Formalism/SharpRestriction/LevelLetterCocycles/UniformizerClauseOfAdmittedAlt.lean
+@@ -48,8 +48,6 @@ theorem level_tools_of_admitted' (hA : admitted D HW F Cm CR CA CB CK) : Formali
+   Formalism.MainNotions.UnusedSlot80.tools_unramified_statement D HW F Cm ⟨fun l _ K s LL h => (hA.1 l K s LL h).2.2.1, laurent_clause_of_admitted' D HW F Cm hA,
+     uniformizer_clause_of_admitted D HW F Cm hA⟩
+ 
+-set_option maxHeartbeats 0 in
+-
+ theorem local_lemmas_of_literature (hA : admitted D HW F Cm CR CA CB CK) (h23 : Formalism.MainNotions.LiftingTheory.adm23 D HW F)
+     (hHerr : Formalism.MainNotions.ElementDenominator.HerrClassNaturalExtension D.loc D.locA HW F) (a22 : Formalism.MainNotions.CrystallineLiftingBounds.adm22 D HW F)
+     (hFont : Formalism.MainNotions.InvariantsGenerators.LitFont D HW F) : cocyclesToWachVectorsBoundAtGoodExtensions D HW F := by
