@@ -38,6 +38,6 @@ check skipKernelTC 0 'skipKernelTC'
 check run_cmd 5 '(^|[^[:alnum:]_])run_cmd([^[:alnum:]_]|$)'
 check initialize 0 '^[[:space:]]*(builtin_)?initialize([^[:alnum:]_]|$)'
 check macro_syntax_elab 26 '^[[:space:]]*(elab|macro|syntax|macro_rules|elab_rules)([^[:alnum:]_]|$)'
-check maxHeartbeats_0 2 'maxHeartbeats[[:space:]]+0'
+check maxHeartbeats_0 0 'maxHeartbeats[[:space:]]+0'
 
 exit $fail

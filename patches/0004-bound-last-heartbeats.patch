@@ -1,0 +1,36 @@
+Drop the last two `maxHeartbeats 0` uses: PtfsShaFinal and CutMainCpt.
+
+`set_option maxHeartbeats 0` turns off Lean's time limit for a declaration.
+After 0003 two uses were left, and neither is needed. Measured by compiling
+each file with different limits after building its dependencies (about 1,950
+modules, all of which compiled):
+
+  shaDictFS (PtfsShaFinal.lean)    fails at 1,250,000, passes at 1,500,000
+  cpt_copy_thms (CutMainCpt.lean)  passes at 200,000
+
+The project limit in lakefile.toml is 4,000,000, so both now run under it with
+more than 2.6 times headroom. With this patch no proof in lean/src turns off
+the time limit. Nothing else in the files changes.
+
+diff --git a/lean/src/Development/WeilBound/CoreStatements/PublishedTheorems/PoitouTateDuality/PtfsShaFinal.lean b/lean/src/Development/WeilBound/CoreStatements/PublishedTheorems/PoitouTateDuality/PtfsShaFinal.lean
+index 638d8a8e4..62de3f3dc 100644
+--- a/lean/src/Development/WeilBound/CoreStatements/PublishedTheorems/PoitouTateDuality/PtfsShaFinal.lean
++++ b/lean/src/Development/WeilBound/CoreStatements/PublishedTheorems/PoitouTateDuality/PtfsShaFinal.lean
+@@ -23,7 +23,6 @@ theorem finite_dualRep' {G : Type} [Group G] (D A : Rep.{0} (ULift.{0} ℤ) G) [
+     Finite (dualRep D A) := inferInstance
+ end
+ 
+-set_option maxHeartbeats 0 in
+ theorem shaDictFS : ShaDictFS := by
+   intro K _ _ l _ r hl hr ζ hζ inv hinv S hS Av hAv μ hμ M _ _ _ _ _ ρ hρ
+   haveI : NeZero (l ^ r) := ⟨pow_ne_zero r (Fact.out : l.Prime).ne_zero⟩
+diff --git a/lean/src/Formalism/HermitianCurvature/HermitianCurvatureProofs/CutMainCpt.lean b/lean/src/Formalism/HermitianCurvature/HermitianCurvatureProofs/CutMainCpt.lean
+index b01c16dd9..e62430d1a 100644
+--- a/lean/src/Formalism/HermitianCurvature/HermitianCurvatureProofs/CutMainCpt.lean
++++ b/lean/src/Formalism/HermitianCurvature/HermitianCurvatureProofs/CutMainCpt.lean
+@@ -941,5 +941,4 @@ theorem _root_.Formalism.FourierDecayAlt.P.CutBP.block_growth_bound_of_compact_c
+ 
+ end Formalism.FourierDecayAlt.P.CutBP
+ 
+-set_option maxHeartbeats 0 in
+ cpt_copy_thms

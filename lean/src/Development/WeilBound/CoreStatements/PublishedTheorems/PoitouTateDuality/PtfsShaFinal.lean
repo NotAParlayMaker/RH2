@@ -23,7 +23,6 @@ theorem finite_dualRep' {G : Type} [Group G] (D A : Rep.{0} (ULift.{0} ℤ) G) [
     Finite (dualRep D A) := inferInstance
 end
 
-set_option maxHeartbeats 0 in
 theorem shaDictFS : ShaDictFS := by
   intro K _ _ l _ r hl hr ζ hζ inv hinv S hS Av hAv μ hμ M _ _ _ _ _ ρ hρ
   haveI : NeZero (l ^ r) := ⟨pow_ne_zero r (Fact.out : l.Prime).ne_zero⟩

@@ -16,7 +16,7 @@
 | `run_cmd` | a command that runs meta code | 5 | 5 | `BuildAid/D1.lean` to `D5.lean`; each one adds a namespace to the deny list of library suggestions |
 | `initialize` | code that runs when a module loads | 0 | 0 | |
 | `elab`, `macro`, `syntax` | new syntax or tactics | 26 | 26 | local tactic macros, for example `fin_index_simp`, `lbt`, `jet_tac`, `meq`; each one expands to normal tactics |
-| `maxHeartbeats 0` | no time limit for one proof | 2 | 2 | no effect on soundness; `patches/0003-bound-uniformizer-heartbeats.patch` removed two that were not needed |
+| `maxHeartbeats 0` | no time limit for one proof | 0 | 0 | the release had four; `patches/0003-bound-uniformizer-heartbeats.patch` and `patches/0004-bound-last-heartbeats.patch` removed them, since none was needed |
 
 ## Limits
 
